@@ -1,0 +1,56 @@
+
+   <div id="blog_wrapper">
+     <div class="container">
+       <div class="row">
+         <div class="span8">
+
+           <h1 class="header">
+             Blog
+             <hr>
+           </h1>
+
+           <div class="post">
+             <div class="row">
+               <div class="span3">
+                 <a href="blog-post.html">
+                   <img class="main_pic" alt="main pic" src="/images/pic_blog.png" />
+                 </a>
+               </div>
+               <div class="span4 info">
+                 <h3>thing</h3>
+                 <%= yield %>
+               </div>
+             </div>
+             <a href="blog-post.html" class="btn">more</a>
+           </div>
+
+           <div class="post">
+             <div class="row">
+               <div class="span3">
+                 <a href="blog-post.html">
+                   <img class="main_pic" alt="main pic" src="/images/pic_blog.png" />
+                 </a>
+               </div>
+               <div class="span4 info">
+                 <h3>next thing</h3>
+                 <%= yield %>
+               </div>
+             </div>
+             <a href="blog-post.html" class="btn">more</a>
+           </div>
+         </div>
+         <div class="span3 sidebar offset1">
+           <h4 class="sidebar_header">
+             Menu
+           </h4>
+
+           <ul class="sidebar_menu">
+             <% @menu.each do |url, title| %>
+             <li><a href="<%= url %>"><%= title %></a></li>
+             <% end %>
+           </ul>
+
+         </div>
+       </div>
+     </div>
+   </div>
