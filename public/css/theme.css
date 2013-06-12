@@ -4,7 +4,7 @@ html {
 body {
         position: relative;
         padding-top: 69px;
-        background: #DDDCE2 url(../images/content_bg.jpg) repeat left top;
+        background-color: #DDDCE2;
         -webkit-font-smoothing: antialiased;
         font-size: 14px;
         font-family: 'Lato', sans-serif !important;
@@ -138,10 +138,11 @@ input[type="color"]:focus,
         -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
         -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    background-image: none;
+
     filter: none;
     padding: 7px 0 8px 0;
     /*background: none repeat scroll 0 0 #242b35;*/
-    background: url("../images/nav_bg.jpg") 0 0 repeat;
 }
 .navbar .brand {
     font-size: 26px;
@@ -152,7 +153,7 @@ input[type="color"]:focus,
         /*margin-right: 40px;*/
 }
 .navbar .nav > li > a {
-        color: #F8F8F8;
+        color:  #1049A9;
         font-size: 15px;
         font-weight: bold;
     text-shadow: none;
@@ -163,7 +164,7 @@ input[type="color"]:focus,
         transition: all .2s linear;
 }
 .navbar .nav > li > a:hover {
-        color: #ccc;
+        color: #052C6E;
 }
 .navbar .nav > li.active > a,
 .navbar .nav > li.active:hover > a,
@@ -931,12 +932,14 @@ h1.logo {
   margin-top: -2px;
 }
 
+h1, h2, h3, h4 {
+  color: #052C6E;
+}
 #respiratory {
-  color: #F91826;
+  color: #9E0016;
 
 }
 
 #matters {
-  color: #5E809C;
-
+  color: #1049A9;
 }
