@@ -4,7 +4,7 @@ html {
 body {
         position: relative;
         padding-top: 69px;
-        background-color: #DDDCE2;
+        background-color: #fff;
         -webkit-font-smoothing: antialiased;
         font-size: 14px;
         font-family: 'Lato', sans-serif !important;
@@ -266,10 +266,10 @@ input[type="color"]:focus,
 #hero .carousel-control.right {
         right: 0px;
 }
-#hero .carousel-inner .item images {
+#hero .carousel-inner .item img {
         max-height: 349px;
 }
-#hero .carousel-inner .item.slide3 images {
+#hero .carousel-inner .item.slide3 img {
         display: block;
         margin: 0 auto;
 }
@@ -303,8 +303,11 @@ input[type="color"]:focus,
 /* features section */
 #features { }
 #features .container { }
-#features .feature images.thumb {
-        border: 3px solid #fff;
+img.illustration {
+  padding-right: 10px;
+}
+#features .feature img.thumb {
+        border: 3px solid #ddd;
         border-radius: 5px;
         box-shadow: 0px 0px 0px 1px #bcbcbc;
         display: block;
@@ -315,7 +318,7 @@ input[type="color"]:focus,
         -o-transition: all .2s linear;
         transition: all .2s linear;
 }
-#features .feature images.thumb:hover {
+#features .feature img.thumb:hover {
         box-shadow: 0px 0px 7px 1px #8cbe5b;
 }
 #features .feature h3 {
@@ -335,6 +338,7 @@ input[type="color"]:focus,
         color: #44474D;
         width: 85%;
         padding-left: 35px;
+        min-height: 10em;
 }
 #features .feature .btn {
         margin-top: 15px;
@@ -347,7 +351,7 @@ input[type="color"]:focus,
         margin-bottom: 70px;
 }
 #pricing .section_header hr {
-        width: 35%;
+        width: 25%;
 }
 #pricing .price_wrapper {
         background-color: #fafafa;
@@ -424,17 +428,16 @@ input[type="color"]:focus,
         border-top: 1px solid #BEC0C3;
         border-bottom: 2px solid white;
 }
-#testimonials .phrases_wrapper {
-        margin-bottom: 50px;
+#testimonials .phrases_wrapper, blockquote p {
         padding: 20px 10px 0px 10px;
 }
 #testimonials .phrases_wrapper .phrase { }
-#testimonials .phrases_wrapper .phrase p.testimony {
+#testimonials .phrases_wrapper .phrase p.testimony, blockquote {
         color:#3a3f46;
         font-style: italic;
-        font-size: 21px;
+        font-weight: 500;
         /*width: 60%;*/
-        line-height: 28px;
+        line-height: 1.6em;
         position: relative;
         float: left;
 }
@@ -449,7 +452,7 @@ input[type="color"]:focus,
 #testimonials .phrases_wrapper .phrase .pic {
         float: right;
 }
-#testimonials .phrases_wrapper .phrase .pic images {
+#testimonials .phrases_wrapper .phrase .pic img {
         max-width: 55px;
         float: left;
         margin-right: 20px;
@@ -465,7 +468,7 @@ input[type="color"]:focus,
 /* footer section */
 #footer {
         background: url("../images/footer_bg.jpg") 0 0 repeat;
-        min-height: 300px;
+        min-height: 100px;
         margin-top: 100px;
         color: #fff;
         padding-top: 35px;
@@ -476,7 +479,7 @@ input[type="color"]:focus,
 #footer .blog_post {
         /*width: 80%;*/
 }
-#footer .blog_post .images-circle {
+#footer .blog_post .img-circle {
         width: 120px;
         height: 120px;
         display: block;
@@ -556,7 +559,7 @@ input[type="color"]:focus,
         text-align: center;
         font-weight: bolder;
         color: #252b34;
-        margin-top: 80px;
+        margin-top: 40px;
         position: relative;
         margin-bottom: 40px;
 }
@@ -567,7 +570,7 @@ input[type="color"]:focus,
 .section_header hr {
         border-top: 1px solid #BEC0C3;
         border-bottom: 2px solid white;
-        width: 36%;
+        width: 25%;
         position: absolute;
 }
 .section_header hr.left { }
@@ -603,13 +606,13 @@ input[type="color"]:focus,
         #pricing .price_wrapper.standard {
                 left: -30px;
         }
-        #hero .carousel-inner .item.slide1 .span6 images {
+        #hero .carousel-inner .item.slide1 .span6 img {
                 margin-left: 15px;
         }
         #hero .carousel-inner .item.slide1 .span4 {
                 padding-left: 30px;
         }
-        #hero .carousel-inner .item.slide2 .span6 images {
+        #hero .carousel-inner .item.slide2 .span6 img {
                 margin-left: 30px;
         }
         #hero .item h1 {
@@ -693,7 +696,7 @@ input[type="color"]:focus,
                 font-size: 18px;
                 line-height: 18px;
         }
-        #hero .carousel-inner .item.slide2 images {
+        #hero .carousel-inner .item.slide2 img {
                 margin-top: 20px;
         }
         #testimonials .phrases_wrapper .phrase .pic .position {
@@ -770,7 +773,7 @@ input[type="color"]:focus,
         #hero .carousel-inner .item {
                 padding: 0px 70px;
         }
-        #hero .item images {
+        #hero .item img {
                 /*display: none;*/
                 width: 240px;
                 display: block;
@@ -802,7 +805,7 @@ input[type="color"]:focus,
         #footer .container {
                 padding: 0px 20px;
         }
-        #footer .blog_post .images-circle {
+        #footer .blog_post .img-circle {
                 float: left;
                 margin-right: 20px;
         }

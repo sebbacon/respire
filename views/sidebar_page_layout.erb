@@ -1,13 +1,17 @@
 
-   <div id="blog_wrapper" class="blog_post">
+   <div id="blog_wrapper" class="blog_post features_page">
      <div class="container">
        <div class="row">
          <div class="span8">
+       <h2 class="section_header">
+         <hr class="left visible-desktop">
+         <%= @title %>
+         <hr class="right visible-desktop">
+       </h2>
 
-           <h1 class="header">
-             <%= @title %>
-           </h1>
-           <img class="post_pic" src="/images/blog_post.jpg" />
+           <div class="span8">
+             <h3 class="intro"><%= @intro %></h3>
+           </div>
 
            <div class="post_content">
              <%= yield %>
@@ -15,16 +19,14 @@
          </div>
          <div class="span3 sidebar offset1">
            <% if !@menu.empty? %>
-           <h4 class="sidebar_header">
-             Menu
-           </h4>
+           <h4 class="sidebar_header"><%= @menu_title %></h4>
            <ul class="sidebar_menu">
              <% @menu.each do |url, title| %>
              <li><a href="<%= url %>"><%= title %></a></li>
              <% end %>
            </ul>
            <% end %>
-
+           <%= @image_tag %>
          </div>
        </div>
      </div>

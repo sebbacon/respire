@@ -9,6 +9,7 @@
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/css/theme.css">
     <link rel="stylesheet" type="text/css" href="/css/blog.css">
+    <link rel="stylesheet" type="text/css" href="/css/external-pages.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -19,23 +20,15 @@
         <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </a>
                 <a class="brand" href="/">
                   <h1 class="logo"><span id="respiratory">respiratory</span><span id="matters">matters</span></h1>
             </a>
-                <div class="nav-collapse collapse">
                 <ul class="nav pull-right">
-                    <li><a href="/courses/spirometry">Spirometry</a></li>
-                    <li><a href="/courses/copd">COPD</a></li>
-                    <li><a href="/courses/asthma">Asthma</a></li>
-                    <li><a href="/courses/diploma-courses">Diploma courses</a></li>
+                    <li><a href="/diplomas">Diplomas</a></li>
+                    <li><a href="/training-courses">Training courses</a></li>
+                    <li><a href="/consultancy">Consultancy</a></li>
                     <li><a href="/about-us">About us</a></li>
                 </ul>
-                </div>
         </div>
       </div>
     </div>
@@ -45,9 +38,12 @@
     <div id="footer">
         <div class="container">
             <div class="row copyright">
-                <div class="span2 offset5 copy">
-                    <p>2012 - Measure Template</p>
-                </div>
+              <p>
+                &copy; Respiratory Matters, <%= @copyright_year %><br>
+                Tel: 01231 123123123<br>
+                Email: <a href="mailto:info@respiratorymatters.com">info@respiratorymatters.com</a><br>
+
+              </p>
             </div>
         </div>
     </div>
