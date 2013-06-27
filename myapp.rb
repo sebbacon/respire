@@ -35,8 +35,9 @@ get '/' do
   end
 end
 
-get %r{(.*-image.jpg$)} do
+get %r{(.*-image.*$)} do
   path = params[:captures].first
+  content_type "image/#{path.split('.').last}"
   open(File.dirname(__FILE__) + "/views/#{path}") do |file|
     file.read
   end
@@ -58,6 +59,7 @@ get %r{/diplomas/?([\w-]+)?} do
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
     [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase]
   end
+  add_images(Dir.glob(File.dirname(__FILE__) + "/views/diplomas/*-image.*"))
   erb :sidebar_page_layout do
     markdown body
   end
@@ -79,7 +81,7 @@ get %r{/about-us/?([\w-]+)?} do
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
     [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase]
   end
-  add_images(Dir.glob(File.dirname(__FILE__) + "/views/about-us/#{page}*jpg"))
+  add_images(Dir.glob(File.dirname(__FILE__) + "/views/about-us/*-image.*"))
   erb :sidebar_page_layout do
     markdown body
   end

@@ -932,7 +932,9 @@ i.myspace { background-position: -233px -51px; }
 
 h1.logo {
   line-height: 39px;
+  font-size: 50px;
   margin-top: -2px;
+  letter-spacing:-0.07em;
 }
 
 h1, h2, h3, h4 {
@@ -945,4 +947,8 @@ h1, h2, h3, h4 {
 
 #matters {
   color: #1049A9;
+}
+
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner{
+ background-color: #efefef;
 }
