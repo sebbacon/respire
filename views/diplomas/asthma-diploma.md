@@ -1,4 +1,4 @@
-This course is suitable for Health Care Professionals (adults and paediatrics) who are caring for people with asthma.
+This course is suitable for Health Care Professionals  who are caring for people with asthma (adults and pediatrics).
 
 The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s Qualification and Credit Framework (QCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 

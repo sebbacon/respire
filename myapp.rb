@@ -2,8 +2,9 @@
 require 'sinatra'
 require 'titlecase'
 require 'rdiscount'
-require 'debugger'
+
 set :markdown, :layout_engine => :erb
+set :environment, :production
 
 helpers do
   def partial(page, options={})
@@ -28,7 +29,7 @@ def add_images(files)
 end
 
 get '/' do
-  @title = "Respire"
+  @title = "Home"
   @intro, body = get_intro_and_body(:index)
   erb :homepage_layout do
     erb body
@@ -51,13 +52,13 @@ get %r{/diplomas/?([\w-]+)?} do
     page = "index"
     @title = "Diplomas"
   else
-    @title = "#{page.gsub('-',' ').titlecase}"
+    @title = "#{page.gsub('-',' ').titlecase}".gsub("Copd", "COPD")
   end
   @intro, body = get_intro_and_body("diplomas/#{page}")
   @menu = Dir.glob(File.dirname(__FILE__) + "/views/diplomas/*md").map do |filename|
     next if filename.match /index.md$/
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
-    [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase]
+    [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase.gsub("Copd", "COPD")]
   end
   add_images(Dir.glob(File.dirname(__FILE__) + "/views/diplomas/*-image.*"))
   erb :sidebar_page_layout do
@@ -79,7 +80,7 @@ get %r{/about-us/?([\w-]+)?} do
   @menu = Dir.glob(File.dirname(__FILE__) + "/views/about-us/*md").map do |filename|
     next if filename.match /index.md$/
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
-    [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase]
+    [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase.gsub("Copd", "COPD")]
   end
   add_images(Dir.glob(File.dirname(__FILE__) + "/views/about-us/*-image.*"))
   erb :sidebar_page_layout do
