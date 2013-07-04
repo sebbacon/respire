@@ -1,6 +1,6 @@
-We currently provide accredited training courses in Asthma, Chronic Obstructive Pulmonary Disease and Spirometry.
+We currently provide training courses in Asthma, Chronic Obstructive Pulmonary Disease and Spirometry.
 
-Accredited training courses currently offered:
+Training courses currently offered:
 
 * Diagnosis and pharmacological management of adults with asthma
 * Diagnosis and pharmacological management of children with asthma
