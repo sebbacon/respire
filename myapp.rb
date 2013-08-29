@@ -2,8 +2,9 @@
 require 'sinatra'
 require 'titlecase'
 require 'rdiscount'
+require 'redcarpet'
 
-set :markdown, :layout_engine => :erb
+set :markdown, :tables => true, :layout_engine => :erb
 set :environment, :production
 
 helpers do
