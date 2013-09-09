@@ -11,3 +11,11 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to interpret spirometry tracings
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas for change.
+
+| Start date | Study days         | Submission | Area          | Venue | Cost  |
+| -----------|--------------------|------------|---------------|-------|-------|
+| 09/12/13   | 08/01/14, 09/01/14 | 09/06/14   | Huddersfield  | TBC   | £500  |
+| 06/01/14   | 05/02/14, 06/02/14 | 08/07/14   | Sheffield     | TBC   | £500  |
+| 12/05/14   | 17/06/14, 18/06/14 | 14/10/14   | Barnsley      | TBC   | £500  |
+
+If you would like to commission a spirometry diploma in your area, please contact us to discuss.
