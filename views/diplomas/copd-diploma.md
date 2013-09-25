@@ -17,4 +17,4 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 |03/03/14  | 08/04/14, 09/04/14| 05/08/14  | Nottingham   | TBC  | £500|
 |13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield | TBC  | £500|
 
-If you would like to commission a COPD Diploma in your area, please contact us to discuss.
+If you are interested in holding the COPD diploma in your locality or workplace, please contact us to discuss.
