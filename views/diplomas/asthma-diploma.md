@@ -18,4 +18,4 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 | 17/03/14        |22/04/14, 23/04/14   | 19/08/14   | Huddersfield   | TBC                          |£500
 | 07/05/14        |11/06/14, 12/06/14   | 08/10/14   | Sheffield      | TBC                          |£500
 
-If you would like to commission an Asthma Diploma in your area, please contact us to discuss.
+If you are interested in holding the asthma diploma in your locality, or at your workplace, please contact us to discuss.
