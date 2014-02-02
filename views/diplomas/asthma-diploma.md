@@ -19,8 +19,8 @@ Due to some recent funding we are currently able to offer our diplomas at a 50% 
 
 | Start Date      |Study days           | Submission | Area           | Venue                        |Cost   
 |-----------------|---------------------|------------|----------------|------------------------------|-------
-| 15/11/13        |15/01/14, 16/01/14   | 15/05/14   | Lincolnshire   | Forest Pines Hotel, Nr Brigg |CLOSED
-| 17/03/14        |22/04/14, 23/04/14   | 19/08/14   | Huddersfield   | TBC                          |£250
+| 17/03/14        |22/04/14, 23/04/14   | 19/08/14   | Huddersfield   |                              |FULL
+| 17/03/14        |16/04/14, 17/04/14   | 17/09/14   | Lincolnshire   | TBC                          |£250
 | 07/05/14        |11/06/14, 12/06/14   | 08/10/14   | Sheffield      | TBC                          |£250
 
 
