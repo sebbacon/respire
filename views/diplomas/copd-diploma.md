@@ -16,10 +16,10 @@ We are also able to run the diploma on an agreed date with a minimum of 5 people
 Due to some recent funding we are currently able to offer our diplomas at a 50% discount. For the next 12 months our diplomas will cost £250 per person.
 
 
-|Start date| Study days        | Submission| Area         | Venue| Cost|
-|----------|-------------------|-----------|--------------|------|-----|
-|18/12/13  | 28/01/14, 29/01/14| 18/06/14  | Manchester   | TBC  | FULL|
-|03/03/14  | 08/04/14, 09/04/14| 05/08/14  | Nottingham   | TBC  | £250|
-|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield | TBC  | £250|
+|Start date| Study days        | Submission| Area           | Venue| Cost|
+|----------|-------------------|-----------|--------------- |------|-----|
+|18/12/13  | 28/01/14, 29/01/14| 18/06/14  | Manchester     | TBC  | FULL|
+|03/03/14  | 08/04/14, 09/04/14| 05/08/14  | Lincolnshire   | TBC  | £250|
+|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield   | TBC  | £250|
 
 
