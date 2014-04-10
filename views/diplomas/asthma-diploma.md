@@ -12,7 +12,9 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas for change
 
-We are also able to run the diploma on an agreed date, with a minimum of 5 people and therefore if you are interested in running a diploma in your locality or workplace, please contact us to discuss.
+We run our courses with a maximum of 8 delegates and as a result all our planned courses for this year are already fully booked, however if you are interested in taking this diploma we are happy to run extra courses with a minimum of 5 people.
+
+Please contact us to discuss.
 
 Due to some recent funding we are currently able to offer our diplomas at a 50% discount. For the next 12 months, the diploma will cost £250 per person.
 
@@ -20,7 +22,7 @@ Due to some recent funding we are currently able to offer our diplomas at a 50% 
 | Start Date      |Study days           | Submission | Area           | Venue                        |Cost   
 |-----------------|---------------------|------------|----------------|------------------------------|-------
 | 17/03/14        |22/04/14, 23/04/14   | 19/08/14   | Huddersfield   |                              |FULL
-| 17/03/14        |16/04/14, 17/04/14   | 17/09/14   | Lincolnshire   | TBC                          |£250
-| 07/05/14        |11/06/14, 12/06/14   | 08/10/14   | Sheffield      | TBC                          |£250
+| 17/03/14        |16/04/14, 17/04/14   | 17/09/14   | Lincolnshire   | TBC                          |FULL
+| 07/05/14        |11/06/14, 12/06/14   | 08/10/14   | Sheffield      | TBC                          |FULL
 
 
