@@ -12,17 +12,15 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement   areas for change.
 
-We run our courses with a maximum of 8 delegates and as a result all our planned courses for this year are already fully booked, however if you are interested in taking this diploma we are happy to run extra courses with a minimum of 5 people.
+In addition to the Spirometry Diploma it is possible to be entered for the ARTP full certificate in Spirometry at the same time should you wish. There is an additional cost of £150 for registration with ARTP.
 
-Please contact us to discuss.
-
-Due to some recent funding we are currently able to offer our diplomas at a 50% discount. For the next 12 months, the cost for the diploma will be £250 per person.
+If you are interested in the diploma and/or the ARTP full certificate in Spirometry we are also able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interesed in this option please contact us to discuss your requirments.
 
 
-| Start date | Study days         | Submission | Area          | Venue | Cost  |
-| -----------|--------------------|------------|---------------|-------|-------|
-| 09/12/13   | 08/01/14, 09/01/14 | 09/06/14   | Huddersfield  | TBC   | FULL  |
-| 06/01/14   | 05/02/14, 06/02/14 | 08/07/14   | Sheffield     | TBC   | FULL  |
-| 12/05/14   | 17/06/14, 18/06/14 | 14/10/14   | Barnsley      | TBC   | FULL  |
+| Start date | Study days         | Submission | Area          | Venue | Cost  | With ARTP registration|
+| -----------|--------------------|------------|---------------|-------|-------|-----------------------|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | £475  | £655                  |
+| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475  | £655                  |
 
 
+Please contact us for further information and an application form.
