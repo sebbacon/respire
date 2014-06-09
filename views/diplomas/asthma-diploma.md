@@ -12,17 +12,15 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas for change
 
-We run our courses with a maximum of 8 delegates and as a result all our planned courses for this year are already fully booked, however if you are interested in taking this diploma we are happy to run extra courses with a minimum of 5 people.
 
-Please contact us to discuss.
+Our planned courses for 2014 are fully booked, but if you are interested in starting the asthma diploma this year, we are able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interested in this option please contact us to disuss your requirements.
 
-Due to some recent funding we are currently able to offer our diplomas at a 50% discount. For the next 12 months, the diploma will cost £250 per person.
+Course dates 2015
 
-
-| Start Date      |Study days           | Submission | Area           | Venue                        |Cost   
-|-----------------|---------------------|------------|----------------|------------------------------|-------
-| 17/03/14        |22/04/14, 23/04/14   | 19/08/14   | Huddersfield   | TBC                          |FULL
-| 17/03/14        |16/04/14, 17/04/14   | 17/09/14   | Lincolnshire   | TBC                          |FULL
-| 07/05/14        |11/06/14, 12/06/14   | 08/10/14   | Sheffield      | TBC                          |FULL
+| Start Date      |Study days           | Submission | Area           | Venue         |Cost |  
+|-----------------|---------------------|------------|----------------|---------------|-----|
+| 15/01/15        |04/02/15, 05/02/15   | 15/06/15   | Huddersfield   | TBC           |£475 |
+| 01/09/15        |06/10/15, 07/10/15   | 01/02/16   | Huddersfield   | TBC           |£475 |
 
 
+Please contact us for further information and an application form.
