@@ -12,13 +12,12 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement   areas for change.
 
 
-Due to some recent funding we are currently able to offer our diplomas at a 50% discount. For the next 12 months our diplomas will cost £250 per person.
-
+Our planned courses for 2014 are almost fully booked, but if you are interested in starting the diploma this year, we are able to deliver the course anywhere in the UK with a minuimum of 5 delegates. if you are interested in this option please countact us to discuss your requirements
 
 |Start date| Study days        | Submission| Area           | Venue| Cost|
 |----------|-------------------|-----------|--------------- |------|-----|
-|18/12/13  | 28/01/14, 29/01/14| 18/06/14  | Manchester     | TBC  | FULL|
-|03/03/14  | 08/04/14, 09/04/14| 05/08/14  | Lincolnshire   | TBC  | FULL|
-|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield   | TBC  | £250|
+|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield   | TBC  | £250| LAST FEW PLACES STILL AVAILABLE
+|11/03/15  | 08/04/15, 09/04/15| 11/08/15  | Huddersfield   | TBC  | £475|
+|03/08/15  | 08/09/15, 09/09/15| 05/01/16  | Huddersfield   | TBC  | £475|
 
-
+Please contact us for further information and an application form.
