@@ -12,15 +12,15 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement   areas for change.
 
-In addition to the Spirometry Diploma it is possible to be entered for the ARTP full certificate in Spirometry at the same time should you wish. There is an additional cost of £150 for registration with ARTP.
+In addition to the Spirometry Diploma it is possible to undertake the ARTP full certificate in Spirometry at the same time should you wish. You would need to attend both study days. For those wishing to undertake the ARTP/BTS Foundation Certificate it is possible just to attend the first study day and those who wish to complete the Interpretation Module this can be achieved by just attending day 2. There is an additional fee payable for each of these courses, when you register with ARTP.
 
-If you are interested in the diploma and/or the ARTP full certificate in Spirometry we are also able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interesed in this option please contact us to discuss your requirments.
+If you are interested in the diploma and/or the ARTP certificates in Spirometry we are also able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interesed in this option please contact us to discuss your requirments.
 
 
-| Start date | Study days         | Submission | Area          | Venue | Cost  | With ARTP registration|
-| -----------|--------------------|------------|---------------|-------|-------|-----------------------|
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | £475  | £655                  |
-| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475  | £655                  |
+| Start date | Study days         | Submission | Area          | Venue | Cost (diploma only)| With ARTP registration|
+| -----------|--------------------|------------|---------------|-------|--------------------|-----------------------|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | £475               | See Spirometry courses|
+| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475               | See Spirometry courses|
 
 
 Please contact us for further information and an application form.
