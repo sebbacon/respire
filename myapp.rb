@@ -67,6 +67,28 @@ get %r{/diplomas/?([\w-]+)?} do
   end
 end
 
+get %r{/courses/?([\w-]+)?} do
+  page = params[:captures] && params[:captures].first
+  puts "==#{page}##"
+  @menu_title = "Select a course:"
+  if page.nil?
+    page = "index"
+    @title = "Courses"
+  else
+    @title = "#{page.gsub('-',' ').titlecase}".gsub("Copd", "COPD")
+  end
+  @intro, body = get_intro_and_body("courses/#{page}")
+  @menu = Dir.glob(File.dirname(__FILE__) + "/views/courses/*md").map do |filename|
+    next if filename.match /index.md$/
+    relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
+    [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase.gsub("Copd", "COPD")]
+  end
+  add_images(Dir.glob(File.dirname(__FILE__) + "/views/courses/*-image.*"))
+  erb :sidebar_page_layout do
+    markdown body
+  end
+end
+
 get %r{/about-us/?([\w-]+)?} do
   page = params[:captures] && params[:captures].first
   if page.nil?
