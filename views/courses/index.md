@@ -11,5 +11,6 @@ Training courses currently offered:
 * Management of COPD in primary care
 * Performing spirometry
 * Interpretation of spirometry
+* ARTP Spirometry Training courses
 
 Any of these courses can be tailored or combined to meet your needs. If there are any subjects not currently listed that you would be interest in, please ask. There may be an option of funding. For further information [contact us](/about-us/contact-us)
