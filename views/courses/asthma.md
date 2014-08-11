@@ -1,4 +1,4 @@
-We offer three asthma courses, accredited by the Royal College of Nursing, in Adult asthma, Paediatric asthma, and Asthma management. All these courses are 3 hours long.
+We offer three asthma courses, accredited by NCFE, in Adult asthma, Paediatric asthma, and Asthma management. All these courses are 3 hours long. Alternatively learners can attend the Asthma Diploma Study days, without the summative assessment and receive a Certificate in Asthma.
 
 ## Diagnosis and management of Adult asthma in primary care
 
@@ -30,3 +30,6 @@ Learning outcomes:
 * To update practitioners on emergency pathways in primary care, to ensure that patient need is met, safely and competently.
 * Evaluate all aspects of the 3 days, diagnosis, treatment and management,  putting  theory into practice, and performing  gold standard asthma reviews in Primary Care, whilst empowering people to advocate for themselves by becoming active participants.
 * Identify any areas that require further development
+
+## Please contact us for further information
+
