@@ -1,4 +1,4 @@
-This is a two-day COPD course, accredited by the Royal College of Nursing, covering diagnosis and management of COPD. Each part is two hours long.
+Our COPD courses are accredited by NCFE and cover the diagnosis and management of COPD. These courses can be done as a COPD Diploma which includes a formal assessment through submission of an assignment, or leaners can choose to attend the Diploma Study days without taking the summative assessment and be awarded a Certificate in COPD
 
 ## Diagnosis of COPD in Primary Care
 
