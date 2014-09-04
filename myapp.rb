@@ -121,14 +121,13 @@ end
 
 
 def get_intro_and_body(template_name)
-  text = open(File.dirname(__FILE__) + "/views/#{template_name.to_s}.md").read.split("\n")
-  intro = nil
-  text.each do |para|
-    if !para.match(/^#/)
-      intro = para
-      break
-    end
+  text = open(File.dirname(__FILE__) + "/views/#{template_name.to_s}.md").read
+  match = text.match(/(^.*?)(^#.*)/m)
+  if match
+    intro, body = match.captures
+  else
+    intro = nil
+    body = text
   end
-  body = text - [intro]
-  return intro, body.join("\n")
+  return intro, body
 end
