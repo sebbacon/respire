@@ -19,7 +19,7 @@ If you are interested in the diploma and/or the ARTP certificates in Spirometry 
 
 | Start date | Study days         | Submission | Area          | Venue | Cost (diploma only)| With ARTP registration|
 | -----------|--------------------|------------|---------------|-------|--------------------|-----------------------|
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | £475               | See Spirometry courses|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL               | FULL                  |
 | 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475               | See Spirometry courses|
 
 
