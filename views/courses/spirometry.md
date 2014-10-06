@@ -11,7 +11,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Start date | Study days         | Submission | Area          | Venue | Cost (diploma only)| Full Certificate      |
 | -----------|--------------------|------------|---------------|-------|--------------------|-----------------------|
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | £475               |Additional £200 to ARTP|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL               |FULL                   |
 | 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475               |Additional £200 to ARTP| 
 
 #### Foundation Certificate in Spirometry
@@ -21,7 +21,7 @@ This certificate has been introduced to give a recognized national qualification
 
 | Study days        | Submission | Area          | Venue | Cost | Foundation Certificate      |
 |-------------------|------------|---------------|-------|------|-----------------------------|
-| 19/11/14          | 16/03/15   | Huddersfield  | TBC   | £150 |Additional £150 to ARTP      |
+| 19/11/14          | 16/03/15   | Huddersfield  | TBC   | £150 |FULL                         |
 | 10/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 |Additional £150 to ARTP      | 
 
 
@@ -34,7 +34,7 @@ This course can also be taken for clinicians who do not perfrom spirometry but n
 
 | Study days        | Submission | Area          | Venue | Cost | Foundation Certificate      |
 |-------------------|------------|---------------|-------|------|-----------------------------|
-| 20/11/14          | 16/03/15   | Huddersfield  | TBC   | £150 |Additional £50 to ARTP       |
+| 20/11/14          | 16/03/15   | Huddersfield  | TBC   | £150 |FULL                         |
 | 11/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 |Additional £50 to ARTP       | 
 
 Further information regarding ARTP/BTS courses can be found at www.artp.org.uk
