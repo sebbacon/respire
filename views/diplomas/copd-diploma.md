@@ -16,8 +16,8 @@ Our planned courses for 2014 are almost fully booked, but if you are interested 
 
 |Start date| Study days        | Submission| Area           | Venue| Cost|
 |----------|-------------------|-----------|--------------- |------|-----|
-|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield   | TBC  | £250| LAST FEW PLACES STILL AVAILABLE
-|11/03/15  | 08/04/15, 09/04/15| 11/08/15  | Huddersfield   | TBC  | £475|
+|13/06/14  | 08/07/14, 09/07/14| 11/11/14  | Huddersfield   | TBC  | FULL| 
+|11/03/15  | 08/04/15, 09/04/15| 11/08/15  | Huddersfield   | TBC  | Full|
 |03/08/15  | 08/09/15, 09/09/15| 05/01/16  | Huddersfield   | TBC  | £475|
 
 Please contact us for further information and an application form.
