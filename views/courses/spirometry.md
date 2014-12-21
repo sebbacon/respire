@@ -2,13 +2,13 @@
 
 #### ARTP/BTS Spirometry Courses and accredited training.
 
+As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP?BTS interpretation module. 
+
 All of our spirometry courses are accredited through our NCFE IIQ licence and can be done on their own merit without additional registration and certification with ARTP if you so wish. These accredited, but non ARTP qualifications do not include written assessment but you will be tested on clinical competencies during the study days. You may also decide to complete the Spirometry Diploma.(See Diploma section)
-
-
 
 ### Full Certificate in Spirometry
 
-Any healthcare practitioner being asked to perform and interpret spirometry as part of their routine clinical practice should look to complete this certificate. This is a recognized national qualification. This is a 2 day course. 
+Any healthcare practitioner being asked to perform and interpret spirometry as part of their routine clinical practice should look to complete this certificate. This is a 2 day course. 
 
 
 | Start date | Study days         | Submission | Area          | Venue |Accredited certificate | ARTP  | ARTP + Diploma|                   
@@ -18,7 +18,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 #### Foundation Certificate in Spirometry
 
-This certificate has been introduced to give a recognized national qualification for those practitioners who regularly perfrom spirometry WITHOUT interpreting the results. This is a practical competence certificate. This is a 1 day course.
+This certificate is suitable for practitioners who regularly perfrom spirometry WITHOUT interpreting the results. This is a practical competence certificate. This is a 1 day course.
 
 
 | Study days        | Submission | Area          | Venue | Accredited certificate| Foundation Certificate ARTP     |
@@ -29,7 +29,7 @@ This certificate has been introduced to give a recognized national qualification
 
 #### Interpretation Module
 
-This course offers the opportunity to become certified in interpretation. For those that already have the Foundation Certificate, successful completion of this course, will have the same weighting as the ARTP Full Certificate in Spirometry.
+For those that already have the ARTP Foundation Certificate, successful completion of this course with ARTP registration, will have the same weighting as the ARTP Full Certificate in Spirometry.
 
 This course can also be taken for clinicians who do not perfrom spirometry but need to interpret it, therefore requiring the knowledge on how to do this effectively as well as a background of understanding. This is a 1 day course.
 
