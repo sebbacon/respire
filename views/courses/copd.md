@@ -11,11 +11,10 @@ This course is suitable for Health Care Professionals who are caring for people 
 
 In addition to these planned dates, we are able to deliver our accredited certificate courses anywhere in the UK with a minimum of 10 delegates. If you are interested in this option, please contact us to discuss your requirements.
 
-| Study days          | Area          | Venue| Cost|
-|---------------------|---------------|------------| 
-| 08/04/15, 09/04/15  | Huddersfield  | TBC  | £250|
-| 08/09/15, 09/09/15  | Huddersfield  | TBC  | £250|
-
+|Study days           | Area         | Venue     |  Cost  |
+|---------------------|--------------|-----------|--------|
+|08/04/15, 09/04/15   | Huddersfield | TBC       | £250   |
+|08/09/15, 09/09/15   | Huddersfield | TBC       | £250   |
 
 
 
