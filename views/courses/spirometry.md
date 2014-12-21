@@ -16,7 +16,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 | 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL                  |FULL    | FULL           |
 | 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £250                  |£550    | £675           |
 
-#### ARTP/BTSFoundation Certificate in Spirometry
+#### Foundation Certificate in Spirometry
 
 This certificate has been introduced to give a recognized national qualification for those practitioners who regularly perfrom spirometry WITHOUT interpreting the results. This is a practical competence certificate. This is a 1 day course.
 
@@ -27,7 +27,7 @@ This certificate has been introduced to give a recognized national qualification
 | 10/06/15          | 06/10/15   | Huddersfield  | TBC   | £125                  |£350                             | 
 
 
-#### ARTP/BTS Interpretation Module
+#### Interpretation Module
 
 This course offers the opportunity to become certified in interpretation. For those that already have the Foundation Certificate, successful completion of this course, will have the same weighting as the ARTP Full Certificate in Spirometry.
 
