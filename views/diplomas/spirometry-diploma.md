@@ -1,4 +1,4 @@
-This course is suitable for Health Care Professionals who are performing and interpreting spirometry.
+This course is suitable for Health Care Professionals who are performing and interpreting spirometry. If you are interested in the ARTP courses, please refer to our Training Course section
 
 The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s Qualification and Credit Framework (QCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 
@@ -12,15 +12,13 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement   areas for change.
 
-In addition to the Spirometry Diploma it is possible to undertake the ARTP full certificate in Spirometry at the same time should you wish. You would need to attend both study days. For those wishing to undertake the ARTP/BTS Foundation Certificate it is possible just to attend the first study day and those who wish to complete the Interpretation Module this can be achieved by just attending day 2. There is an additional fee payable for each of these courses, when you register with ARTP.
-
-If you are interested in the diploma and/or the ARTP certificates in Spirometry we are also able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interesed in this option please contact us to discuss your requirments.
+In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. If you are interested in this option, please contact us to discuss your requirements.
 
 
-| Start date | Study days         | Submission | Area          | Venue | Cost (diploma only)| With ARTP registration|
-| -----------|--------------------|------------|---------------|-------|--------------------|-----------------------|
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL               | FULL                  |
-| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475               | See Spirometry courses|
+| Start date | Study days         | Submission | Area          | Venue | Cost   |
+| -----------|--------------------|------------|---------------|-------|--------|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL   |
+| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475   | 
 
 
 Please contact us for further information and an application form.
