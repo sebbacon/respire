@@ -5,13 +5,9 @@ This accredited course is suitable for Health Care Professionals who are caring 
 ###Learning outcomes
 
 *Recognise the signs and symptoms of asthma.
-
-*Be able to use appropriate tests to assist in confirming diagnosis as per BTS/SIGN guidelines
-
-*Understand the use of appropriate pharmacological and non-pharmacological management of an person with asthma as per BTS/SIGN  and as per BNF and BNF-C
-
-*Understand emergency pathways in primary care, to ensure that patient need is met safely and competently
-
+*Be able to use appropriate tests to assist in confirming diagnosis as per BTS/SIGN guidelines.
+*Understand the use of appropriate pharmacological and non-pharmacological management of an person with asthma as per BTS/SIGN  and as per BNF and BNF-C.
+*Understand emergency pathways in primary care, to ensure that patient need is met safely and competently.
 *Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
 In addition to our planned courses, we are able to deliver our courses anywhere in the UK with a minimum of 10 delegates. If you are interested in this option pease contact us to discuss your requirements.
