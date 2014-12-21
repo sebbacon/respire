@@ -13,13 +13,13 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas for change
 
 
-Our planned courses for 2014 are fully booked, but if you are interested in starting the asthma diploma this year, we are able to deliver the course anywhere in the UK with a minimum of 5 delegates. If you are interested in this option please contact us to disuss your requirements.
+In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. If you are interested in this option pease contact us to discuss your requirements.
 
 Course dates 2015
 
 | Start Date      |Study days           | Submission | Area           | Venue         |Cost |  
 |-----------------|---------------------|------------|----------------|---------------|-----|
-| 15/01/15        |04/02/15, 05/02/15   | 15/06/15   | Huddersfield   | TBC           |£475 |
+| 15/01/15        |04/02/15, 05/02/15   | 15/06/15   | Huddersfield   | TBC           |FULL |
 | 01/09/15        |06/10/15, 07/10/15   | 01/02/16   | Huddersfield   | TBC           |£475 |
 
 
