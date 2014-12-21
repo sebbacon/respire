@@ -1,4 +1,4 @@
-### Certificate in the diagnosis and management of asthma
+### Certificate in the Diagnosis and Management of asthma
 
 This accredited course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics).
 
@@ -15,7 +15,7 @@ This accredited course is suitable for Health Care Professionals who are caring 
 *Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
 
-In addition to our planned courses, we are able to deliver our courses anywhere in the UK with a minimum of 10 delegates. If you are interested in this option pease contact us to discuss your requirements.
+In addition to our planned courses, we are able to deliver our accredited certificate courses anywhere in the UK with a minimum of 10 delegates. If you are interested in this option pease contact us to discuss your requirements.
 
 Course dates 2015
 
