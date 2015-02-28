@@ -8,7 +8,7 @@ This accredited course is suitable for Health Care Professionals who are caring 
 
 *Be able to use appropriate tests to assist in confirming diagnosis as per national guidelines.
 
-*Understand the use of appropriate pharmacological and non-pharmacological management of an person with asthma.
+*Understand the use of appropriate pharmacological and non-pharmacological management of a person with asthma.
 
 *Understand emergency pathways in primary care, to ensure that patient need is met safely and competently.
 
