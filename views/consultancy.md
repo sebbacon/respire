@@ -11,4 +11,9 @@ Omar Patel, Clinical Director, Interface Clinical Services:
 
 Nicola Greaves Project Manager Asthma, British Lung Foundation:
 
->‘I work for a respiratory charity and I met with Sophie to discuss the start-up of my asthma project. Sophie’s knowledge of respiratory is excellent, and because I am a non-medic, she helped to explain asthma management in an easy to understand way which gave me the confidence to initiate the project. Sophie is a fantastic source of help whenever I have needed advice on my project – thank you Sophie’
+>‘I work for a respiratory charity and I met with Sophie to discuss the start-up of my asthma project. Sophie’s knowledge of respiratory is excellent, and because I am a non-medic, she helped to explain asthma management in an easy to understand way which gave me the confidence to initiate the project. Sophie is a fantastic source of help whenever I have needed advice on my project – thank you Sophie"
+
+Hazel Carsley. Clinical Commissioning Executive
+
+>'Sophie Toor is a very enthusiastic and effective communicator. Her passion for improving the clinical management of children with Asthma is clearly evident throughout her work .Sophie is very knowledgeable and yet flexible in her approach and  has led  the successful delivery of training in childhood asthma, to our  Gp practices, within Calderdale, September to March 2014. The project she developed and delivered evaluated well, and we hope to see positive outcomes in the future in Calderdale , as we focus  on  our young population with respiratory conditions."
+
