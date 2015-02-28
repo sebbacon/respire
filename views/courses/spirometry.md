@@ -43,6 +43,4 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 Please contact us for further information and an application form.
 
-Further information regarding ARTP/BTS courses and the required assessment can be found at www.artp.org.uk
-
 In addition to the above dates, where there is a minimum of 8 people we are happy to deliver within your locality. We are also able to offer 1-2-1 training sessions resulting in any of the above qualifications. If you are interested in either of these options, please contact us to discuss your requirements.
