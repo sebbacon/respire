@@ -2,7 +2,7 @@
 
 #### ARTP/BTS Spirometry Courses and accredited training.
 
-As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. 
+As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk
 
 #### Accredited training (Non-ARTP)
 
