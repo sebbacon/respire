@@ -12,13 +12,13 @@ The course's measurable learning outcomes have been benchmarked at level 4, usin
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement   areas for change.
 
-In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. If you are interested in this option, please contact us to discuss your requirements.
+In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. We are also able to offer 1-2-1 traiing sessions resulting in the spirometry diploma. If you are interested in either of these options, please contact us to discuss your requirements.
 
 
-| Start date | Study days         | Submission | Area          | Venue | Cost   |
-| -----------|--------------------|------------|---------------|-------|--------|
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL   |
-| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £475   | 
+| Start date | Study days         | Submission | Area          | Venue | Cost        |
+| -----------|--------------------|------------|---------------|-------|-------------|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL        |
+| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £570 inc VAT| 
 
 
 Please contact us for further information and an application form.
