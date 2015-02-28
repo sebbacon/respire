@@ -15,7 +15,7 @@ This accredited course is suitable for Health Care Professionals who are caring 
 *Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
 
-In addition to our planned courses, we are able to deliver our accredited certificate courses anywhere in the UK with a minimum of 10 delegates. There is also an option for 1-2-1 training sessions. If you are interested in either of these options please contact us to discuss your requirements.
+In addition to our planned courses, we are able to deliver our accredited certificate courses anywhere in the UK with a minimum of 10 delegates. There is also an option for 1-2-1 training sessions resulting in the above qualification. If you are interested in either of these options please contact us to discuss your requirements.
 
 Course dates 2015
 
