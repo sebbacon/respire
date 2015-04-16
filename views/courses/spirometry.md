@@ -2,7 +2,7 @@
 
 #### ARTP/BTS Spirometry Courses and accredited training.
 
-As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk
+As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk. The prices quoted include the fees apyable to ARTP.
 
 #### Accredited training (Non-ARTP)
 
@@ -13,10 +13,10 @@ All of our spirometry courses are accredited through our NCFE IIQ licence and ca
 Any healthcare practitioner being asked to perform and interpret spirometry as part of their routine clinical practice should look to complete this certificate. This is a 2 day course. 
 
 
-| Start date | Study days         | Submission | Area          | Venue |Accredited certificate| ARTP         | ARTP + Diploma |                   
-| -----------|--------------------|------------|---------------|-------|----------------------|--------------|--------------- |
-| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL                 |FULL          | FULL           |
-| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £300 inc VAT         |£550 inc VAT  | £700 inc VAT   |          
+| Start date | Study days         | Submission | Area          | Venue |certificate    | ARTP              | ARTP + Diploma   |                   
+| -----------|--------------------|------------|---------------|-------|---------------|-------------------|------------------|
+| 16/10/14   | 19/11/14, 20/11/14 | 16/03/15   | Huddersfield  | TBC   | FULL          |FULL               | FULL             |
+| 06/05/15   | 10/06/15, 11/06/15 | 06/10/15   | Huddersfield  | TBC   | £300          |£470 +£200 to ARTP |£600 + £200 ARTP  |          
 
 #### Foundation Certificate in Spirometry
 
@@ -26,7 +26,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 | Study days        | Submission | Area          | Venue | Accredited certificate| Foundation Certificate ARTP     |
 |-------------------|------------|---------------|-------|-----------------------|---------------------------------|
 | 19/11/14          | 16/03/15   | Huddersfield  | TBC   | FULL                  |FULL                             |
-| 10/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 inc VAT          |£380   inc VAT                   | 
+| 10/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 inc VAT          |£230 + £150 ARTP                  | 
 
 
 #### Interpretation Module
@@ -39,7 +39,7 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 | Study days        | Submission | Area          | Venue | Accredited certificate    | Interpretation Certificate ARTP |
 |-------------------|------------|---------------|-------|---------------------------|---------------------------------|
 | 20/11/14          | 16/03/15   | Huddersfield  | TBC   | FULL                      |FULL                             |
-| 11/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 inc VAT              |£280 inc VAT                     | 
+| 11/06/15          | 06/10/15   | Huddersfield  | TBC   | £150 inc VAT              |£230 + £50 ARTP                  | 
 
 Please contact us for further information and an application form.
 
