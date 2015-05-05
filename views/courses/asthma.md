@@ -19,10 +19,11 @@ In addition to our planned courses, we are able to deliver our accredited certif
 
 Course dates 2015
 
-|Study days	        |	Area         |Venue  |Cost         |	
-|-------------------|--------------|-------|------------ |
-|04/02/15, 05/02/15 |Huddersfield  |TBC	   |FULL         |
-|06/10/15, 07/10/15 |Huddersfield  |TBC	   |£300 inc VAT |
+|Study days	        |	Area          | Venue  |Cost          |	
+|-------------------|---------------|--------|--------------|
+|06/10/15, 07/10/15 | Huddersfield  | TBC	   | £300 inc VAT |
+|18/04/16, 19/04/16 | Huddersfield  | TBC	   | £300 inc VAT |
+|10/10/16, 11/10/16 | Huddersfield  | TBC    | £300 inc VAT |
 
 Please contact us for further information and an application form.
 
