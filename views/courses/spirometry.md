@@ -31,7 +31,7 @@ We are also able to deliver courses anywhere in the country. Please contact us t
 
 | Course                             | Price          | Additional Payment to ARTP|          
 |------------------------------------|----------------|---------------------------|
-| NCFE accredited Full Certificate   | £350 inc VAT   | Nil                       | 
+| NCFE accredited Full Certificate   | £300 inc VAT   | Nil                       | 
 | ARTP Full Certificate              | £420 inc VAT   | £200                      |
 | Spirometry Diploma                 | £570 inc VAT   | Nil                       |
 | Diploma plus ARTP Full Certificate | £570 Inc VAT   | £200                      |
