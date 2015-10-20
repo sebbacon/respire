@@ -1,6 +1,6 @@
 This course is suitable for Health Care Professionals who are caring for people with COPD.
 
-The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s Qualification and Credit Framework (QCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
+The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications Framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 
 You also have the option of completing the Certificate in COPD. Formative assessments are completed throughout the study days but there is no formal written assessement to submit. Please see our training course section.
 
@@ -18,7 +18,7 @@ In addition to our planned courses, we are able to deliver our diplomas anywhere
 
 | Start date| Study days        | Submission| Area           | Venue| Cost         |
 |-----------|-------------------|-----------|--------------- |------|--------------| 
-| 03/08/15  | 08/09/15, 09/09/15| 05/01/16  | Huddersfield   | TBC  | £570 inc VAT |
+| 03/08/15  | 08/09/15, 09/09/15| 05/01/16  | Huddersfield   | TBC  | FULL         |
 | 01/02/16  | 15/03/16, 16/03/16| 03/08/16  | Huddersfield   | TBC  | £570 inc VAT |
 | 08/08/16  | 07/09/16, 08/09/16| 08/02/17  | Huddersfield   | TBC  | £570 inc VAT |
 
