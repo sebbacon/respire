@@ -1,6 +1,6 @@
 This course is suitable for Health Care Professionals  who are caring for people with asthma (adults and paediatrics).
 
-The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s Qualification and Credit Framework (QCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
+The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 
 If you would rather there is the option of completing an accredited Certificate in Asthma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
 
@@ -21,7 +21,7 @@ Course dates 2015
 
 | Start Date      | Study days           | Submission | Area           | Venue         | Cost         |  
 |-----------------|----------------------|------------|----------------|---------------|--------------|
-| 01/09/15        | 06/10/15, 07/10/15   | 01/02/16   | Huddersfield   | TBC           | £570 inc VAT |
+| 01/09/15        | 06/10/15, 07/10/15   | 01/02/16   | Huddersfield   | TBC           | FULL         |
 | 18/03/16        | 18/04/16, 19/04/16   | 19/09/16   | Huddersfield   | TBC           | £570 inc VAT |
 | 12/09/16        | 10/10/16, 11/10/16   | 14/02/17   | Huddersfield   | TBC           | £570 inc VAT |
 
