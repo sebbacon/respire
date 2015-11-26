@@ -19,13 +19,13 @@ In addition to our planned courses, we are able to deliver our diplomas anywhere
 
 | Start date | Study days         | Submission | Area          | Venue | Cost         | With ARTP |  
 | -----------|--------------------|------------|---------------|-------|--------------|-----------|
-| 10/05/14   | 10/06/15, 11/06/14 | 06/10/15   | Huddersfield  | TBC   | FULL         | FULL      |
-| 29/08/15   | 29/09/15, 30/09/15 | 1/03/16    | Huddersfield  | TBC   | £570 inc VAT | FULL      | 
-| 21/09/15   | 21/10/15, 22/10/15 | 28/03/16   | Huddersfield  | TBC   | £570 inc VAT | FULL      |
-| 16/10/15   | 16/11/15, 17/11/15 | 16/04/16   | Huddersifled  | TBC   | £570 inc VAT | FULL      |
-| 08/11/15   | 08/12/15, 09/12/15 | 08/05/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
-| 20/12/15   | 20/01/16, 21/01/16 | 20/06/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
-| 08/01/16   | 08/02/16, 09/02/16 | 08/07/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
-| 07/02/16   | 07/03/16, 08/03/16 | 07/08/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
+| 08/11/15   | 08/12/15, 09/12/15 | 08/05/16   | Huddersfield  | TBC   | FULL         | FULL      |
+| 20/12/15   | 20/01/16, 21/01/16 | 21/06/16   | Huddersfield  | TBC   | £570 inc VAT | £770      | 
+| 08/01/16   | 08/02/16, 09/02/16 | 09/07/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
+| 07/02/16   | 07/03/16, 08/03/16 | 08/08/16   | Huddersifled  | TBC   | £570 inc VAT | £770      |
+| 20/03/16   | 20/04/16, 21/04/16 | 21/10/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
+| 17/04/16   | 17/05/16, 18/05/16 | 20/10/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
+| 22/05/16   | 22/06/16, 23/06/16 | 23/11/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
+| 11/06/16   | 11/07/16, 12/07/16 | 12/12/16   | Huddersfield  | TBC   | £570 inc VAT | £770      |
 
 Please contact us for further information and an application form.
