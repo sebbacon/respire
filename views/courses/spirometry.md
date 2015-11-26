@@ -16,14 +16,14 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificates) | Area         | Venue   | Places    |
 |--------------------------------|--------------|---------|-----------|
-| 10th/11th June  2015           | Huddersfield | TBC     | Full      |
-| 29th/30th Sept  2015           | Huddersfield | TBC     | Available |
-| 21st/22nd Oct   2015           | Huddersifled | TBC     | Available |
-| 16th/17th Nov   2015           | Huddersfield | TBC     | Available |
-| 8th/9th   Dec   2015           | Huddersfield | TBC     | Available |
+| 8th/9th   Dec   2015           | Huddersfield | TBC     | Full      |
 | 20th/21st Jan   2016           | Huddersfield | TBC     | Available |
-| 8th/9th   Feb   2016           | Huddersfield | TBC     | Available |
-| 7th/8th   March 2016           | Huddersifled | TBC     | Available |
+| 8th/9th   Feb   2016           | Huddersifled | TBC     | Available |
+| 7th/8th   March 2016           | Huddersfield | TBC     | Available |
+| 20th/21st April 2016           | Huddersfield | TBC     | Available |
+| 17th/18th May   2016           | Huddersfield | TBC     | Available |
+| 22nd/23rd June  2016           | Huddersfield | TBC     | Available |
+| 11th/12th July  2016           | Huddersifled | TBC     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -45,14 +45,14 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         | Venue   | Places    |
 |--------------------------|--------------|---------|-----------|
-| 10th June 2015           | Huddersfield | TBC     | Full      |
-| 29th Sept 2015           | Huddersfield | TBC     | Available |
-| 21stOct 2015             | Huddersifled | TBC     | Available |
-| 16th Nov 2015            | Huddersfield | TBC     | Available |
-| 8th   Dec 2015           | Huddersfield | TBC     | Available |
-| 20th Jan 2016            | Huddersfield | TBC     | Available |
-| 8th   Feb 2016           | Huddersfield | TBC     | Available |
-| 7th   March 2016         | Huddersifled | TBC     | Available |
+| 8th Dec    2016          | Huddersfield | TBC     | Full      |
+| 20th Jan   2016          | Huddersfield | TBC     | Available |
+| 8th Feb    2016          | Huddersifled | TBC     | Available |
+| 7th March  2016          | Huddersfield | TBC     | Available |
+| 20th April 2016          | Huddersfield | TBC     | Available |
+| 17th May   2016          | Huddersfield | TBC     | Available |
+| 22nd June  2016          | Huddersfield | TBC     | Available |
+| 11th July  2016          | Huddersifled | TBC     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -74,14 +74,14 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         | Venue   | Places    |
 |-----------------------------|--------------|---------|-----------|
-| 11th June  2015             | Huddersfield | TBC     | Full      |
-| 30th Sept  2015             | Huddersfield | TBC     | Available |
-| 22nd Oct   2015             | Huddersifled | TBC     | Available |
-| 17th Nov   2015             | Huddersfield | TBC     | Available |
-| 9th  Dec   2015             | Huddersfield | TBC     | Available |
+| 9th Dec    2015             | Huddersfield | TBC     | Full      |
 | 21st Jan   2016             | Huddersfield | TBC     | Available |
-| 9th  Feb   2016             | Huddersfield | TBC     | Available |
-| 8th  March 2016             | Huddersifled | TBC     | Available |
+| 9th Feb    2016             | Huddersifled | TBC     | Available |
+| 8th March  2016             | Huddersfield | TBC     | Available |
+| 21st April 2016             | Huddersfield | TBC     | Available |
+| 18th May   2016             | Huddersfield | TBC     | Available |
+| 23nd June  2016             | Huddersfield | TBC     | Available |
+| 12th July  2016             | Huddersifled | TBC     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
