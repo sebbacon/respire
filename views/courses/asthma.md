@@ -21,7 +21,7 @@ Course dates 2015
 
 |Study days	        |	Area          | Venue  |Cost          |	
 |-------------------|---------------|--------|--------------|
-|06/10/15, 07/10/15 | Huddersfield  | TBC	   | £300 inc VAT |
+|06/10/15, 07/10/15 | Huddersfield  | TBC	   | Full |
 |18/04/16, 19/04/16 | Huddersfield  | TBC	   | £300 inc VAT |
 |10/10/16, 11/10/16 | Huddersfield  | TBC    | £300 inc VAT |
 
