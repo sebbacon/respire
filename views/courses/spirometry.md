@@ -17,7 +17,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 | Study days (Full Certificates) | Area         | Venue   | Places    |
 |--------------------------------|--------------|---------|-----------|
 | 8th/9th   Dec   2015           | Huddersfield | TBC     | Full      |
-| 20th/21st Jan   2016           | Huddersfield | TBC     | Available |
+| 20th/21st Jan   2016           | Huddersfield | TBC     | Full      |
 | 8th/9th   Feb   2016           | Huddersifled | TBC     | Available |
 | 7th/8th   March 2016           | Huddersfield | TBC     | Available |
 | 20th/21st April 2016           | Huddersfield | TBC     | Available |
@@ -46,7 +46,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 | Study days (Foundation)  | Area         | Venue   | Places    |
 |--------------------------|--------------|---------|-----------|
 | 8th Dec    2016          | Huddersfield | TBC     | Full      |
-| 20th Jan   2016          | Huddersfield | TBC     | Available |
+| 20th Jan   2016          | Huddersfield | TBC     | Full      |
 | 8th Feb    2016          | Huddersifled | TBC     | Available |
 | 7th March  2016          | Huddersfield | TBC     | Available |
 | 20th April 2016          | Huddersfield | TBC     | Available |
@@ -75,7 +75,7 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 | Study days (Interpretation) | Area         | Venue   | Places    |
 |-----------------------------|--------------|---------|-----------|
 | 9th Dec    2015             | Huddersfield | TBC     | Full      |
-| 21st Jan   2016             | Huddersfield | TBC     | Available |
+| 21st Jan   2016             | Huddersfield | TBC     | Full      |
 | 9th Feb    2016             | Huddersifled | TBC     | Available |
 | 8th March  2016             | Huddersfield | TBC     | Available |
 | 21st April 2016             | Huddersfield | TBC     | Available |
