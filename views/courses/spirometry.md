@@ -61,7 +61,7 @@ We are also able to deliver courses anywhere in the country. Please contact us t
 | Course                                  | Price          | Additional Payment to ARTP|          
 |-----------------------------------------|----------------|---------------------------|
 | NCFE accredited Performance Certificate | £150 inc VAT   | Nil                       | 
-| ARTP Foundation Certificate             | £210 inc VAT   | £180                      |
+| ARTP Foundation Certificate             | £210 inc VAT   | £150                      |
 
 
 #### Interpretation Module
