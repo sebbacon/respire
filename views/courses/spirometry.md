@@ -2,7 +2,7 @@
 
 #### ARTP/BTS Spirometry Courses
 
-As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk. 
+As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk. For those people who have already attended accredited spirometry training there is the option to attend a spirometry refresher day.
 
 #### Accredited training (Non-ARTP)
 
@@ -18,8 +18,8 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |--------------------------------|--------------|---------|-----------|
 | 8th/9th   Dec   2015           | Huddersfield | TBC     | Full      |
 | 20th/21st Jan   2016           | Huddersfield | TBC     | Full      |
-| 8th/9th   Feb   2016           | Huddersifled | TBC     | Available |
-| 7th/8th   March 2016           | Huddersfield | TBC     | Available |
+| 8th/9th   Feb   2016           | Huddersifled | TBC     | Full      |
+| 7th/8th   March 2016           | Huddersfield | TBC     | Full      |
 | 20th/21st April 2016           | Huddersfield | TBC     | Available |
 | 17th/18th May   2016           | Huddersfield | TBC     | Available |
 | 22nd/23rd June  2016           | Huddersfield | TBC     | Available |
@@ -47,8 +47,8 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 |--------------------------|--------------|---------|-----------|
 | 8th Dec    2016          | Huddersfield | TBC     | Full      |
 | 20th Jan   2016          | Huddersfield | TBC     | Full      |
-| 8th Feb    2016          | Huddersifled | TBC     | Available |
-| 7th March  2016          | Huddersfield | TBC     | Available |
+| 8th Feb    2016          | Huddersifled | TBC     | Full      |
+| 7th March  2016          | Huddersfield | TBC     | Full      |
 | 20th April 2016          | Huddersfield | TBC     | Available |
 | 17th May   2016          | Huddersfield | TBC     | Available |
 | 22nd June  2016          | Huddersfield | TBC     | Available |
@@ -76,8 +76,8 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 |-----------------------------|--------------|---------|-----------|
 | 9th Dec    2015             | Huddersfield | TBC     | Full      |
 | 21st Jan   2016             | Huddersfield | TBC     | Full      |
-| 9th Feb    2016             | Huddersifled | TBC     | Available |
-| 8th March  2016             | Huddersfield | TBC     | Available |
+| 9th Feb    2016             | Huddersifled | TBC     | Full      |
+| 8th March  2016             | Huddersfield | TBC     | Full      |
 | 21st April 2016             | Huddersfield | TBC     | Available |
 | 18th May   2016             | Huddersfield | TBC     | Available |
 | 23nd June  2016             | Huddersfield | TBC     | Available |
@@ -93,5 +93,22 @@ We are also able to deliver courses anywhere in the country. Please contact us t
 | ARTP Interpretation Certificate            | £210 inc VAT   | £50                       |
 
 Please contact us for further information and an application form.
+
+### Spirometry refresher day
+
+| Study days                  | Area         | Venue   | Places    |
+|-----------------------------|--------------|---------|-----------|
+| 14th April 2016             | Huddersfield | TBC     | Available |
+| 14th September 2016          | Huddersfield| TBC     | Available |
+
+### Prices
+
+| Course                                     | Price          | Additional Payment to ARTP|          
+|--------------------------------------------|----------------|---------------------------|
+| Spirometry refresher                       | £150 inc VAT   | Nil                       | 
+
+
+Please contact us for further information and an application form.
+
 
 In addition to the above dates, where there is a minimum of 8 people we are happy to deliver within your locality. We are also able to offer 1-2-1 training sessions resulting in any of the above qualifications. If you are interested in either of these options, please contact us to discuss your requirements.
