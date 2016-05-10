@@ -16,10 +16,10 @@ You also have the option of completing the Certificate in COPD. Formative assess
 
 In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. We are also able to offer 1-2-1 traiing sessions resulting in the COPD Diploma. If you are interested in either of these options, please contact us to discuss your requirements.
 
-| Start date| Study days        | Submission| Area           | Venue| Cost         |
-|-----------|-------------------|-----------|--------------- |------|--------------| 
-| 03/08/15  | 08/09/15, 09/09/15| 05/01/16  | Huddersfield   | TBC  | FULL         |
-| 01/02/16  | 15/03/16, 16/03/16| 03/08/16  | Huddersfield   | TBC  | FULL         |
-| 27/08/16  | 27/09/16, 28/09/16| 08/02/17  | Huddersfield   | TBC  | £570 inc VAT |
+| Start date| Study days        | Submission| Area           | Cost         |
+|-----------|-------------------|-----------|--------------- |------------- | 
+| 27/08/16  | 27/09/16, 28/09/16| 27/03/17  | Huddersfield   | £570 inc VAT | 
+| 13/01/17  | 13/02/17, 14/02/17| 13/08/17  | Huddersfield   | £570 inc VAT | 
+| 27/08/17  | 27/09/17, 28/09/17| 27/03/17  | Huddersfield   | £570 inc VAT | 
 
 Please contact us for further information and an application form.
