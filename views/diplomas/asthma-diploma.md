@@ -19,11 +19,11 @@ In addition to our planned courses, we are able to deliver our diplomas anywhere
 
 Course dates 2015
 
-| Start Date      | Study days           | Submission | Area           | Venue         | Cost         |  
-|-----------------|----------------------|------------|----------------|---------------|--------------|
-| 01/09/15        | 06/10/15, 07/10/15   | 01/02/16   | Huddersfield   | TBC           | FULL         |
-| 18/03/16        | 18/04/16, 19/04/16   | 19/09/16   | Huddersfield   | TBC           | FULL         |
-| 12/09/16        | 10/10/16, 11/10/16   | 14/02/17   | Huddersfield   | TBC           | £570 inc VAT |
+| Start Date      | Study days           | Submission | Area           | Cost          |
+|-----------------|----------------------|------------|----------------|---------------|
+| 12/09/16        | 10/10/16,11/10/16    | 10/04/17   | Huddersfield   | £570 inc VAT  |
+| 08/01/17        | 08/02/17,09/02/17    | 08/08/17   | Huddersfield   | £570 inc VAT  |
+| 12/08/17        | 12/09/17,13/09/17    | 12/03/18   | Huddersfield   | £570 inc VAT   |
 
 
 Please contact us for further information and an application form.
