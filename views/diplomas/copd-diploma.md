@@ -20,6 +20,6 @@ In addition to our planned courses, we are able to deliver our diplomas anywhere
 |-----------|-------------------|-----------|--------------- |------------- | 
 | 27/08/16  | 27/09/16, 28/09/16| 27/03/17  | Huddersfield   | £570 inc VAT | 
 | 13/01/17  | 13/02/17, 14/02/17| 13/08/17  | Huddersfield   | £570 inc VAT | 
-| 27/08/17  | 27/09/17, 28/09/17| 27/03/17  | Huddersfield   | £570 inc VAT | 
+| 27/08/17  | 27/09/17, 28/09/17| 27/03/18  | Huddersfield   | £570 inc VAT | 
 
 Please contact us for further information and an application form.
