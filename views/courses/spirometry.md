@@ -22,7 +22,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |11th/12th July  2016            | Huddersfield | TBC     | Available |
 |20th/21st Sept  2016            | Huddersfiel  | TBC     | Available |
 |17th/18th Oct   2016            | Huddersfield | TBC     | Available |
-|22nd/23rd Nov   2016            | Huddersfield | TBC     | Available |
+|28th/29th Nov   2016            | Huddersfield | TBC     | Available |
 
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
@@ -51,7 +51,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 |11th July  2016           | Huddersfield | TBC     | Available |
 |20th Sept 2016            | Huddersfield | TBC     | Available |
 |17th Oct 2016             | Huddersfield | TBC     | Available |
-|22nd Nov  2016            | Huddersfield | TBC     | Available |
+|28th Nov  2016            | Huddersfield | TBC     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -79,7 +79,7 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 |12th July  2016              | Huddersfield | TBC     | Available |
 |21st Sept 2016               | Huddersfield | TBC     | Available |
 |18th Oct 2016                | Huddersfield | TBC     | Available |
-|23rd Nov 2016                | Huddersfield | TBC     | Available |
+|29th Nov 2016                | Huddersfield | TBC     | Available |
           
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
