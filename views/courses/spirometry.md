@@ -16,14 +16,14 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificates) | Area         | Venue   | Places    |
 |--------------------------------|--------------|---------|-----------|
-|20th/21st April 2016            | Huddersfield | TBC     | Full      |
-|17th/18th May   2016            | Huddersfield | TBC     | Full      |
-|20th/21st June  2016            | Huddersifled | TBC     | Available |
-|11th/12th July  2016            | Huddersfield | TBC     | Available |
-|20th/21st Sept  2016            | Huddersfiel  | TBC     | Available |
+|20th/21st Sept 2016             | Huddersfield | TBC     | Available |
 |17th/18th Oct   2016            | Huddersfield | TBC     | Available |
-|28th/29th Nov   2016            | Huddersfield | TBC     | Available |
-
+|28th/29th Nov  2016             | Huddersifled | TBC     | Available |
+|13th/14th Dec  2016             | Huddersfield | TBC     | Available |
+|18th/19th Jan 2017              | Huddersfiel  | TBC     | Available |
+|13th/14th March 2017            | Huddersfield | TBC     | Available |
+|5th/6th April 2017              | Huddersfield | TBC     | Available |
+|9th/10th May 2017               | Huddersfield | TBC     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -45,13 +45,14 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         | Venue   | Places    |
 |--------------------------|--------------|---------|-----------|
-|20th April  2016          | Huddersfield | TBC     | Full      |
-|17th May   2016           | Huddersfield | TBC     | Full      |
-|20th June  2016           | Huddersifled | TBC     | Available |
-|11th July  2016           | Huddersfield | TBC     | Available |
 |20th Sept 2016            | Huddersfield | TBC     | Available |
-|17th Oct 2016             | Huddersfield | TBC     | Available |
-|28th Nov  2016            | Huddersfield | TBC     | Available |
+|17th Oct  2016            | Huddersfield | TBC     | Available |
+|28th Nov   2016           | Huddersifled | TBC     | Available |
+|13th Dec   2016           | Huddersfield | TBC     | Available |
+|18th Jan  2017            | Huddersfield | TBC     | Available |
+|13th March 2017           | Huddersfield | TBC     | Available |
+|5th April  2017           | Huddersfield | TBC     | Available |
+|9th May 2017              | Huddersfield | TBH     |Available  |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -73,14 +74,14 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         | Venue   | Places    |
 |-----------------------------|--------------|---------|-----------|
-|21st April 2016              | Huddersfield | TBC     | Full      |
-|18th May   2016              | Huddersfield | TBC     | Full      |
-|21st June  2016              | Huddersifled | TBC     | Available |
-|12th July  2016              | Huddersfield | TBC     | Available |
-|21st Sept 2016               | Huddersfield | TBC     | Available |
-|18th Oct 2016                | Huddersfield | TBC     | Available |
-|29th Nov 2016                | Huddersfield | TBC     | Available |
-          
+|21st Sept 2016               | Huddersfield | TBC     | Full      |
+|18th Oct   2016              | Huddersfield | TBC     | Full      |
+|29th Nov   2016              | Huddersifled | TBC     | Available |
+|14th Dec   2016              | Huddersfield | TBC     | Available |
+|19th Jan 2017                | Huddersfield | TBC     | Available |
+|14th march 2017              | Huddersfield | TBC     | Available |
+|6th April 2017               | Huddersfield | TBC     | Available |
+|10th May 2017                | Huddersfield | TBH     | Available |
 
 We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
@@ -97,8 +98,8 @@ Please contact us for further information and an application form.
 
 | Study days                  | Area         | Venue   | Places    |
 |-----------------------------|--------------|---------|-----------|
-| 14th April 2016             | Huddersfield | TBC     | Available |
-| 14th September 2016          | Huddersfield| TBC     | Available |
+| 14th September 2016         | Huddersfield | TBC     | Available |
+| 8th March 2017              | Huddersfield | TBC     | Available |
 
 ### Prices
 
