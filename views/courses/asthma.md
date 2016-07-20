@@ -21,7 +21,7 @@ Course dates 2015
 
 |Study days	        |	Area          | Cost        |	
 |-------------------|---------------|-------------|
-|10/10/16, 11/10/16 | Huddersfield  | £300 inc VAT| 
+|10/10/16, 11/10/16 | Huddersfield  | 1 space| 
 |08/02/17, 09/02/17 | Huddersfield  | £300 inc VAT| 
 |12/09/17, 13/09/17 | Huddersfield  | £300 inc VAT| 
 
