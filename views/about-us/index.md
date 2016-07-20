@@ -4,6 +4,6 @@ Our mission is to improve the care and outcomes of people with respiratory disea
 
 We provide education nationally and have been commissioned by  CCG’s to lead on various respiratory projects.
 
-Respiratory Matters have been approved as an [NCFE Investing in Quality (IIQ) centre](http://www.ncfe.org.uk) to give formal recognition to our courses which have been accredited under this licence. This licence gives assurance that the content of a training course is of a high standard and meets the rigorous assurance requirements of a national awarding organisation.
+Respiratory Matters have been approved as an [NCFE Investing in Quality (IIQ) centre](http://www.ncfe.org.uk) to give formal recognition to our courses which have been accredited under this licence. This licence gives assurance that the content of a training course is of a high standard and meets the rigorous assurance requirements of a national awarding organisation. We have also been awarded the quality assurance certificate from Health Education Yorkshire and Humber.
 
 We have recently become a recognised ARTP Centre in line with recommendations of the Primary Care Commissioning (PCC) guidance on spirometry training in primary care.
