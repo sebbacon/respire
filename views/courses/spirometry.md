@@ -90,7 +90,7 @@ We are also able to deliver courses anywhere in the country. Please contact us t
 | Course                                     | Price          | Additional Payment to ARTP|          
 |--------------------------------------------|----------------|---------------------------|
 | NCFE accredited Interpretation Certificate | £150 inc VAT   | Nil                       | 
-| ARTP Interpretation Certificate            | £210 inc VAT   | £50                       |
+| ARTP Interpretation Certificate            | £210 inc VAT   | £95                       |
 
 Please contact us for further information and an application form.
 
