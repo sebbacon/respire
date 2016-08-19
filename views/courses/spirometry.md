@@ -1,5 +1,7 @@
 # Spirometry Courses
 
+Our spirometry courses are suitable for any health care professional involved in performance and/or interpretation of spirometry. This includes those working in Primary Care, Seconday Care, Phsyiologists, technicians and those working in an occupational health setting.
+
 #### ARTP/BTS Spirometry Courses
 
 As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk. For those people who have already attended accredited spirometry training there is the option to attend a spirometry refresher day.
