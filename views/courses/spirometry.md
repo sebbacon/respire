@@ -9,7 +9,7 @@ If you are a CCG, or private company and would like to commission our services, 
 
 We are an ARTP approved training centre, and anyone who attends our courses will receive a certificate stating that they have attended an ARTP approved course. Once you have attended a course, you can register with ARTP (within 12 months of course attendance), when you will recieve details of the written assessment and practical and oral examinations. On successful completion of the assessments you will recieve the relevant certificate from ARTP and be included on the national register of certified professional and operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days). Further details of assessment can be found at www.artp.org.uk  
 
-Please contact us for further information and an application form
+Please contact us at info@respiratorymatters.com for further information and an application form
 
 
 ### Full Certificate in Spirometry
