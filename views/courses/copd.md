@@ -10,7 +10,7 @@ This course is suitable for Health Care Professionals who are caring for people 
 * Understand appropriate interventions for a person with exacerbation of their COPD.
 * Be able to empower people with COPD to take control of their condition through evidence based, high quality reviews.
 
-
+### course dates 
 
 | Study days          | Area         | Cost        |  
 |---------------------|--------------|-------------|
