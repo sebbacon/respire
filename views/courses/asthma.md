@@ -1,6 +1,6 @@
 ### Certificate in Asthma
 
-This accredited course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics).
+This accredited course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics). 
 
 ###Learning outcomes
 
@@ -14,16 +14,13 @@ This accredited course is suitable for Health Care Professionals who are caring 
 
 *Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
-
-In addition to our planned courses, we are able to deliver our accredited certificate courses anywhere in the UK with a minimum of 10 delegates. There is also an option for 1-2-1 training sessions resulting in the above qualification. If you are interested in either of these options please contact us to discuss your requirements.
-
-Course dates 2015
+### dates 
 
 |Study days	        |	Area          | Cost        |	
 |-------------------|---------------|-------------|
-|10/10/16, 11/10/16 | Huddersfield  | 1 space| 
 |08/02/17, 09/02/17 | Huddersfield  | £300 inc VAT| 
-|12/09/17, 13/09/17 | Huddersfield  | £300 inc VAT| 
+|12/09/17, 13/09/17|  Huddersfield  | £300 inc VAT|            | 
 
-Please contact us for further information and an application form.
+
+Please contact us for further information and an application form at info@respiratorymatters.com
 
