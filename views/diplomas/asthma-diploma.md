@@ -14,16 +14,12 @@ If you would rather there is the option of completing an accredited Certificate 
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas   for change
 
+### course dates 
 
-In addition to our planned courses, we are able to deliver our diplomas anywhere in the UK with a minimum of 5 delegates. We are also able to offer 1-2-1 training sessions resulting in this qualification. If you are interested in either of these options please contact us to discuss your requirements.
-
-Course dates 2015
-
-| Start Date      | Study days           | Submission | Area           | Cost          |
-|-----------------|----------------------|------------|----------------|---------------|
-| 12/09/16        | 10/10/16,11/10/16    | 10/04/17   | Huddersfield   | £570 inc VAT  |
-| 08/01/17        | 08/02/17,09/02/17    | 08/08/17   | Huddersfield   | £570 inc VAT  |
-| 12/08/17        | 12/09/17,13/09/17    | 12/03/18   | Huddersfield   | £570 inc VAT   |
+| mandatory study days | Submission | Area           | Cost          |
+---------------------- |------------|----------------|---------------|
+|08/02/17,09/02/17     | 08/08/17   | Huddersfield   | £570 inc VAT  |
+|12/09/17,13/09/17     | 12/03/18   | Huddersfield   | £570 inc VAT  |
 
 
-Please contact us for further information and an application form.
+Please contact us for further information and an application form info@respiratorymatters.com
