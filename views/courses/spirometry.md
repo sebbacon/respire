@@ -2,13 +2,15 @@
 
 Our spirometry courses are suitable for any health care professional involved in performance and/or interpretation of spirometry. This includes those working in Primary Care, Seconday Care, Phsyiologists, technicians and those working in an occupational health setting.
 
-#### ARTP/BTS Spirometry Courses
+If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
 
-As an ARTP approved centre we are able to offer 3 ARTP qualifications, the ARTP/BTS full certificate, the ARTP/BTS foundation certificate and the ARTP/BTS interpretation module. These qualifications include a written assessment, further details of which can be found at www.artp.org.uk. For those people who have already attended accredited spirometry training there is the option to attend a spirometry refresher day.
 
-#### Accredited training (Non-ARTP)
+#### ARTP/BTS approved Spirometry Courses
 
-All of our spirometry courses are accredited through our NCFE IIQ licence and can be done on their own merit without additional registration and certification with ARTP if you so wish. After completion of this training you will receive a certificate showing that you have attended an ARTP approved course, which you can use towards your portfolio of evidence should you decide to complete the ARTP certification within 12 months of completing the training course.These accredited, but non ARTP certificated qualifications do not include written assessment but you will be tested on clinical competencies during the study days. You may also decide to complete the Spirometry Diploma with, or without ARTP.(See Diploma section)
+We are an ARTP approved training centre, and anyone who attends our courses will receive a certificate stating that they have attended an ARTP approved course. Once you have attended a course, you can register with ARTP (within 12 months of course attendance), when you will recieve details of the written assessment and practical and oral examinations. On successful completion of the assessments you will recieve the relevant certificate from ARTP and be included on the national register of certified professional and operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days). Further details of assessment can be found at www.artp.org.uk  
+
+Please contact us for further information and an application form
+
 
 ### Full Certificate in Spirometry
 
@@ -16,28 +18,28 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 ### Dates. 
 
-| Study days (Full Certificates) | Area         | Venue   | Places    |
-|--------------------------------|--------------|---------|-----------|
-|20th/21st Sept 2016             | Huddersfield | TBC     | Available |
-|17th/18th Oct   2016            | Huddersfield | TBC     | Available |
-|28th/29th Nov  2016             | Huddersifled | TBC     | Available |
-|13th/14th Dec  2016             | Huddersfield | TBC     | Available |
-|18th/19th Jan 2017              | Huddersfiel  | TBC     | Available |
-|13th/14th March 2017            | Huddersfield | TBC     | Available |
-|5th/6th April 2017              | Huddersfield | TBC     | Available |
-|9th/10th May 2017               | Huddersfield | TBC     | Available |
+| Study days (Full Certificates) | Area         |  
+|--------------------------------|--------------|
+|13/14 December 2016             | Huddersfield | 
+|11th/12th January 2017          | Huddersfield | 
+|13/14 March 2017                | Huddersifled | 
+|5/6 April 2017                  | Huddersfield | 
+|9/10 May 2017                   | Huddersfiel  | 
+|8/9 June 2017                   | Huddersfield | 
+|11/12 July 2017                 | Huddersfield | 
+|6/7 September 2017              | Huddersfield | 
+|9/10 October 2017               | Huddersfield |             
+|15/16 November 2017             | Huddersfield |           
 
-We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
+### Prices 
+includes spiromety update study day taken within a 3 year period
+practical/oral assessment day (ARTP Certificate only)
 
-### Prices
-
-| Course                             | Price          | Additional Payment to ARTP|          
-|------------------------------------|----------------|---------------------------|
-| NCFE accredited Full Certificate   | £300 inc VAT   | Nil                       | 
-| ARTP Full Certificate              | £420 inc VAT   | £200                      |
-| Spirometry Diploma                 | £570 inc VAT   | Nil                       |
-| Diploma plus ARTP Full Certificate | £570 Inc VAT   | £200                      |
-
+| Course                                  | Price        | Additional Payment to ARTP|          
+|-----------------------------------------|------------- |---------------------------|
+| ARTP approved Full Certificate module   |£300 inc VAT  | Nil                       |
+| ARTP Full certificate                   | £420 inc VAT | £200                |                                   
+                                                            
 
 #### Foundation Certificate in Spirometry
 
@@ -45,24 +47,26 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 ### Dates. 
 
-| Study days (Foundation)  | Area         | Venue   | Places    |
-|--------------------------|--------------|---------|-----------|
-|20th Sept 2016            | Huddersfield | TBC     | Available |
-|17th Oct  2016            | Huddersfield | TBC     | Available |
-|28th Nov   2016           | Huddersifled | TBC     | Available |
-|13th Dec   2016           | Huddersfield | TBC     | Available |
-|18th Jan  2017            | Huddersfield | TBC     | Available |
-|13th March 2017           | Huddersfield | TBC     | Available |
-|5th April  2017           | Huddersfield | TBC     | Available |
-|9th May 2017              | Huddersfield | TBH     |Available  |
+| Study days (Foundation)  | Area         | 
+|--------------------------|--------------|
+||13 December 2016         | Huddersfield | 
+|11 January 2017         | Huddersfield | 
+|13 March 2017             | Huddersifled | 
+|5April 2017               | Huddersfield | 
+|9 May 2017                | Huddersfiel  | 
+|8 June 2017               | Huddersfield | 
+|11 July 2017              | Huddersfield | 
+|6 September 2017          | Huddersfield | 
+|9 October 2017            | Huddersfield |             
 
-We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
 ### Prices
+includes half day update taken within a 3 year period
+practical/oral assessment day (ARTP Certificate only)
 
 | Course                                  | Price          | Additional Payment to ARTP|          
 |-----------------------------------------|----------------|---------------------------|
-| NCFE accredited Performance Certificate | £150 inc VAT   | Nil                       | 
+| ARTP approved foundation module         | £150 inc VAT   | Nil                       | 
 | ARTP Foundation Certificate             | £210 inc VAT   | £150                      |
 
 
@@ -74,43 +78,44 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 ### Dates. 
 
-| Study days (Interpretation) | Area         | Venue   | Places    |
-|-----------------------------|--------------|---------|-----------|
-|21st Sept 2016               | Huddersfield | TBC     | Full      |
-|18th Oct   2016              | Huddersfield | TBC     | Full      |
-|29th Nov   2016              | Huddersifled | TBC     | Available |
-|14th Dec   2016              | Huddersfield | TBC     | Available |
-|19th Jan 2017                | Huddersfield | TBC     | Available |
-|14th march 2017              | Huddersfield | TBC     | Available |
-|6th April 2017               | Huddersfield | TBC     | Available |
-|10th May 2017                | Huddersfield | TBH     | Available |
+| Study days (Interpretation) | Area         | 
+|-----------------------------|--------------|
+|14 December 2016             | Huddersfield | 
+|12th January 2017            | Huddersfield | 
+|14 March 2017                | Huddersifled | 
+|6 April 2017                 | Huddersfield | 
+|10 May 2017                  | Huddersfiel  | 
+|9 June 2017                  | Huddersfield | 
+|12 July 2017                 | Huddersfield | 
+|7 September 2017             | Huddersfield | 
+|10 October 2017              | Huddersfield |             
+|16 November 2017             | Huddersfield | 
 
-We are also able to deliver courses anywhere in the country. Please contact us to discuss your requirements.
 
 ### Prices
+includes half day update taken within a 3 year period
 
 | Course                                     | Price          | Additional Payment to ARTP|          
 |--------------------------------------------|----------------|---------------------------|
-| NCFE accredited Interpretation Certificate | £150 inc VAT   | Nil                       | 
+| ARTP approved Interpretation module        | £150 inc VAT  | Nil                        | 
 | ARTP Interpretation Certificate            | £210 inc VAT   | £95                       |
 
-Please contact us for further information and an application form.
 
 ### Spirometry refresher day
 
-| Study days                  | Area         | Venue   | Places    |
-|-----------------------------|--------------|---------|-----------|
-| 14th September 2016         | Huddersfield | TBC     | Available |
-| 8th March 2017              | Huddersfield | TBC     | Available |
+| Study days                  | Area         | 
+|-----------------------------|--------------|
+| 8th March 2017              | Huddersfield | 
+| 20th September 2017         | Huddersfield | 
 
 ### Prices
 
 | Course                                     | Price          | Additional Payment to ARTP|          
 |--------------------------------------------|----------------|---------------------------|
-| Spirometry refresher                       | £150 inc VAT   | Nil                       | 
+| Spirometry refresher  study day            | £150 inc VAT   | Nil                       | 
 
 
-Please contact us for further information and an application form.
 
 
-In addition to the above dates, where there is a minimum of 8 people we are happy to deliver within your locality. We are also able to offer 1-2-1 training sessions resulting in any of the above qualifications. If you are interested in either of these options, please contact us to discuss your requirements.
+
+
