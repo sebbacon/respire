@@ -14,7 +14,7 @@ This accredited course is suitable for Health Care Professionals who are caring 
 
 *Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
-### dates 
+### course dates 
 
 |Study days	        |	Area          | Cost        |	
 |-------------------|---------------|-------------|
