@@ -1,8 +1,8 @@
 This course is suitable for Health Care Professionals who are caring for people with COPD.
 
-The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications Framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
+The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications Framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 
-You also have the option of completing the Certificate in COPD. Formative assessments are completed throughout the study days but there is no formal written assessement to submit. Please see our training course section.
+There is also the option of completing the Certificate in COPD, rather than the diploma. Formative assessments are completed throughout the study days but there is no formal written assessement to submit. Please see our training course section.
 
 ### Learning outcomes
 
@@ -18,7 +18,7 @@ You also have the option of completing the Certificate in COPD. Formative assess
 | mandatory Study days   Submission| Area           | Cost         |
 |-----------------------|----------|----------------|--------------|
 |13/02/17, 14/02/17     | 13/08/17 | Huddersfield   | £570 inc VAT | 
-|   27/09/17, 28/09/17  | 27/03/18 | Huddersfield   | £570 inc VAT | 
+|27/09/17, 28/09/17     | 27/03/18 | Huddersfield   | £570 inc VAT | 
 |   
 
 Please contact us for further information and an application form info@respiratorymatters.com
