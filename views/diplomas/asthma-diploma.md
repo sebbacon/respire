@@ -1,8 +1,8 @@
 This course is suitable for Health Care Professionals  who are caring for people with asthma (adults and paediatrics).
 
-The course's measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
+The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
 
-If you would rather there is the option of completing an accredited Certificate in Asthma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
+There is also the option of completing an accredited Certificate in Asthma, rather than the diploma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
 
 ### Learning outcomes
 
