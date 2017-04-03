@@ -19,7 +19,7 @@ There is also the option of completing an accredited Certificate in Asthma, rath
 | mandatory study days | Submission | Area           | Cost          |
 ---------------------- |------------|----------------|---------------|
 |08/02/17,09/02/17     | 08/08/17   | Huddersfield   | £570 inc VAT  |
-|12/09/17,13/09/17     | 12/03/18   | Huddersfield   | £570 inc VAT  |
+|04/09/17,05/09/17     | 04/03/18   | Huddersfield   | £570 inc VAT  |
 
 
 Please contact us for further information and an application form info@respiratorymatters.com
