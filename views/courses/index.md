@@ -1,4 +1,4 @@
-We  provide accredited training courses in Asthma, Chronic Obstructive Pulmonary Disease and Spirometry.
+We  provide training courses in Asthma, Chronic Obstructive Pulmonary Disease and Spirometry.
 
 Training courses currently offered:
 
