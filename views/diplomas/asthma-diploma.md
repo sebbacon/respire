@@ -1,8 +1,8 @@
-This course is suitable for Health Care Professionals  who are caring for people with asthma (adults and paediatrics).
+This Respiratory Matters Diploma is suitable for Health Care Professionals  who are caring for people with asthma (adults and paediatrics).
 
-The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. At the end of the course delegates will receive a certificate of achievement from NCFE.
+The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. 
 
-There is also the option of completing an accredited Certificate in Asthma, rather than the diploma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
+There is also the option of completing a Certificate in Asthma, rather than the diploma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
 
 ### Learning outcomes
 
@@ -18,7 +18,6 @@ There is also the option of completing an accredited Certificate in Asthma, rath
 
 | mandatory study days | Submission | Area           | Cost          |
 ---------------------- |------------|----------------|---------------|
-|08/02/17,09/02/17     | 08/08/17   | Huddersfield   | £570 inc VAT  |
 |04/09/17,05/09/17     | 04/03/18   | Huddersfield   | £570 inc VAT  |
 
 
