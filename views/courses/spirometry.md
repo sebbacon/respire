@@ -25,15 +25,13 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificates) | Area         |  
 |--------------------------------|--------------|
-|11/12 January 2017              | Huddersfield | 
-|13/14 March 2017                | Huddersfield | 
-|5/6 April 2017                  | Huddersfield | 
 |9/10 May 2017                   | Huddersfield |
 |8/9 June 2017                   | Huddersfield | 
 |11/12 July 2017                 | Huddersfield | 
 |6/7 September 2017              | Huddersfield | 
 |9/10 October 2017               | Huddersfield |             
 |15/16 November 2017             | Huddersfield |           
+|11/12 December 2017             | Huddersfield |
 
 ### Prices 
 includes spiromety update study day taken within a 3 year period
@@ -53,15 +51,13 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         | 
 |--------------------------|--------------|
-|11 January 2017           | Huddersfield | 
-|13 March 2017             | Huddersfield | 
-|5April 2017               | Huddersfield | 
 |9 May 2017                | Huddersfield | 
 |8 June 2017               | Huddersfield | 
 |11 July 2017              | Huddersfield | 
 |6 September 2017          | Huddersfield | 
 |9 October 2017            | Huddersfield |             
-
+|15 November 2017          | Huddersfield |
+|11 December 2017          | Huddersfield |
 
 ### Prices
 includes half day update taken within a 3 year period
@@ -83,16 +79,13 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         | 
 |-----------------------------|--------------|
-|12th January 2017            | Huddersfield | 
-|14 March 2017                | Huddersfield | 
-|6 April 2017                 | Huddersfield | 
 |10 May 2017                  | Huddersfield | 
 |9 June 2017                  | Huddersfield | 
 |12 July 2017                 | Huddersfield | 
 |7 September 2017             | Huddersfield | 
 |10 October 2017              | Huddersfield |             
 |16 November 2017             | Huddersfield | 
-
+|12 November 2017             | Huddersfield |
 
 ### Prices
 includes half day update taken within a 3 year period
@@ -111,7 +104,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         | 
 |--------------------------|--------------|
-|16 March 2017             | Huddersfield | 
 |12 June 2017              | Huddersfield | 
 |14 September              | Huddersfield | 
 |6 December 2017           | Huddersfield | 
@@ -128,7 +120,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study days                  | Area         | 
 |-----------------------------|--------------|
-| 8th March 2017              | Huddersfield | 
 | 20th September 2017         | Huddersfield | 
 
 ### Prices
