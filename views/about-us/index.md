@@ -1,9 +1,11 @@
 Respiratory Matters was founded in 2011, and has provided training and education to hundreds of health care professionals in the UK.
 
-Our mission is to improve the care and outcomes of people with respiratory disease through  evidence-based, practical, high quality education.
+Our mission is to improve the care and outcomes of people with respiratory disease through  evidence-based, practical, high quality education. We run our courses in Huddersfield with a maximum of 8 delegates to enhance the learning experience.
 
-We provide education nationally and have been commissioned by  CCG’s to lead on various respiratory projects.
+In 2016 we were awarded the Quality Assurance Certificate from Health Education Yorkshire and the Humber.
 
-Respiratory Matters have been approved as an [NCFE Investing in Quality (IIQ) centre](http://www.ncfe.org.uk) to give formal recognition to our courses which have been accredited under this licence. This licence gives assurance that the content of a training course is of a high standard and meets the rigorous assurance requirements of a national awarding organisation. We have also been awarded the quality assurance certificate from Health Education Yorkshire and Humber.
+Respiratory Matters is also a recognised ARTP approved centre and we deliver spirometry courses every month in Huddersfield, but also work nationally with CCG's to support them with the new guidance that health care professionals performing and/or interpreting spirometry need to have the appropriate ARTP certiicate by 2021
 
-We have recently become a recognised ARTP Centre in line with recommendations of the Primary Care Commissioning (PCC) guidance on spirometry training in primary care.
+We are able to travel nationally to deiver our courses.
+
+In addition to education, we are frequently commissioned by  CCG’s to lead on respiratory projects, and are involved in respiratory research.
