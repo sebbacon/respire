@@ -19,7 +19,5 @@ Hazel Carsley. Clinical Commissioning Executive
 
 Angela Barrow Advanced Nurse Practitioner Partner, Caritas Group Practice
 
-> “ Sophie Toor worked with me on my COPD case finding project in Calderdale. Sophie undertook consultation work providing training and support to the participating practices and was a key member of the project team. 
-
-Sophie was very enthusiastic and committed to the project; demonstrating extensive knowledge. Sophie not only provided support to the clinical teams but also played an important role in the administration of the project.  Throughout the project Sophie was accessible and always happy to be of assistance.
+> “ Sophie Toor worked with me on my COPD case finding project in Calderdale. Sophie undertook consultation work providing training and support to the participating practices and was a key member of the project team. Sophie was very enthusiastic and committed to the project; demonstrating extensive knowledge. Sophie not only provided support to the clinical teams but also played an important role in the administration of the project.  Throughout the project Sophie was accessible and always happy to be of assistance."
 
