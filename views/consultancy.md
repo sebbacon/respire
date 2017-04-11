@@ -15,5 +15,11 @@ Nicola Greaves Project Manager Asthma, British Lung Foundation:
 
 Hazel Carsley. Clinical Commissioning Executive
 
->'Sophie Toor is a very enthusiastic and effective communicator. Her passion for improving the clinical management of children with Asthma is clearly evident throughout her work .Sophie is very knowledgeable and yet flexible in her approach and  has led  the successful delivery of training in childhood asthma, to our  Gp practices, within Calderdale, September to March 2014. The project she developed and delivered evaluated well, and we hope to see positive outcomes in the future in Calderdale , as we focus  on  our young population with respiratory conditions."
+>"Sophie Toor is a very enthusiastic and effective communicator. Her passion for improving the clinical management of children with Asthma is clearly evident throughout her work .Sophie is very knowledgeable and yet flexible in her approach and  has led  the successful delivery of training in childhood asthma, to our  Gp practices, within Calderdale, September to March 2014. The project she developed and delivered evaluated well, and we hope to see positive outcomes in the future in Calderdale , as we focus  on  our young population with respiratory conditions."
+
+Angela Barrow Advanced Nurse Practitioner Partner, Caritas Group Practice
+
+> “ Sophie Toor worked with me on my COPD case finding project in Calderdale. Sophie undertook consultation work providing training and support to the participating practices and was a key member of the project team. 
+
+Sophie was very enthusiastic and committed to the project; demonstrating extensive knowledge. Sophie not only provided support to the clinical teams but also played an important role in the administration of the project.  Throughout the project Sophie was accessible and always happy to be of assistance.
 
