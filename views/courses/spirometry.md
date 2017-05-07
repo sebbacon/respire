@@ -1,21 +1,23 @@
-# Spirometry Courses
 
-Our spirometry courses are suitable for any health care professional involved in performance and/or interpretation of spirometry. This includes those working in Primary Care, Seconday Care, Phsyiologists, technicians and those working in an occupational health setting.
+# New regulations for diagnostic spirometry
+
+Healthcare professionals who intend to perform and interpret quality assured diagnostic spirometry (QADS) will have to be certified as competent to either perform spirometry, interpret the results, or both and placed on a national register with a reaccreditation scheme to ensure ongoing competency. This scheme, implemented by NHS England, gives practitioners until 31st March 2021 to complete this process and ensure that they are on this register. ARTP were asked to hold this national register.
 
 If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
 
-
 #### ARTP/BTS approved Spirometry Courses
 
-We are an ARTP approved training centre, and anyone who attends our courses will receive a certificate stating that they have attended an ARTP approved course. Once you have attended a course, you can register with ARTP (within 12 months of course attendance), when you will receive details of the written assessment and practical and oral examinations. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days). Further details of assessment can be found at www.artp.org.uk  
+Our ARTP accredited spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Seconday Care, Phsyiologists, technicians and those working in an occupational health setting. As well as attending the spirometry study days, if you need to be placed on the national register to comply with regualtions within your workplace, you will also need to register with ARTP. Once registered, ARTP will send you details of your assignments and assessments which are completed after attending the study days. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days). Further details of assessment can be found at www.artp.org.uk  
 
 Please contact us at info@respiratorymatters.com for further information and an application form
+
 
 #### Spirometry course for occupational health nurses and technicians
 
-We offer a one day course for those people working in an occupational health setting. This course includes the syllabus for the ARTP foundation course (as per HSE recomendations) but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. As well as the advertised dates, we are able to come and deliver this course in your workplace for which there would be a minimum fee payable.
+We offer a one day course for those people working in an occupational health setting. This course includes the syllabus for the ARTP foundation course (as per HSE recomendations) but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. As well as the advertised dates, we are able to come and deliver this course in your workplace for which there would be a minimum fee payable. 
 
 Please contact us at info@respiratorymatters.com for further information and an application form
+
 
 ### Full Certificate in Spirometry
 
@@ -34,15 +36,12 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |11/12 December 2017             | Huddersfield |
 
 ### Prices 
-includes spiromety update study day taken within a 3 year period
-practical/oral assessment day (ARTP Certificate only)
 
-| Course                                  | Price        | Additional Payment to ARTP|          
-|-----------------------------------------|------------- |---------------------------|
-| ARTP approved Full Certificate module   |£300 inc VAT  | Nil                       |
-| ARTP Full certificate                   | £420 inc VAT | £200                      |                                   
+| Course                                  | Price        | Additional Payment to ARTP     |          
+|-----------------------------------------|------------- |--------------------------------|
+| ARTP approved Full Certificate modules  |£300 inc VAT  | £200 with handbook/£170 without|  
+                                                       
                                                             
-
 #### Foundation Certificate in Spirometry
 
 This certificate is suitable for practitioners who regularly perfrom spirometry WITHOUT interpreting the results. This is a practical competence certificate. This is a 1 day course.
@@ -60,13 +59,10 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 |11 December 2017          | Huddersfield |
 
 ### Prices
-includes half day update taken within a 3 year period
-practical/oral assessment day (ARTP Certificate only)
 
-| Course                                  | Price          | Additional Payment to ARTP|          
-|-----------------------------------------|----------------|---------------------------|
-| ARTP approved foundation module         | £150 inc VAT   | Nil                       | 
-| ARTP Foundation Certificate             | £210 inc VAT   | £150                      |
+| Course                                     | Price          | Additional Payment to ARTP   |          
+|--------------------------------------------|----------------|------------------------------|
+| ARTP approved foundation certificate module| £150 inc VAT   |£180 with hanbook/£150 without| 
 
 
 #### Interpretation Module
@@ -88,17 +84,15 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 |12 November 2017             | Huddersfield |
 
 ### Prices
-includes half day update taken within a 3 year period
 
-| Course                                     | Price          | Additional Payment to ARTP|          
-|--------------------------------------------|----------------|---------------------------|
-| ARTP approved Interpretation module        | £150 inc VAT   | Nil                       | 
-| ARTP Interpretation Certificate            | £180 inc VAT   | £95                       |
+| Course                                     | Price          | Additional Payment to ARTP   |          
+|--------------------------------------------|----------------|------------------------------|
+| ARTP approved Interpretation module        | £150 inc VAT   |£125 with handbook/£95 without| 
 
 
 ### Spirometry study day for occupational health professionals
 
-This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for the ARTP foundation course (as per HSE recomendations) but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes.
+This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for the ARTP foundation course (as per HSE recomendations) but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. Gaining ARTP certification is not mandatory in occupational health unless you are perfroming spirometry for diagnostic purposes.
 
 ### Dates. 
 
@@ -110,10 +104,10 @@ This one day course is designed for people performing spirometry in an occupatio
    
 ### Prices
 
-| Course                                     | Price          | Additional Payment to ARTP|          
-|--------------------------------------------|----------------|---------------------------|
-| ARTP approved foundation module            | £150 inc VAT   | Nil                       | 
-| ARTP Foundation certificate                | £210 inc VAT   | £180                      |
+| Course                            | Price          |          
+|-----------------------------------|----------------|
+| ARTP approved foundation module   | £150 inc VAT   |
+
 
 
 ### Spirometry refresher day
