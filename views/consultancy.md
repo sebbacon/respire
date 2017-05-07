@@ -3,8 +3,11 @@ We have worked with many large organisations such as Asthma UK, Yorkshire and Hu
 We have been commissioned by CCG's to lead on the following respiratory projects.
 
 •	2011. Yorkshire and Humber SHA and Asthma UK. First Paediatric Asthma Local Enhanced service in the UK.
+
 •	2012-2014. Calderdale CCG Living Well with asthma project (Paediatrics)
+
 •	2015. Calderdale CCG to provide education and project support for COPD case finding project
+
 •	2015 –2016  Leeds West CCG. Paediatric Asthma Project.
 
 Sonja Buckle, Project Lead Yorkshire and Humber asthma Impact Project:
