@@ -1,4 +1,4 @@
-We have worked with many large organisations such as Asthma UK, Yorkshire and Humber SHA, Interface Clinical Services and Pharmaceutical companies. 
+We have worked with many large organisations including Asthma UK, Interface Clinical Services and Clinical Commissioning Groupsthroughout the counrty.
 
 We have been commissioned by CCG's to lead on the following respiratory projects.
 
@@ -9,6 +9,7 @@ We have been commissioned by CCG's to lead on the following respiratory projects
 •	2015. Calderdale CCG to provide education and project support for COPD case finding project
 
 •	2015 –2016  Leeds West CCG. Paediatric Asthma Project.
+
 
 Sonja Buckle, Project Lead Yorkshire and Humber asthma Impact Project:
 
