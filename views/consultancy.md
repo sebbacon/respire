@@ -1,4 +1,4 @@
-We have worked with many large organisations including Asthma UK, Interface Clinical Services and Clinical Commissioning Groupsthroughout the counrty.
+We have worked with many large organisations including Asthma UK, Interface Clinical Services and Clinical Commissioning Groups throughout the counrty.
 
 We have been commissioned by CCG's to lead on the following respiratory projects.
 
@@ -11,7 +11,7 @@ We have been commissioned by CCG's to lead on the following respiratory projects
 •	2015 –2016  Leeds West CCG. Paediatric Asthma Project.
 
 
-
+## Testimonials ##
 
 Sonja Buckle, Project Lead Yorkshire and Humber asthma Impact Project:
 
