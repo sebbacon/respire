@@ -20,8 +20,8 @@ If you are a CCG or private company and would like to commission our services pl
 
 |Study days	        |	Area          | Cost        |	
 |-------------------|---------------|-------------|
-|18/10/17, 19/10/17|  Huddersfield  | £300 inc VAT|            
-
+|18/10/17, 19/10/17 | Huddersfield  | £300 inc VAT|            
+|13/06/18, 14/06/18 | Huddersfield  | £300 inc VAT|
 
 Please contact us for further information and an application form at info@respiratorymatters.com
 
