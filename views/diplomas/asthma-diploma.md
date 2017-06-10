@@ -19,6 +19,6 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 | mandatory study days | Submission | Area           | Cost          |
 ---------------------- |------------|----------------|---------------|
 |18/10/17,19/10/17     | 18/04/18   | Huddersfield   | £570 inc VAT  |
-
+|13/06/18,14/06/18     | 13/12/18   | Huddersfield   | £570 inc VAT  |
 
 Please contact us for further information and an application form info@respiratorymatters.com
