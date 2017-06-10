@@ -7,7 +7,7 @@ If you are a CCG, or private company and would like to commission our services, 
 
 #### ARTP/BTS approved Spirometry Courses
 
-Our ARTP accredited spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Seconday Care, Phsyiologists, technicians and those working in an occupational health setting. As well as attending the spirometry study days, if you need to be placed on the national register to comply with regualtions within your workplace, you will also need to register with ARTP. Once registered, ARTP will send you details of your assignments and assessments which are completed after attending the study days. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days). Further details of assessment can be found at www.artp.org.uk  
+Our ARTP accredited spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Secondary Care, Physiologists, technicians and those working in an occupational health setting. As well as attending the spirometry study days, if you need to be placed on the national register to comply with regulations within your workplace, you will also need to register with ARTP. Once registered, ARTP will send you details of your assignments and assessments which are completed after attending the study days. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. The courses on offer are the  Foundation module - performance (1 day),  interpretation module (1 day) and the Full course (2 days), and spirometry refresher course (1 day) Further details of assessment can be found at www.artp.org.uk  
 
 Please contact us at info@respiratorymatters.com for further information and an application form
 
@@ -27,13 +27,13 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificates) | Area         |  
 |--------------------------------|--------------|
-|9/10 May 2017                   | Huddersfield |
-|8/9 June 2017                   | Huddersfield | 
-|11/12 July 2017                 | Huddersfield | 
-|6/7 September 2017              | Huddersfield | 
-|9/10 October 2017               | Huddersfield |             
-|15/16 November 2017             | Huddersfield |           
-|11/12 December 2017             | Huddersfield |
+|11/12 July 2017                 | Huddersfield |
+|6/7 September                   | Huddersfield | 
+|9/10 October                    | Huddersfield | 
+|15/16 November                  | Huddersfield | 
+|11/12 December                  | Huddersfield |             
+|10/11 January 2018              | Huddersfield |           
+|27/28 February 2018             | Huddersfield |
 
 ### Prices 
 
@@ -50,13 +50,13 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         | 
 |--------------------------|--------------|
-|9 May 2017                | Huddersfield | 
-|8 June 2017               | Huddersfield | 
-|11 July 2017              | Huddersfield | 
-|6 September 2017          | Huddersfield | 
-|9 October 2017            | Huddersfield |             
-|15 November 2017          | Huddersfield |
-|11 December 2017          | Huddersfield |
+|11 July 2017              | Huddersfield |
+|6 September               | Huddersfield | 
+|9 October                 | Huddersfield | 
+|15 November               | Huddersfield | 
+|11 December               | Huddersfield |             
+|10 January 2018           | Huddersfield |           
+|27 February 2018          | Huddersfield |
 
 ### Prices
 
@@ -75,13 +75,13 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         | 
 |-----------------------------|--------------|
-|10 May 2017                  | Huddersfield | 
-|9 June 2017                  | Huddersfield | 
-|12 July 2017                 | Huddersfield | 
-|7 September 2017             | Huddersfield | 
-|10 October 2017              | Huddersfield |             
-|16 November 2017             | Huddersfield | 
-|12 November 2017             | Huddersfield |
+|12 July 2017                 | Huddersfield |
+|7 September                  | Huddersfield | 
+|10 October                   | Huddersfield | 
+|16 November                  | Huddersfield | 
+|12 December                  | Huddersfield |             
+|11 January 2018              | Huddersfield |           
+|28 February 2018             | Huddersfield |
 
 ### Prices
 
@@ -98,9 +98,9 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         | 
 |--------------------------|--------------|
-|12 June 2017              | Huddersfield | 
-|14 September              | Huddersfield | 
+|14 September 2017         | Huddersfield | 
 |6 December 2017           | Huddersfield | 
+|28 March 2018             | Huddersfield | 
    
 ### Prices
 
@@ -115,7 +115,7 @@ This one day course is designed for people performing spirometry in an occupatio
 | Study days                  | Area         | 
 |-----------------------------|--------------|
 | 20th September 2017         | Huddersfield | 
-
+| 25th April 2018             | Huddersfield |
 ### Prices
 
 | Course                                     | Price          | Additional Payment to ARTP|          
