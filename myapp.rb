@@ -29,6 +29,11 @@ def add_images(files)
   @image_tag = "<img src='#{file}' alt='post image' class='img-rounded pull-left illustration'>"
 end
 
+get %r{/courses/?.*} do
+  redirect "/diplomas", 301
+end
+
+
 get '/' do
   @title = "Home"
   @body_class = "home"
