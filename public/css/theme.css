@@ -963,6 +963,12 @@ h1, h2, h3, h4 {
   margin-top: 20px;
 }
 
+.post_content table {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
 table{width:100%;overflow:auto;display:block}
 table th{font-weight:bold}
 table th,table td{border:1px solid #ddd;padding:6px 13px}

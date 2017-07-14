@@ -48,7 +48,6 @@ end
 
 get %r{/diplomas/?([\w-]+)?} do
   page = params[:captures] && params[:captures].first
-  puts "==#{page}##"
   @menu_title = "Select a course:"
   if page.nil?
     page = "index"
