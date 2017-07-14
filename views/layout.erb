@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="/css/external-pages.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body class="<%= @body_class %>">
     <a href="#" class="scrolltop">
         <span>up</span>
     </a>
@@ -21,13 +21,13 @@
       <div class="navbar-inner">
         <div class="container">
                 <a class="brand" href="/">
-                  <h1 class="logo"><span id="respiratory">Respiratory</span> <span id="matters">Matters</span></h1>
-            </a>
+                  <img class="logo" src="/images/logo.png" alt="Respiratory Matters">
+                </a>
                 <ul class="nav pull-right">
-                    <li><a href="/diplomas">Diplomas</a></li>
-                    <li><a href="/courses">Training courses</a></li>
-                    <li><a href="/consultancy">Consultancy</a></li>
-                    <li><a href="/about-us">About us</a></li>
+                    <li><a href="/diplomas">Diplomas and Certificates</a></li>
+                    <li><a href="/spirometry">Spirometry Courses</a></li>
+                    <li><a href="/consultancy-and-project-management">Consultancy</a></li>
+                    <li class="homepage-only"><a href="/about-us">About us</a></li>
                 </ul>
         </div>
       </div>

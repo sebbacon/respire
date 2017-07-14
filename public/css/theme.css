@@ -308,6 +308,7 @@ img.illustration {
 }
 #features .feature img.thumb {
         border: 3px solid #ddd;
+        height: 209px;
         border-radius: 5px;
         box-shadow: 0px 0px 0px 1px #bcbcbc;
         display: block;
@@ -327,7 +328,6 @@ img.illustration {
         color: #252b34;
         margin-top: 25px;
         /*text-align: center;*/
-        padding-left: 35px;
 }
 #features .feature h3 i {
         margin-right: 5px;
@@ -339,10 +339,6 @@ img.illustration {
         width: 85%;
         padding-left: 35px;
         min-height: 10em;
-}
-#features .feature .btn {
-        margin-top: 15px;
-        margin-left: 35px;
 }
 
 /* pricing charts section */
@@ -558,7 +554,6 @@ img.illustration {
 .section_header {
         text-align: center;
         font-weight: bolder;
-        color: #252b34;
         margin-top: 40px;
         position: relative;
         margin-bottom: 40px;
@@ -929,28 +924,43 @@ i.rss { background-position: -194px -51px; }
 i.myspace { background-position: -233px -51px; }
 
 
+img.logo {
+  height: 49px;
+  width: 271px;
+}
 
-h1.logo {
-  line-height: 39px;
-  font-size: 50px;
-  margin-top: -2px;
-  letter-spacing:-0.07em;
+@media (min-width: 640px) {
+ body.home img.logo {
+   height: 92px;
+   width: 509px;
+ }
+ body.home ul.nav {
+   padding-top: 24px;
+ }
+}
+
+body.home .navbar-inner li {
+  display: none;
+}
+
+body.home .feature a {
+  text-align: center;
+}
+
+body.home .navbar-inner li.homepage-only {
+  display: block;
 }
 
 h1, h2, h3, h4 {
   color: #052C6E;
 }
-#respiratory {
-  color: #9E0016;
-
-}
-
-#matters {
-  color: #1049A9;
-}
 
 .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner{
  background-color: #efefef;
+}
+
+.post_content h2 {
+  margin-top: 20px;
 }
 
 table{width:100%;overflow:auto;display:block}

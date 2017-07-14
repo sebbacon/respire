@@ -31,7 +31,8 @@ end
 
 get '/' do
   @title = "Home"
-  @intro, body = get_intro_and_body(:index)
+  @body_class = "home"
+  body = get_body(:index)
   erb :homepage_layout do
     erb body
   end
@@ -48,14 +49,14 @@ end
 get %r{/diplomas/?([\w-]+)?} do
   page = params[:captures] && params[:captures].first
   puts "==#{page}##"
-  @menu_title = "Select a diploma:"
+  @menu_title = "Select a course:"
   if page.nil?
     page = "index"
-    @title = "Diplomas"
+    @title = "Diploma and Certificate Courses"
   else
     @title = "#{page.gsub('-',' ').titlecase}".gsub("Copd", "COPD")
   end
-  @intro, body = get_intro_and_body("diplomas/#{page}")
+  body = get_body("diplomas/#{page}")
   @menu = Dir.glob(File.dirname(__FILE__) + "/views/diplomas/*md").map do |filename|
     next if filename.match /index.md$/
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
@@ -67,23 +68,21 @@ get %r{/diplomas/?([\w-]+)?} do
   end
 end
 
-get %r{/courses/?([\w-]+)?} do
+get %r{/spirometry/?([\w-]+)?} do
   page = params[:captures] && params[:captures].first
-  puts "==#{page}##"
-  @menu_title = "Select a course:"
   if page.nil?
     page = "index"
-    @title = "Courses"
+    @title = "ARTP Spirometry Courses"
   else
-    @title = "#{page.gsub('-',' ').titlecase}".gsub("Copd", "COPD")
+    @title = page
   end
-  @intro, body = get_intro_and_body("courses/#{page}")
-  @menu = Dir.glob(File.dirname(__FILE__) + "/views/courses/*md").map do |filename|
-    next if filename.match /index.md$/
+  body = get_body("spirometry/#{page}")
+  @menu = Dir.glob(File.dirname(__FILE__) + "/views/spirometry/*md").map do |filename|
+    next if filename.match(/index.md$/)
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
     [relative_path, filename.split("/").last.gsub('-',' ').gsub('.md', '').titlecase.gsub("Copd", "COPD")]
   end
-  add_images(Dir.glob(File.dirname(__FILE__) + "/views/courses/*-image.*"))
+  add_images(Dir.glob(File.dirname(__FILE__) + "/views/spirometry/*-image.*"))
   erb :sidebar_page_layout do
     markdown body
   end
@@ -98,8 +97,7 @@ get %r{/about-us/?([\w-]+)?} do
     @title = "#{page.gsub('-',' ').titlecase}"
   end
   @menu_title = "Menu"
-  @intro, body = get_intro_and_body("about-us/#{page}")
-  location =
+  body = get_body("about-us/#{page}")
   @menu = Dir.glob(File.dirname(__FILE__) + "/views/about-us/*md").map do |filename|
     next if filename.match /index.md$/
     relative_path = filename.sub(File.dirname(__FILE__) + "/views", "").sub('.md', '')
@@ -113,21 +111,12 @@ end
 
 get '/:template' do
   @title = "#{params[:template].gsub('-',' ').titlecase}"
-  @intro, body = get_intro_and_body(params[:template])
+  body = get_body(params[:template])
   erb :fullpage_layout do
     markdown body
   end
 end
 
-
-def get_intro_and_body(template_name)
-  text = open(File.dirname(__FILE__) + "/views/#{template_name.to_s}.md").read
-  match = text.match(/(^.*?)(^#.*)/m)
-  if match
-    intro, body = match.captures
-  else
-    intro = nil
-    body = text
-  end
-  return intro, body
+def get_body(template_name)
+  return open(File.dirname(__FILE__) + "/views/#{template_name.to_s}.md").read
 end
