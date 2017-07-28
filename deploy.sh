@@ -1,4 +1,5 @@
-#/bin/bash
+#!/bin/bash
 set -e
+git pull
 touch tmp/restart.txt
-rsync -Cazvv --delete . respiratorymatters:respiratorymatters.com/
+rsync -Cazvv --exclude=.git --delete . soptor@respiratorymatters.com:respiratorymatters.com/
