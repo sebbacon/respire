@@ -108,7 +108,10 @@ This one day course is designed for people performing spirometry in an occupatio
 | ARTP approved foundation module   | £150 inc VAT   |
 
 
-
+### Audiometry for occupational health
+  
+If you work in occupational health and are also looking for audiometry training please visit www.audiometry.training
+ 
 ## Spirometry refresher day
 
 ### Dates
