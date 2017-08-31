@@ -15,9 +15,9 @@ There is also the option of completing the Certificate in COPD, rather than the 
 
 ### course dates
 
-| mandatory Study days  | Submission| Area           | Cost         |
-|-----------------------|-----------|----------------|--------------| 
-|27/09/17, 28/09/17     | 27/03/18  | Huddersfield   | £570 inc VAT | 
-|10/07/18, 11/07/18     | 10/01/19  | Huddersfield   | £570 inc VAT | 
+| mandatory Study days  | Submission | Area           | Cost         |
+|-----------------------|------------|----------------|--------------| 
+|27/09/17, 28/09/17     | 27/03/18   | Huddersfield   | £570 inc VAT | 
+|10/07/18, 11/07/18     | 10/01/19   | Huddersfield   | £570 inc VAT | 
 
 Please contact us for further information and an application form info@respiratorymatters.com
