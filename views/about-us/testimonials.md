@@ -41,3 +41,8 @@ What people have said:
 > Sophie Toor is a very enthusiastic and effective communicator. Her passion for improving the clinical management of children with Asthma is clearly evident throughout her work .Sophie is very knowledgeable and yet flexible in her approach and  has led  the successful delivery of training in childhood asthma, to our  Gp practices, within Calderdale, September to March 2014. The project she developed and delivered ,evaluated well, and we hope to see positive outcomes in the future in Calderdale , as we focus  on  our young population with respiratory conditions
 
 **Hazel Carsley. GP. Calderdale CCG**
+
+'Thank-you Sophie for the delivery of an excellent two day programme and practical, pertaining to the ARTP/BTS Full Certificate in Spirometry.  'Respiratory Matters' reflects contemporary teaching methods with enthusiasm, addressing learning needs to obtain individual learning outcomes in accordance with up to date evidence based guidelines. The atmosphere is relaxed, groups appropriately sized, course value for money and overall a most positive experience'.
+
+**Amanda J Rees. ANP**
+
