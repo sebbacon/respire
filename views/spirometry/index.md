@@ -24,15 +24,16 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 ### Dates
 
-| Study days (Full Certificates) | Area         |
+| Study days (Full Certificate) | Area          |
 |--------------------------------|--------------|
-|11/12 July 2017                 | Huddersfield |
-|6/7 September                   | Huddersfield |
-|9/10 October                    | Huddersfield |
-|15/16 November                  | Huddersfield |
-|11/12 December                  | Huddersfield |
+|15/16 November 2017             | Huddersfield |
+|11/12 December 2017             | Huddersfield |
 |10/11 January 2018              | Huddersfield |
-|27/28 February 2018             | Huddersfield |
+|27/28 February 2018             |  Huddersfield|
+|26/27 March 2018                | Huddersfield |
+|23/24 May 2018                  | Huddersfield |
+|19/20 June 2018                 | Huddersfield |
+|3/4 July 2018                   | Huddersfield |
 
 ### Prices
 
@@ -49,13 +50,14 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |
 |--------------------------|--------------|
-|11 July 2017              | Huddersfield |
-|6 September               | Huddersfield |
-|9 October                 | Huddersfield |
-|15 November               | Huddersfield |
-|11 December               | Huddersfield |
+|15 November 2017          | Huddersfield |
+|11 December 2017          | Huddersfield |
 |10 January 2018           | Huddersfield |
 |27 February 2018          | Huddersfield |
+|26 March 2018             | Huddersfield |
+|23 May 2018               | Huddersfield |
+|19 June 2018              | Huddersfield |
+|3 July 2018               | Huddersfield |
 
 ### Prices
 
@@ -74,13 +76,14 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|12 July 2017                 | Huddersfield |
-|7 September                  | Huddersfield |
-|10 October                   | Huddersfield |
-|16 November                  | Huddersfield |
-|12 December                  | Huddersfield |
+|16 November 2017             | Huddersfield |
+|12 December 2017             | Huddersfield |
 |11 January 2018              | Huddersfield |
 |28 February 2018             | Huddersfield |
+|27 March 2018                | Huddersfield |
+|24 May 2018                  | Huddersfield |
+|20 June 2018                 | Huddersfield |
+| 4 July 2018                 | Huddersfield |
 
 ### Prices
 
@@ -97,9 +100,9 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|14 September 2017         | Huddersfield |
 |6 December 2017           | Huddersfield |
 |28 March 2018             | Huddersfield |
+|21 June 2018              | Huddersfield |
 
 ### Prices
 
@@ -118,8 +121,8 @@ If you work in occupational health and are also looking for audiometry training 
 
 | Study days                  | Area         |
 |-----------------------------|--------------|
-| 20th September 2017         | Huddersfield |
 | 25th April 2018             | Huddersfield |
+| 16th October 2018           | Huddersfield |
 
 ### Prices
 
