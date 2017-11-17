@@ -26,7 +26,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate) | Area          |
 |--------------------------------|--------------|
-|15/16 November 2017             | Huddersfield |
 |11/12 December 2017             | Huddersfield |
 |10/11 January 2018              | Huddersfield |
 |27/28 February 2018             |  Huddersfield|
@@ -50,7 +49,6 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |
 |--------------------------|--------------|
-|15 November 2017          | Huddersfield |
 |11 December 2017          | Huddersfield |
 |10 January 2018           | Huddersfield |
 |27 February 2018          | Huddersfield |
@@ -76,7 +74,6 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|16 November 2017             | Huddersfield |
 |12 December 2017             | Huddersfield |
 |11 January 2018              | Huddersfield |
 |28 February 2018             | Huddersfield |
@@ -102,7 +99,6 @@ This one day course is designed for people performing spirometry in an occupatio
 |--------------------------|--------------|
 |6 December 2017           | Huddersfield |
 |28 March 2018             | Huddersfield |
-|21 June 2018              | Huddersfield |
 
 ### Prices
 
