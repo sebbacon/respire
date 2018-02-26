@@ -32,7 +32,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |21/22 November 2018             | Huddersfield |
 |5/6 December 2018               | Huddersfield |
 
-### Prices. This price includes extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
+### Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                                  | Price        |    
 |-----------------------------------------|------------- |
@@ -83,7 +83,7 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 |22 Nov                       | Huddersfield |
 |6 Dec                        | Huddersfield |
 
-### Our prices includes extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
+### Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
