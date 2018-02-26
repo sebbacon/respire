@@ -4,8 +4,9 @@ Healthcare professionals who intend to perform and interpret quality assured dia
 
 If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
 
-#### Spirometry Courses. 
 
+## Spirometry courses
+ 
 Our spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Secondary Care, Physiologists, technicians and those working in an occupational health setting. As well as attending the spirometry study days, if you need to be placed on the national register to comply with regulations within your workplace, you will also need to register with ARTP. You will then be required to submit a portfolio of evidence and for those people who have attended the foundation or full certificate course, a practical assessment will also need to be completed. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. You do not need to register before attending a study day, and no further training is required.
 
 Please contact us at info@respiratorymatters.com for further information and an application form
