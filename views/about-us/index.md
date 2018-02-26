@@ -6,6 +6,6 @@ Our mission is to improve the care and outcomes of people with respiratory disea
 
 We deliver asthma and COPD Certificate and Diploma courses,and Foundation, Interpretation and Full Certificate courses in spirometry. As well as delivering courses every month at our training centre in Huddersfield,  we also work nationally with CCG's working with them to meet their respiratory education requirements and to support them following the new guidance from NHS England that health care professionals performing and/or interpreting spirometry need to have ARTP certification by 2021
 
-We are able to travel nationally to deiver our courses.
+We are able to travel nationally to deliver our courses.
 
 In addition to education, we are frequently commissioned by  CCG’s to lead on respiratory projects, and are involved in respiratory research.
