@@ -102,7 +102,7 @@ This one day course is designed for people performing spirometry in an occupatio
 | Study day                | Area         |
 |--------------------------|--------------|
 |28 March 2018             | Huddersfield |
-|11 June 2018              | Huddersfield |
+|7  June 2018              | Huddersfield |
 |24 September 2018         | Huddersfield |
 |10 December 2018          | Huddersfield |
 
