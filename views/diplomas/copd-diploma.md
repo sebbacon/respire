@@ -2,6 +2,8 @@ This Respiratory Matters Diploma is suitable for Health Care Professionals who a
 
 The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications Framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. 
 
+The COPD Diploma has been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements
+
 There is also the option of completing the Certificate in COPD, rather than the diploma. Formative assessments are completed throughout the study days but there is no formal written assessement to submit. Please see our training course section.
 
 ### Learning outcomes
