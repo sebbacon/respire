@@ -1,13 +1,15 @@
-### New regulations for diagnostic spirometry
+### Competency certification for diagnostic spirometry
 
-Healthcare professionals who intend to perform and interpret quality assured diagnostic spirometry (QADS) will have to be certified as competent to either perform spirometry, interpret the results, or both and placed on a national register with a reaccreditation scheme to ensure ongoing competency. This scheme, implemented by NHS England, gives practitioners until 31st March 2021 to complete this process and ensure that they are on this register. ARTP were asked to hold this national register.
+Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards.
+
+In addition to this, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you with this. Further details will be provided during the study day(s).
 
 If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
 
 
 ## Spirometry courses
  
-Our spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Secondary Care, Physiologists, technicians and those working in an occupational health setting. As well as attending the spirometry study days, if you need to be placed on the national register to comply with regulations within your workplace, you will also need to register with ARTP. You will then be required to submit a portfolio of evidence and for those people who have attended the foundation or full certificate course, a practical assessment will also need to be completed. On successful completion of the assessments you will receive the relevant certificate from ARTP and be included on the National Register of Certified Professional and Operators. You do not need to register before attending a study day, and no further training is required.
+Our spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Secondary Care, Physiologists, technicians and those working in an occupational health setting.  
 
 Please contact us at info@respiratorymatters.com for further information and an application form
 
@@ -23,7 +25,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|26/27 March 2018                | Huddersfield |
 |23/24 May 2018                  | Huddersfield |
 |19/20 June 2018                 | Huddersfield |
 |3/4 July 2018                   | Huddersfield |
@@ -48,7 +49,6 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |
 |--------------------------|--------------|
-|26 March 2018             | Huddersfield |
 |23 May 2018               | Huddersfield |
 |19 June 2018              | Huddersfield |
 |3 July 2018               | Huddersfield |
@@ -76,7 +76,6 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|27 March 2018                | Huddersfield |
 |24 May 2018                  | Huddersfield |
 |20 June 2018                 | Huddersfield |
 |4 July 2018                  | Huddersfield |
@@ -101,7 +100,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|28 March 2018             | Huddersfield |
 |7  June 2018              | Huddersfield |
 |24 September 2018         | Huddersfield |
 |10 December 2018          | Huddersfield |
