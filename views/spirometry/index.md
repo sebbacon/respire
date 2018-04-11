@@ -2,7 +2,7 @@
 
 Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards.
 
-In addition to this, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you with this. Further details will be provided during the study day(s).
+Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
 If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
 
