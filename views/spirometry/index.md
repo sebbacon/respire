@@ -68,7 +68,6 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 
 ### Price
-Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
@@ -99,7 +98,6 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 |17 September 2019            | Huddersfield |
 
 ### Price
-Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
@@ -119,7 +117,6 @@ This one day course is designed for people performing spirometry in an occupatio
 |13 March 2019             | Huddersfield |
 
 ### Price
-Our prices includes extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                            | Price          |
 |-----------------------------------|----------------|
