@@ -25,13 +25,18 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|23/24 May 2018                  | Huddersfield |
-|19/20 June 2018                 | Huddersfield |
 |3/4 July 2018                   | Huddersfield |
 |11/12 September2018             | Huddersfield |
 |17/18 October 2018              | Huddersfield |
 |21/22 November 2018             | Huddersfield |
 |5/6 December 2018               | Huddersfield |
+|16/17 January 2019              | Huddersfield |
+|25/26 February 2019             | Huddersfield |
+|19/20 March 2019                | Huddersfield |
+|15/16 May 2019                  | Huddersfield |
+|3/4 June 2019                   | Huddersfield |
+|9/10 July 2019                  | Huddersfield |
+|16/17 September 2019            | Huddersfield |
 
 ### Price
 Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
@@ -47,15 +52,20 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 ### Dates
 
-| Study days (Foundation)  | Area         |
+| Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|23 May 2018               | Huddersfield |
-|19 June 2018              | Huddersfield |
 |3 July 2018               | Huddersfield |
 |11 September 2018         | Huddersfield |
 |17 October 2018           | Huddersfield |
 |21 November 2018          | Huddersfield |
 |5 December 2018           | Huddersfield |
+|16 January 2019           | Huddersfield |
+|25 February 2019          | Huddersfield |
+|19 March 2019             | Huddersfield |
+|15 May 2019               | Huddersfield |
+|3 June 2019               | Huddersfield |
+|9 July 2019               | Huddersfield |
+|16 September 2019         | Huddersfield |
 
 
 ### Price
@@ -76,13 +86,18 @@ This course can also be taken by clinicians who do not perfrom spirometry but ne
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|24 May 2018                  | Huddersfield |
-|20 June 2018                 | Huddersfield |
 |4 July 2018                  | Huddersfield |
-|12 Sept                      | Huddersfield |
-|18 Oct                       | Huddersfield |
-|22 Nov                       | Huddersfield |
-|6 Dec                        | Huddersfield |
+|12 Sepember 2018             | Huddersfield |
+|18 October 2018              | Huddersfield |
+|22 November 2018             | Huddersfield |
+|6 December 2018              | Huddersfield |
+|16 January 2019              | Huddersfield |
+|26 February 2019             | Huddersfield |
+|20 March 2019                | Huddersfield |
+|16 May 2019                  | Huddersfield |
+|4 June 2019                  | Huddersfield |
+|10 July 2019                 | Huddersfield |
+|17 September 2019            | Huddersfield |
 
 ### Price
 Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
@@ -94,7 +109,7 @@ Our prices include extensive resources, on-going support, an update within 3 yea
 
 ## Spirometry study day for occupational health professionals
 
-This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for our foundation course but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. Gaining ARTP certification is not mandatory in occupational health unless you are perfroming spirometry for diagnostic purposes. 
+This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for our foundation course but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes.  
 
 ### Dates. 
 
@@ -102,7 +117,7 @@ This one day course is designed for people performing spirometry in an occupatio
 |--------------------------|--------------|
 |7  June 2018              | Huddersfield |
 |24 September 2018         | Huddersfield |
-|10 December 2018          | Huddersfield |
+|13 March 2019             | Huddersfield |
 
 ### Price
 Our prices includes extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
@@ -122,8 +137,8 @@ If you work in occupational health and are also looking for audiometry training 
 
 | Study days                  | Area         |
 |-----------------------------|--------------|
-| 25th April 2018             | Huddersfield |
 | 16th October 2018           | Huddersfield |
+| 10th June 2019              | Huddersfield |
 
 ### Prices
 
