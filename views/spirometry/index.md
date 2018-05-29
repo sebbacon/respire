@@ -47,7 +47,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 ## Foundation Certificate in Spirometry (Performance)
 
-This certificate is suitable for practitioners who regularly perfrom spirometry WITHOUT interpreting the results. This is a practical competence certificate. This is a 1 day course.
+This certificate is suitable for practitioners who regularly perfrom spirometry WITHOUT interpreting the results. 
 
 ### Dates
 
@@ -76,9 +76,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 ## Interpretation Module
 
-For those who already have the ARTP Foundation Certificate, successful completion of this course and then ARTP registration (and online assessment), will have the same weighting as the ARTP Full Certificate in Spirometry.
-
-This course can also be taken by clinicians who do not perfrom spirometry but need to interpret it, therefore requiring the knowledge on how to do this effectively as well as a background of understanding. This is a 1 day course.
+This certificate is suitable for those people who are interpreting spirometry but not perfroming the test. or for those who have completed the foundation certificate and are now looking to gain the full certificate.
 
 ### Dates
 
