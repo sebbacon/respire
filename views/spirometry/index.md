@@ -76,7 +76,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 ## Interpretation Module
 
-This certificate is suitable for those people who are interpreting spirometry but not perfroming the test. or for those who have completed the foundation certificate and are now looking to gain the full certificate.
+This certificate is suitable for those people who are interpreting spirometry but not perfroming the test, or for those who have completed the foundation certificate and are now looking to gain the full certificate.
 
 ### Dates
 
