@@ -39,7 +39,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |16/17 September 2019            | Huddersfield |
 
 ### Price
-Our prices include extensive resources, on-going support, an update within 3 years of original course date, lunch and refreshments.
 
 | Course                                  | Price        |    
 |-----------------------------------------|------------- |
