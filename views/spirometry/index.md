@@ -25,7 +25,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|3/4 July 2018                   | Huddersfield |
 |11/12 September2018             | Huddersfield |
 |17/18 October 2018              | Huddersfield |
 |21/22 November 2018             | Huddersfield |
@@ -53,7 +52,6 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|3 July 2018               | Huddersfield |
 |11 September 2018         | Huddersfield |
 |17 October 2018           | Huddersfield |
 |21 November 2018          | Huddersfield |
@@ -82,7 +80,6 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|4 July 2018                  | Huddersfield |
 |12 Sepember 2018             | Huddersfield |
 |18 October 2018              | Huddersfield |
 |22 November 2018             | Huddersfield |
@@ -110,7 +107,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|7  June 2018              | Huddersfield |
 |24 September 2018         | Huddersfield |
 |13 March 2019             | Huddersfield |
 
@@ -119,11 +115,6 @@ This one day course is designed for people performing spirometry in an occupatio
 | Course                            | Price          |
 |-----------------------------------|----------------|
 | Spirometry for occupational health| £150 inc VAT   |
-
-
-### Audiometry for occupational health
-  
-If you work in occupational health and are also looking for audiometry training please visit www.audiometry.training
  
 ## Spirometry refresher day
 
