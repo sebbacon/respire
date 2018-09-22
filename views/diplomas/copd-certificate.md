@@ -16,7 +16,6 @@ If you are a CCG or private company and would like to commission our services, p
 
 | Study days          | Area         | Cost        |
 |---------------------|--------------|-------------|
-| 19/09/18, 20/09/18  | Huddersfield | £300 inc VAT|
 | 11/03/19, 12/03/19  | Huddersfield | £300 inc VAT|
 | 11/09/19, 12/09/19  | Huddersfield | £300 inc VAT|
 
