@@ -117,7 +117,7 @@ This is suitable for anyone performing and interpreting spiromtry who is either 
 ### Dates
 
 | All year round on a mutually agreed date| Huddersfield |
-
+|-----------------------------------------|--------------|
 
 ### Prices
 
