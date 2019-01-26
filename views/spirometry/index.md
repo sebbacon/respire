@@ -4,7 +4,7 @@ Our spirometry courses have all been accredited by the CPD certification service
 
 Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
-If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com
+If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com to discuss your requirements. Discounts are available.
 
 
 ## Spirometry courses
@@ -25,16 +25,15 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|17/18 October 2018              | Huddersfield |
-|21/22 November 2018             | Huddersfield |
-|12/13 December 2018             | Huddersfield |
-|16/17 January 2019              | Huddersfield |
 |25/26 February 2019             | Huddersfield |
 |19/20 March 2019                | Huddersfield |
 |15/16 May 2019                  | Huddersfield |
 |3/4 June 2019                   | Huddersfield |
 |9/10 July 2019                  | Huddersfield |
 |16/17 September 2019            | Huddersfield |
+|2/3 October 2019                | Huddersfield |
+|19/20 November 2019             | Huddersfield |
+3/4 December 2019                | Huddersfield |
 
 ### Price
 
@@ -51,16 +50,15 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|17 October 2018           | Huddersfield |
-|21 November 2018          | Huddersfield |
-|12 December 2018          | Huddersfield |
-|16 January 2019           | Huddersfield |
 |25 February 2019          | Huddersfield |
 |19 March 2019             | Huddersfield |
 |15 May 2019               | Huddersfield |
 |3 June 2019               | Huddersfield |
 |9 July 2019               | Huddersfield |
 |16 September 2019         | Huddersfield |
+|2 October 2019            | Huddersfield |
+|19 November 2019          | Huddersfield |
+|3 December 2019           | Huddersfield |
 
 
 ### Price
@@ -78,16 +76,15 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|18 October 2018              | Huddersfield |
-|22 November 2018             | Huddersfield |
-|13 December 2018             | Huddersfield |
-|16 January 2019              | Huddersfield |
 |26 February 2019             | Huddersfield |
 |20 March 2019                | Huddersfield |
 |16 May 2019                  | Huddersfield |
 |4 June 2019                  | Huddersfield |
 |10 July 2019                 | Huddersfield |
 |17 September 2019            | Huddersfield |
+|3 October 2019               | Huddersfield |
+|20 November 2019             | Huddersfield |
+|3 December 2019              | Huddersfield |
 
 ### Price
 
@@ -113,17 +110,17 @@ This one day course is designed for people performing spirometry in an occupatio
 |-----------------------------------|----------------|
 | Spirometry for occupational health| £150 inc VAT   |
  
-## Spirometry refresher day
+## Spirometry 1-2-1 day
+
+This is suitable for anyone performing and interpreting spiromtry who is either entirely new to the process, or someone who hasn't had any formal training and would like the day as an update opportunity.
 
 ### Dates
 
-| Study days                  | Area         |
-|-----------------------------|--------------|
-| 16th October 2018           | Huddersfield |
-| 10th June 2019              | Huddersfield |
+| All year round on a mutually agreed date| Huddersfield |
+
 
 ### Prices
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
-| Spirometry refresher  study day            | £150 inc VAT   | 
+| 1-2-1 study day                            | £600 inc VAT   | 
