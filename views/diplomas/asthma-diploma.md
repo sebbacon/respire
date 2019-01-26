@@ -20,7 +20,6 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 | mandatory study days | Submission | Area           | Cost          |
 ---------------------- |------------|----------------|---------------|
-|10/10/18,11/10/18     | 13/04/19   | Huddersfield   | £570 inc VAT  |
 |03/04/19,04/04/19     | 10/10/19   | Huddersfield   | £570 inc VAT  |
 |07/10/19,08/10/19     | 11/04/20   | Huddersfield   | £570 inc VAT  |
 
