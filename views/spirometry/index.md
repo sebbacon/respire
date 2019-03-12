@@ -28,6 +28,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |19/20 March 2019                | Huddersfield |
 |15/16 May 2019                  | Huddersfield |
 |3/4 June 2019                   | Huddersfield |
+|9/10 July 2019                  | Huddersfield |
 |16/17 September 2019            | Huddersfield |
 |2/3 October 2019                | Huddersfield |
 |15/16 January 2020              | Huddersfield |
@@ -50,6 +51,7 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 |19 March 2019             | Huddersfield |
 |15 May 2019               | Huddersfield |
 |3 June 2019               | Huddersfield |
+|9 July 2019               | Huddersfield |
 |16 September 2019         | Huddersfield |
 |2 October 2019            | Huddersfield |
 |15 January 2020           | Huddersfield |
@@ -73,6 +75,7 @@ This certificate is suitable for those people who are interpreting spirometry bu
 |20 March 2019                | Huddersfield |
 |16 May 2019                  | Huddersfield |
 |4 June 2019                  | Huddersfield |
+|10 July 2019                 | Huddersfield |
 |17 September 2019            | Huddersfield |
 |3 October 2019               | Huddersfield |
 |16 January 2020              | Huddersfield |
