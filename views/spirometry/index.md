@@ -25,15 +25,12 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|25/26 February 2019             | Huddersfield |
 |19/20 March 2019                | Huddersfield |
 |15/16 May 2019                  | Huddersfield |
 |3/4 June 2019                   | Huddersfield |
-|9/10 July 2019                  | Huddersfield |
 |16/17 September 2019            | Huddersfield |
 |2/3 October 2019                | Huddersfield |
-|19/20 November 2019             | Huddersfield |
-3/4 December 2019                | Huddersfield |
+|15/16 January 2020              | Huddersfield |
 
 ### Price
 
@@ -50,15 +47,12 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|25 February 2019          | Huddersfield |
 |19 March 2019             | Huddersfield |
 |15 May 2019               | Huddersfield |
 |3 June 2019               | Huddersfield |
-|9 July 2019               | Huddersfield |
 |16 September 2019         | Huddersfield |
 |2 October 2019            | Huddersfield |
-|19 November 2019          | Huddersfield |
-|3 December 2019           | Huddersfield |
+|15 January 2020           | Huddersfield |
 
 
 ### Price
@@ -76,15 +70,12 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|26 February 2019             | Huddersfield |
 |20 March 2019                | Huddersfield |
 |16 May 2019                  | Huddersfield |
 |4 June 2019                  | Huddersfield |
-|10 July 2019                 | Huddersfield |
 |17 September 2019            | Huddersfield |
 |3 October 2019               | Huddersfield |
-|20 November 2019             | Huddersfield |
-|3 December 2019              | Huddersfield |
+|16 January 2020              | Huddersfield |
 
 ### Price
 
@@ -101,8 +92,8 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|13 March 2019             | Huddersfield |
 |18 September 2019         | Huddersfield |
+|10 March 2020             | Huddersfield |
 
 ### Price
 
