@@ -26,7 +26,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
 |19/20 March 2019                | Huddersfield |
-|15/16 May 2019                  | Huddersfield |
 |3/4 June 2019                   | Huddersfield |
 |9/10 July 2019                  | Huddersfield |
 |16/17 September 2019            | Huddersfield |
@@ -73,7 +72,6 @@ This certificate is suitable for those people who are interpreting spirometry bu
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
 |20 March 2019                | Huddersfield |
-|16 May 2019                  | Huddersfield |
 |4 June 2019                  | Huddersfield |
 |10 July 2019                 | Huddersfield |
 |17 September 2019            | Huddersfield |
