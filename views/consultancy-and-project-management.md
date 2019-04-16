@@ -2,13 +2,13 @@ We have worked with many large organisations including Asthma UK, Interface Clin
 
 We have been commissioned by CCG's to lead on the following respiratory projects.
 
-•	2011. Yorkshire and Humber SHA and Asthma UK. First Paediatric Asthma Local Enhanced service in the UK.
+•	2011. Yorkshire and Humber SHA and Asthma UK. First Paediatric Asthma Local Enhanced Service in the UK. Clinical Lead
+•	2012-2014. Calderdale CCG Living Well with asthma project (Paediatrics). Clinical Lead
+•	2015. Calderdale.  Provision of COPD and spirometry and project support for COPD case finding project
+•	2015 –2016  Leeds West CCG. Paediatric Asthma Project. Clinical Lead
+•	2016-2019. Provision of spirometry education for the following CCG’s; Sheffield, Lancaster, Blackburn and Darwen,  Huddersfield, Oldham and Calderdale
+•	2018-2019. Salford CCG. Project lead. Digital health innovation
 
-•	2012-2014. Calderdale CCG Living Well with asthma project (Paediatrics)
-
-•	2015. Calderdale CCG to provide education and project support for COPD case finding project
-
-•	2015 –2016  Leeds West CCG. Paediatric Asthma Project.
 
 
 ## Testimonials ##
