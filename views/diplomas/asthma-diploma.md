@@ -22,6 +22,6 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 ---------------------- |------------|----------------|---------------|
 |07/10/19,08/10/19     | 01/05/20   | Huddersfield   | £570 inc VAT  |
 |28/04/20,29/04/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |
-
+|13/10/20,14/10/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |
 
 Please contact us for further information and an application form info@respiratorymatters.com
