@@ -21,7 +21,7 @@ There is also the option of completing the Certificate in COPD, rather than the 
 |-----------------------|------------|----------------|--------------| 
 |11/09/19, 12/09/19     | 12/03/20   | Huddersfield   | £570 inc VAT | 
 |24/03/20, 25/03/20     | 10/10/20   | Huddersfield   | £570 inc VAT | 
-
+|15/09/20, 16/09/20     | 10/10/20   | Huddersfield   | £570 inc VAT | 
 
 
 Please contact us for further information and an application form info@respiratorymatters.com
