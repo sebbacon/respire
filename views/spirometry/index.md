@@ -25,8 +25,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|16/17 September 2019            | Huddersfield |
-|2/3 october 2019                | Huddersfield |
 |15/16 January 2020              | Huddersfield |
 |12/13 February 2020             | Huddersfield |
 |11/12 March 2020                | Huddersfield |
@@ -50,8 +48,6 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|16 September 2019         | Huddersfield |
-|2 October 2019            | Huddersfield |
 |15 January 2020           | Huddersfield |
 |12 February 2020          | Huddersfield |
 |11 March 2020             | Huddersfield |
@@ -74,8 +70,6 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|17 September 2019            | Huddersfield |
-|3 October 2019               | Huddersfield |
 |16 January 2020              | Huddersfield |
 |13 February 2020             | Huddersfield |
 |12 March 2020                | Huddersfield |
@@ -98,7 +92,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|18 September 2019         | Huddersfield |
 |10 March 2020             | Huddersfield |
 |9 July 2020               | Huddersfield 
 
