@@ -14,9 +14,10 @@ If you are a CCG or private company and would like to commission our services, p
 
 ### course dates
 
-| Study days          | Area         | Cost        |
-|---------------------|--------------|-------------|
-| 24/03/20, 25/03/20  | Huddersfield | £300 inc VAT|
-| 15/09/20, 16/09/20  | Huddersfield | £300 inc VAT|
+| Study days          | Area          | Cost        |
+|---------------------|---------------|-------------|
+| 24/03/20, 25/03/20  | Huddersfield  | £300 inc VAT|
+| 15/06/20, 16/06/20  | Central London| £300 inc VAT|
+| 15/09/20, 16/09/20  | Huddersfield  | £300 inc VAT|
 
 Please contact us for further information and an application form at info@respiratorymatters.com
