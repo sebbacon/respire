@@ -12,7 +12,7 @@ We have been commissioned by CCG's to lead on the following respiratory projects
 
 •	2016-2019. Provision of spirometry education for the following CCG’s; Sheffield, Lancaster, Blackburn and Darwen,  Huddersfield, Oldham and Calderdale
 
-•	2018-2019. Salford CCG. Project lead. Digital health innovation
+•	2018-2019. Salford CCG/Clin-e-cal. Project lead. Digital health innovation
 
 
 
