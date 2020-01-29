@@ -18,10 +18,10 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 ### course dates 
 
-| mandatory study days | Submission | Area           | Cost          |
----------------------- |------------|----------------|---------------|
-|28/04/20,29/04/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |
-|17/06/20, 18/06/20    | 15/01/21   | Central London | £570 inc VAT  |
-|13/10/20,14/10/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |
+| mandatory study days | Submission | Area           | Cost          |Availability |
+---------------------- |------------|----------------|---------------|-------------
+|28/04/20,29/04/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |Available    |
+|17/06/20, 18/06/20    | 15/01/21   | Central London | £570 inc VAT  |FULL         |
+|13/10/20,14/10/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |Available    |
 
 Please contact us for further information and an application form info@respiratorymatters.com
