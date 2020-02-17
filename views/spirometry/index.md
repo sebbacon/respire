@@ -25,13 +25,13 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|15/16 January 2020              | Huddersfield |
-|12/13 February 2020             | Huddersfield |
 |11/12 March 2020                | Huddersfield |
+|12/13 May 2020                  | Huddersfield |
 |9/10 June 2020                  | Huddersfield |
-|7/8 Juy 2020                    | Huddersfield |
+|7/8 July 2020                   | Huddersfield |
 |22/23 September 2020            | Huddersfield |
-
+|7/8 October 2020                | Huddersfield |
+|4/5 November 2020               | Huddersfield |
 
 ### Price
 
@@ -48,12 +48,14 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|15 January 2020           | Huddersfield |
-|12 February 2020          | Huddersfield |
 |11 March 2020             | Huddersfield |
+|12 May 2020               | Huddersfield |
 |9 June 2020               | Huddersfield |
 |7 July 2020               | Huddersfield |
 |22 September 2020         | Huddersfield |
+|7 October 2020            | Huddersfield |
+|4 November 2020           | Huddersfield |
+
 
 ### Price
 
@@ -70,12 +72,13 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|16 January 2020              | Huddersfield |
-|13 February 2020             | Huddersfield |
 |12 March 2020                | Huddersfield |
-|10 June 2020                 | Huddersfield |
-|8 July 2020                  | Huddersfield |
+|13 May 2020                  | Huddersfield |
+|10 June                      | Huddersfield |
+|8 July                       | Huddersfield |
 |23 September 2020            | Huddersfield |
+|8 October 2020               | Huddersfield |
+|5 November 2020              | Huddersfield|
 
 ### Price
 
