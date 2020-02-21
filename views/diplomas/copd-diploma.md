@@ -20,6 +20,7 @@ There is also the option of completing the Certificate in COPD, rather than the 
 | mandatory Study days  | Submission | Area           | Cost         |Availability|
 |-----------------------|------------|----------------|--------------|------------ 
 |24/03/20, 25/03/20     |10/10/20    |Huddersfield    |£570 inc VAT  |Available   |
+|02/06/20, 03/06/20     |15/12/20    |Huddersfield    |£570 inv VAT  |Available   |
 |15/06/19, 16/06/19     |05/01/21    |Central London  |£570 inc VAT  |FULL        |
 |15/09/20, 16/09/20     |30/04/21    |Huddersfield    |£570 inc VAT  |Available   | 
 
