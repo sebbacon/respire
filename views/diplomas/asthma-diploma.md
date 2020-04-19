@@ -29,7 +29,7 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 |Start date            | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
-|Open availablility    | 6 months   | National       | £500 inc VAT  |Available    |        |
+|Open availablility    | 6 months   | National       | £570 inc VAT  |Available    |        |
 
 
 
