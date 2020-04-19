@@ -29,7 +29,7 @@ If you are a CCG or private company and would like to commission our services pl
 
 |Start date          |	Area          | Cost        | Availability|
 |--------------------|----------------|-------------|-------------
-| Open availability  | National       | £250 inc VAT| Available   |
+| Open availability  | National       | £300 inc VAT| Available   |
 
 
 Please contact us for further information and an application form at info@respiratorymatters.com
