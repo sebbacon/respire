@@ -4,7 +4,7 @@ This course is suitable for Health Care Professionals who are caring for people 
 
 If you are a CCG or private company and would like to commission our services please contact us at info@respiratorymatters.com
 
-Learning outcomes
+### Learning outcomes
 
 * Recognise the signs and symptoms of asthma.
 
