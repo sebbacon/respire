@@ -1,6 +1,6 @@
 ### Competency certification for diagnostic spirometry
 
-Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards.
+Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards. Courses can be completed face to face or via e-learning.
 
 Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
@@ -23,7 +23,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 ### Dates
 
-### e-learning courses available throughout the year
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
@@ -34,7 +33,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |7/8 October 2020                | Huddersfield |
 |4/5 November 2020               | Huddersfield |
 
-
+### e-learning courses available throughout the year
 
 ### Price
 
