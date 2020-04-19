@@ -1,6 +1,6 @@
 ### Certificate in Asthma
 
-This course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics).
+This course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics). 
 
 If you are a CCG or private company and would like to commission our services please contact us at info@respiratorymatters.com
 
@@ -16,7 +16,10 @@ If you are a CCG or private company and would like to commission our services pl
 
 * Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
-### course dates
+
+### e-learning courses available throughout the year
+
+### Classroom-based course dates
 
 |Study days          |	Area          | Cost       | Availability|
 |--------------------|---------------|-------------|-------------
