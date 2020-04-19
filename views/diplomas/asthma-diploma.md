@@ -16,16 +16,16 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas   for change
 
-### e-learning courses available throughout the year
+### Course dates
 
-### Distance learning with classroom based study days
-
-| mandatory study days | Submission | Area           | Cost          |Availability |
+|Study days            | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
 |28/04/20,29/04/20     | 10/11/20   | Huddersfield   | £570 inc VAT  |FULL         |
 |17/06/20, 18/06/20    | 15/12/20   | Central London | £570 inc VAT  |FULL         |
 |29/06/20, 30/06/20    | 15/01/21   | Huddersfield   | £570 inc VAT  |Available    |
 |13/10/20, 14/10/20    | 30/04/21   | Huddersfield   | £570 inc VAT  |Available    |
+
+### e-learning courses available throughout the year
 
 
 Please contact us for further information and an application form info@respiratorymatters.com
