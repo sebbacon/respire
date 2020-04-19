@@ -18,7 +18,7 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 ### e-learning courses available throughout the year
 
-### Course dates
+### Distance learning with classroom based study days
 
 | mandatory study days | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
