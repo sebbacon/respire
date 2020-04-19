@@ -16,7 +16,9 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 * Be able to apply evidence-based practice through use of protocols
 * Appraise an area of current practice by measuring it against pre-selected standards, in order to identify and implement areas   for change
 
-### course dates 
+### e-learning courses available throughout the year
+
+### Course dates
 
 | mandatory study days | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
