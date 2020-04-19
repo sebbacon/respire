@@ -16,17 +16,20 @@ If you are a CCG or private company and would like to commission our services pl
 
 * Be able to empower people with asthma to take control of their condition through gold standard asthma reviews.
 
-
-### e-learning courses available throughout the year
-
-### Classroom-based course dates
+### Course dates
 
 |Study days          |	Area          | Cost       | Availability|
 |--------------------|---------------|-------------|-------------
-| 28/04/20, 29/04/20 | Huddersfield  | £300 inc VAT|FULL         |
-| 17/06/20, 18/06/20 | Central London| £300 inc VAT|FULL         |
-| 29/06/20, 30/06/20 | Huddersfield  | £300 inc VAT|Available    |
-| 13/10/20, 14/10/20 | Huddersfield  | £300 inv VAT| Available   |
+| 17/06/20, 18/06/20 | Central London| £300 inc VAT| FULL        |
+| 29/06/20, 30/06/20 | Huddersfield  | £300 inc VAT| Available   |
+| 13/10/20, 14/10/20 | Huddersfield  | £300 inc VAT| Available   |
+| 11/05/21, 12/05/21 | Huddersfield  | £300 inc VAT| Available   |
+
+### e-learning courses available throughout the year
+
+|Start date          |	Area          | Cost        | Availability|
+|--------------------|----------------|-------------|-------------
+| Open availability  | National       | £250 inc VAT| Available   |
 
 
 Please contact us for further information and an application form at info@respiratorymatters.com
