@@ -23,6 +23,8 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 ### Dates
 
+### e-learning courses available throughout the year
+
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
 |12/13 May 2020                  | Huddersfield |
@@ -32,7 +34,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 |7/8 October 2020                | Huddersfield |
 |4/5 November 2020               | Huddersfield |
 
-### e-learning courses available throughout the year
+
 
 ### Price
 
