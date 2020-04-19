@@ -28,6 +28,6 @@ There is also the option of completing the Certificate in COPD, rather than the 
 
 | Start date            | Submission | Area           | Cost         |Availability|
 |-----------------------|------------|----------------|--------------|------------ 
-|open availability      |6 months    |National        |£500 inc VAT  |Available   |
+|open availability      |6 months    |National        |£570 inc VAT  |Available   |
 
 Please contact us for further information and an application form info@respiratorymatters.com
