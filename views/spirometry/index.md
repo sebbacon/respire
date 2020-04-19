@@ -120,4 +120,4 @@ This is suitable for anyone performing and interpreting spiromtry who is either 
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
-| 1-2-1 study day                            | £600 inc VAT   | 
+| 1-2-1 study day                            | £600 inc VAT   |
