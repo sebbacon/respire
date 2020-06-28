@@ -19,12 +19,14 @@ There is also the option of completing the Certificate in COPD, rather than the 
 
 | mandatory Study days  | Submission | Area           | Cost         |Availability|
 |-----------------------|------------|----------------|--------------|------------ 
-|02/06/20, 03/06/20     |15/12/20    |Huddersfield    |£570 inv VAT  |Available   |
-|15/06/19, 16/06/19     |05/01/21    |Central London  |£570 inc VAT  |FULL        |
-|15/09/20, 16/09/20     |30/04/21    |Huddersfield    |£570 inc VAT  |Available   | 
-|24/02/21, 25/02/21     |14/08/21    |Huddersfield    |£570 inc VAT  |Available   |
+|15/09/20, 16/09/20     |30/03/21    |Huddersfield    |£570 inc VAT  |Available   | 
+|16/03/21, 17/03/21     |30/09/21    |Huddersfield    |£570 inc VAT  |Available   |
+|08/09/21, 09/09/21     |24/03/22    |Huddersfield    |£570 inv VAT  |Available   |
+|15/03/22, 16/03/22     |30/09/22    |Huddersfield    |£570 inc VAT  |Available   |
 
 ### e-learning courses available throughout the year
+
+Our elearning diploma contains presentations, interactive quizzes, videos,resources and useful links. 1-2-1 Tutorials are available every month througout the course via Zoom, or by telephone if you would prefer.
 
 | Start date            | Submission | Area           | Cost         |Availability|
 |-----------------------|------------|----------------|--------------|------------ 
