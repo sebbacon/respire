@@ -20,10 +20,10 @@ If you are a CCG or private company and would like to commission our services pl
 
 |Study days          |	Area          | Cost       | Availability|
 |--------------------|---------------|-------------|-------------
-| 17/06/20, 18/06/20 | Central London| £300 inc VAT| FULL        |
-| 29/06/20, 30/06/20 | Huddersfield  | £300 inc VAT| Available   |
 | 13/10/20, 14/10/20 | Huddersfield  | £300 inc VAT| Available   |
 | 11/05/21, 12/05/21 | Huddersfield  | £300 inc VAT| Available   |
+| 06/10/21, 07/10/21 | Huddersfield  | £300 inc VAT| Available   |
+| 10/05/22, 11/05/22 | Huddersfield  | £300 inc VAT| Available   |
 
 ### e-learning courses available throughout the year
 
