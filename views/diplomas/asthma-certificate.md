@@ -1,6 +1,6 @@
 ### Certificate in Asthma
 
-This course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics). 
+This course is suitable for Health Care Professionals who are caring for people with asthma (adults and paediatrics). Courses can be completed face to face or via e-learning.
 
 If you are a CCG or private company and would like to commission our services please contact us at info@respiratorymatters.com
 
