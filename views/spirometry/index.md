@@ -1,6 +1,7 @@
 ### Competency certification for diagnostic spirometry
 
-Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards. Courses can be completed face to face or via e-learning.
+Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards. 
+Courses can be completed via distance learning with face to face study days or via e-learning.
 
 Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
@@ -26,13 +27,11 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |
 |--------------------------------|--------------|
-|12/13 May 2020                  | Huddersfield |
-|9/10 June 2020                  | Huddersfield |
-|7/8 July 2020                   | Huddersfield |
 |22/23 September 2020            | Huddersfield |
-|7/8 October 2020                | Huddersfield |
-|4/5 November 2020               | Huddersfield |
-|21/21 January 22021             | Huddersfield |
+|09/10 December 2020             | Huddersfield |
+|02/03 March 2021                | Huddersfield |
+|15/16 June 2021                 | Huddersfield |
+|15/16 September 2021            | Huddersfield |
 
 ### e-learning courses available throughout the year
 
@@ -51,13 +50,11 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         |               
 |--------------------------|--------------|
-|12 May 2020               | Huddersfield |
-|9 June 2020               | Huddersfield |
-|7 July 2020               | Huddersfield |
 |22 September 2020         | Huddersfield |
-|7 October 2020            | Huddersfield |
-|4 November 2020           | Huddersfield |
-|20 January 2021           | Huddersfield |
+|09 December 2020          | Huddersfield |
+|02 March 2021             | Huddersfield |
+|15 June 2021              | Huddersfield |
+|15 September 2021         | Huddersfield |
 
 ### e-learning courses available throughout the year
 
@@ -76,13 +73,11 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         |
 |-----------------------------|--------------|
-|13 May 2020                  | Huddersfield |
-|10 June                      | Huddersfield |
-|8 July                       | Huddersfield |
 |23 September 2020            | Huddersfield |
-|8 October 2020               | Huddersfield |
-|5 November 2020              | Huddersfield |
-|21 February 2021             | Huddersfield |
+|10 December 2020             | Huddersfield |
+|03 March 2021                | Huddersfield |
+|16 June 2021                 | Huddersfield |
+|16 September 2021            | Huddersfield |
 
 ### e-learning courses available throughout the year
 
@@ -101,8 +96,8 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         |
 |--------------------------|--------------|
-|9 July 2020               | Huddersfield |
-|9 December 2020           | Huddersfield |
+| 10 March 2021            | Huddersfield |
+| 22 September 2021        | Huddersfield |
 
 ### e-learning courses available throughout the year
 
