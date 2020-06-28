@@ -1,4 +1,4 @@
-This Respiratory Matters Diploma is suitable for Health Care Professionals who are caring for people with COPD.
+This Respiratory Matters Diploma is suitable for Health Care Professionals who are caring for people with COPD. Courses can be completed via distance learning with two mandatory study days or via e-learning.
 
 The courses measurable learning outcomes have been benchmarked at level 4, using Ofqual’s regulated qualifications Framework (RCF) level descriptors to allow participants to consider the depth of study, difficulty, and level of achievement involved. 
 
