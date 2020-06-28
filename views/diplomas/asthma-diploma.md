@@ -4,7 +4,7 @@ The courses measurable learning outcomes have been benchmarked at level 4, using
 
 The Asthma Diploma has been accredited by the CPD certification service. CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements
 
-There is also the option of completing a Certificate in Asthma, rather than the diploma, which includes formative assessments throughout the study days, but does not require a submission of assignments. Please refer to our training courses.
+There is also the option of completing a Certificate in Asthma, rather than the diploma, which includes formative assessments, but does not require submission of assignments. Please refer to our training courses.
 
 ### Learning outcomes
 
@@ -20,16 +20,18 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 |Study days            | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
-|17/06/20, 18/06/20    | 15/12/20   | Central London | £570 inc VAT  |FULL         |
-|29/06/20, 30/06/20    | 15/01/21   | Huddersfield   | £570 inc VAT  |Available    |
 |13/10/20, 14/10/20    | 30/04/21   | Huddersfield   | £570 inc VAT  |Available    |
 |11/05/21, 12/05/21    | 11/11/21   | Huddersfield   | £570 inc VAT  |Available    |
+|06/10/21, 07/10/21    | 05/05/22   | Huddersfield   | £570 inc VAT  |Available    |
+|10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £570 inv VAT  |Available    |
 
 ### e-learning courses available throughout the year
 
+Our elearning diploma contains presentations, interactive quizzes, videos,resources and useful links. 1-2-1 Tutorials are available every month througout the course via Zoom, or by telephone if you would prefer.
+
 |Start date            | Submission | Area           | Cost          |Availability |
 ---------------------- |------------|----------------|---------------|-------------
-|Open availablility    | 6 months   | National       | £570 inc VAT  |Available    |        |
+|Open availablility    | 6 months   | National       | £570 inc VAT  |Available    |        
 
 
 
