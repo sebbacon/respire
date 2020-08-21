@@ -16,7 +16,7 @@ If you are a CCG or private company and would like to commission our services, p
 
 | Study days          | Area          | Cost        | Availability|
 |---------------------|---------------|-------------|-------------  
-| 15/09/20, 16/09/20  | Huddersfield  | £300 inc VAT| Available   |
+| 15/09/20, 16/09/20  | Huddersfield  | £300 inc VAT| FULL    |   |
 | 16/03/21, 17/03/21  | Huddersfield  | £300 inc VAT| Available   |
 | 08/09/21, 09/09/21  | Huddersfield  | £300 inc VAT| Available   |
 | 16/03/22, 17/03/22  | Huddersfield  | £300 inc VAT| Available   |
