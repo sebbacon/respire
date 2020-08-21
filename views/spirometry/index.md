@@ -22,25 +22,30 @@ We offer a one day course for those people working in an occupational health set
 
 Any healthcare practitioner being asked to perform and interpret spirometry as part of their routine clinical practice should look to complete this certificate. This is a 2 day course.
 
-### Dates
+### Dates face to face courses
 
+| Study days (Full Certificate)  | Area         |Availability|
+|--------------------------------|--------------|------------
+|22/23 September 2020            | Huddersfield | Available  |
+|09/10 December 2020             | Huddersfield | Available  |
+|02/03 March 2021                | Huddersfield | Available  |
+|15/16 June 2021                 | Huddersfield | Available  |
+|15/16 September 2021            | Huddersfield | Available  |
 
-| Study days (Full Certificate)  | Area         |
-|--------------------------------|--------------|
-|22/23 September 2020            | Huddersfield |
-|09/10 December 2020             | Huddersfield |
-|02/03 March 2021                | Huddersfield |
-|15/16 June 2021                 | Huddersfield |
-|15/16 September 2021            | Huddersfield |
+### elearning courses
 
-### e-learning courses available throughout the year
+Our elearning course contains presentations, interactive quizzes, videos,resources and useful links. 
+
+|Start date            | Area     | Availability|
+---------------------- |----------|-------------
+|Open availablility    | National |  Available  |        
 
 ### Price
 
-| Course                                  | Price        |    
-|-----------------------------------------|------------- |
-|  Full Certificate modules               |£300 inc VAT  | 
-
+| Course                          | Price        |    
+|---------------------------------|------------- |
+| Full Certificate face to face   |£350 inc VAT  | 
+| Full Certificate online         |£300 inc VAT  |
 
 ## Foundation Certificate in Spirometry (Performance)
 
@@ -48,22 +53,28 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 ### Dates
 
-| Study days (Foundation)  | Area         |               
-|--------------------------|--------------|
-|22 September 2020         | Huddersfield |
-|09 December 2020          | Huddersfield |
-|02 March 2021             | Huddersfield |
-|15 June 2021              | Huddersfield |
-|15 September 2021         | Huddersfield |
+| Study days (Foundation)  | Area         | Availability|
+|--------------------------|--------------|-------------
+|22 September 2020         | Huddersfield | Available  |
+|09 December 2020          | Huddersfield | Available  |
+|02 March 2021             | Huddersfield | Available  |
+|15 June 2021              | Huddersfield | Available  |
+|15 September 2021         | Huddersfield | Available  |
 
-### e-learning courses available throughout the year
+### e-learning courses 
+
+Our elearning course contains presentations, interactive quizzes, videos,resources and useful links. 
+
+|Start date            | Area     | Availability|
+---------------------- |----------|-------------
+|Open availablility    | National |  Available  |     
 
 ### Price
 
-| Course                                     | Price          | 
-|--------------------------------------------|----------------|
-| Foundation certificate module              | £150 inc VAT   |
-
+| Course                                | Price          | 
+|---------------------------------------|----------------|
+| Foundation certificate face to face   | £175 inc VAT   |
+| Foundation certificate online         | £150 inc VAT   |
 
 ## Interpretation Module
 
@@ -71,22 +82,28 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 ### Dates
 
-| Study days (Interpretation) | Area         |
-|-----------------------------|--------------|
-|23 September 2020            | Huddersfield |
-|10 December 2020             | Huddersfield |
-|03 March 2021                | Huddersfield |
-|16 June 2021                 | Huddersfield |
-|16 September 2021            | Huddersfield |
+| Study days (Interpretation) | Area         | Availability|
+|-----------------------------|--------------|-------------
+|23 September 2020            | Huddersfield | Availabile  |
+|10 December 2020             | Huddersfield | Availabile  |
+|03 March 2021                | Huddersfield | Availabile  |
+|16 June 2021                 | Huddersfield | Availabile  |
+|16 September 2021            | Huddersfield | Availabile  |
 
-### e-learning courses available throughout the year
+### e-learning courses
+
+Our elearning course contains presentations, interactive quizzes, videos,resources and useful links. 
+
+|Start date            | Area     | Availability|
+---------------------- |----------|-------------
+|Open availablility    | National |  Available  |  
 
 ### Price
 
-| Course                                     | Price          | 
-|--------------------------------------------|----------------|
-| Interpretation module                      | £150 inc VAT   |
-
+| Course                                | Price          | 
+|---------------------------------------|----------------|
+| Interpretation module face to face    | £175 inc VAT   |
+| Interpretation module online          | £150 inc VAT   |
 
 ## Spirometry study day for occupational health professionals
 
@@ -94,19 +111,27 @@ This one day course is designed for people performing spirometry in an occupatio
 
 ### Dates. 
 
-| Study day                | Area         |
-|--------------------------|--------------|
-| 10 March 2021            | Huddersfield |
-| 22 September 2021        | Huddersfield |
+| Study day                | Area         | Availability |
+|--------------------------|--------------|--------------
+| 10 March 2021            | Huddersfield | Available    |
+| 22 September 2021        | Huddersfield | Available    |
 
-### e-learning courses available throughout the year
+### e-learning courses 
+
+Our elearning course contains presentations, interactive quizzes, videos,resources and useful links. 
+
+|Start date            | Area     | Availability|
+---------------------- |----------|-------------
+|Open availablility    | National |  Available  |  
+
 
 ### Price
 
-| Course                            | Price          |
-|-----------------------------------|----------------|
-| Spirometry for occupational health| £150 inc VAT   |
- 
+| Course                                         | Price          |
+|------------------------------------------------|----------------|
+| Spirometry for occupational health face to face| £175 inc VAT   |
+| Spirometry for occupational health elearning   | £150 inc VAT   |
+
 ## Spirometry 1-2-1 day
 
 This is suitable for anyone performing and interpreting spiromtry who is either entirely new to the process, or someone who hasn't had any formal training and would like the day as an update opportunity.
