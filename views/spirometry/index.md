@@ -40,8 +40,8 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 | Course                          | Price        |    
 |---------------------------------|------------- |
-| Full Certificate face to face   |£350 inc VAT  | 
-| Full Certificate online         |£300 inc VAT  |
+| Full Certificate face to face   |£350          | 
+| Full Certificate online         |£300          |
 
 ## Foundation Certificate in Spirometry (Performance)
 
@@ -65,8 +65,8 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 | Course                                | Price          | 
 |---------------------------------------|----------------|
-| Foundation certificate face to face   | £175 inc VAT   |
-| Foundation certificate online         | £150 inc VAT   |
+| Foundation certificate face to face   | £175           |
+| Foundation certificate online         | £150           |
 
 ## Interpretation Module
 
@@ -90,8 +90,8 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 | Course                                | Price          | 
 |---------------------------------------|----------------|
-| Interpretation module face to face    | £175 inc VAT   |
-| Interpretation module online          | £150 inc VAT   |
+| Interpretation module face to face    | £175.          |
+| Interpretation module online          | £150           |
 
 ## Spirometry study day for occupational health professionals
 
@@ -116,8 +116,8 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 | Course                                         | Price          |
 |------------------------------------------------|----------------|
-| Spirometry for occupational health face to face| £175 inc VAT   |
-| Spirometry for occupational health elearning   | £150 inc VAT   |
+| Spirometry for occupational health face to face| £175           |
+| Spirometry for occupational health elearning   | £150           |
 
 ## Spirometry 1-2-1 day
 
@@ -132,4 +132,4 @@ This is suitable for anyone performing and interpreting spiromtry who is either 
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
-| 1-2-1 study day                            | £600 inc VAT   |
+| 1-2-1 study day                            | £600           |
