@@ -20,15 +20,15 @@ If you are a CCG or private company and would like to commission our services pl
 
 |Study days          |	Area          | Cost       | Availability|
 |--------------------|---------------|-------------|-------------
-| 11/05/21, 12/05/21 | Huddersfield  | £350 inc VAT| Available   |
-| 06/10/21, 07/10/21 | Huddersfield  | £350 inc VAT| Available   |
-| 10/05/22, 11/05/22 | Huddersfield  | £350 inc VAT| Available   |
+| 11/05/21, 12/05/21 | Huddersfield  | £350        | Available   |
+| 06/10/21, 07/10/21 | Huddersfield  | £350        | Available   |
+| 10/05/22, 11/05/22 | Huddersfield  | £350        | Available   |
 
 ### e-learning courses available throughout the year
 
 |Start date          |	Area          | Cost        | Availability|
 |--------------------|----------------|-------------|-------------
-| Open availability  | National       | £300 inc VAT| Available   |
+| Open availability  | National       | £300        | Available   |
 
 
 Please contact us for further information and an application form at info@respiratorymatters.com
