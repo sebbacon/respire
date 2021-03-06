@@ -26,6 +26,8 @@ If you are a CCG or private company and would like to commission our services pl
 
 ### e-learning courses available throughout the year
 
+Our elearning certificate course is delivered via our VLE and contains presentations with audio, interactive quizzes, videos,resources and useful links. 
+
 |Start date          |	Area          | Cost        | Availability|
 |--------------------|----------------|-------------|-------------
 | Open availability  | National       | £300        | Available   |
