@@ -22,6 +22,7 @@ If you are a CCG or private company and would like to commission our services pl
 |--------------------|---------------|-------------|-------------
 | 06/10/21, 07/10/21 | Huddersfield  | £350        | Available   |
 | 10/05/22, 11/05/22 | Huddersfield  | £350        | Available   |
+| 15/11/22, 16/11/22 | Huddersfield  | £350        | Available   |
 
 ### e-learning courses available throughout the year
 
