@@ -21,7 +21,7 @@ There is also the option of completing the Certificate in COPD, rather than the 
 |-----------------------|------------|----------------|--------------|------------ 
 |08/09/21, 09/09/21     |24/03/22    |Huddersfield    |£670          |Available   |
 |15/03/22, 16/03/22     |30/09/22    |Huddersfield    |£670          |Available   |
-|20/09/22, 21/09/22     |30/02/23    |Huddersfield    |£670          |Available   |
+|27/09/22, 28/09/22     |30/02/23    |Huddersfield    |£670          |Available   |
 
 ### e-learning courses available throughout the year
 
