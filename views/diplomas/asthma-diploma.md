@@ -22,6 +22,7 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 ---------------------- |------------|----------------|---------------|-------------
 |06/10/21, 07/10/21    | 05/05/22   | Huddersfield   | £670          |Available    |
 |10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £670          |Available    |
+|15/11/22, 16/11/22    | 15/05/23   | Huddersfield   | £670          |Available    |
 
 ### e-learning courses available throughout the year
 
