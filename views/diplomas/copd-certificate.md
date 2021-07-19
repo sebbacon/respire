@@ -17,7 +17,7 @@ If you are a CCG or private company and would like to commission our services, p
 | Study days          | Area          | Cost        | Availability|
 |---------------------|---------------|-------------|-------------  
 | 08/09/21, 09/09/21  | Huddersfield  | £350        | Available   |
-| 16/03/22, 17/03/22  | Huddersfield  | £350        | Available   |
+| 15/03/22, 16/03/22  | Huddersfield  | £350        | Available   |
 
 ### e-learning courses available throughout the year
 
