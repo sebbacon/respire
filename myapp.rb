@@ -118,9 +118,13 @@ end
 
 get '/:template' do
   @title = "#{params[:template].gsub('-',' ').titlecase}"
-  body = get_body(params[:template])
-  erb :fullpage_layout do
-    markdown body
+  begin
+    body = get_body(params[:template])
+    erb :fullpage_layout do
+     markdown body
+    end
+  rescue Errno::ENOENT
+    halt(404)
   end
 end
 
