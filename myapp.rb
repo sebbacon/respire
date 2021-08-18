@@ -33,6 +33,9 @@ get %r{/courses/?.*} do
   redirect "/diplomas", 301
 end
 
+not_found do
+  halt(404)
+end
 
 get '/' do
   @title = "Home"
