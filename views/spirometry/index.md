@@ -26,7 +26,7 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |Availability|
 |--------------------------------|--------------|------------
-|1/6 April 2022.                 | Huddersfield | Available  |
+|5/6 April 2022.                 | Huddersfield | Available  |
 |6/7 July 2022.                  | Huddersfield | Available  |
 |10/11 October 2022              | Huddersfield | Available  |
 
