@@ -40,10 +40,10 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                          | Price        |    
-|---------------------------------|------------- |
-| Full Certificate face to face   |£350          | 
-| Full Certificate online         |£300          |
+| Course                          | Price          |    
+|---------------------------------|----------------|
+| Full Certificate face to face   |£326.67 plus VAT| 
+| Full Certificate online         |£280 plus VAT   |
 
 ## Foundation Certificate in Spirometry (Performance)
 
@@ -67,10 +67,10 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                                | Price          | 
-|---------------------------------------|----------------|
-| Foundation certificate face to face   | £175           |
-| Foundation certificate online         | £150           |
+| Course                                | Price            | 
+|---------------------------------------|------------------|
+| Foundation certificate face to face   | £164.07 plus VAT |
+| Foundation certificate online         | £140 plus VAT    |
 
 ## Interpretation Module
 
@@ -94,10 +94,10 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                                | Price          | 
-|---------------------------------------|----------------|
-| Interpretation module face to face    | £175.          |
-| Interpretation module online          | £150           |
+| Course                                | Price           | 
+|---------------------------------------|-----------------|
+| Interpretation module face to face    | £164.07 plus VAT|
+| Interpretation module online          | £140 plus VAT   |
 
 
 ## Paediatric spirometry
@@ -106,9 +106,9 @@ These courses are currently only available as an e-learning course
 
 | Course                                | Price          | 
 |---------------------------------------|----------------|
-| Full certificate online.              | £300           |
-| Foundation module online.             | £150           |
-| Interpretation module online          | £150           |
+| Full certificate online.              | £280 plus VAT  |
+| Foundation module online.             | £140 plus VAT  |
+| Interpretation module online          | £140 plus VAT  |
 
 ## Spirometry study day for occupational health professionals
 
@@ -118,7 +118,6 @@ This one day course is designed for people performing spirometry in an occupatio
 
 | Study day                | Area         | Availability |
 |--------------------------|--------------|--------------
-| 09 December 2021         | Huddersfield | Available    |
 | 15 June 2022.            | Huddersfield | Available    |
 | 9 November 2022.         | Huddersfield | Available.   |
 
@@ -133,10 +132,10 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                                         | Price          |
-|------------------------------------------------|----------------|
-| Spirometry for occupational health face to face| £175           |
-| Spirometry for occupational health elearning   | £150           |
+| Course                                         | Price           |
+|------------------------------------------------|-----------------|
+| Spirometry for occupational health face to face| £164.07 plus VAT|
+| Spirometry for occupational health elearning   | £140 plus VAT   |
 
 ## Spirometry 1-2-1 day
 
@@ -151,4 +150,4 @@ This is suitable for anyone performing and interpreting spiromtry who is either 
 
 | Course                                     | Price          | 
 |--------------------------------------------|----------------|
-| 1-2-1 study day                            | £600           |
+| 1-2-1 study day                            | £600 plus VAT  |
