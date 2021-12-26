@@ -18,19 +18,18 @@ If you are a CCG or private company and would like to commission our services pl
 
 ### Course dates
 
-|Study days          |	Area          | Cost       | Availability|
-|--------------------|---------------|-------------|-------------
-| 06/10/21, 07/10/21 | Huddersfield  | £350        | Available   |
-| 10/05/22, 11/05/22 | Huddersfield  | £350        | Available   |
-| 15/11/22, 16/11/22 | Huddersfield  | £350        | Available   |
+|Study days          |	Area          | Cost        | Availability|
+|--------------------|---------------|--------------|-------------
+| 10/05/22, 11/05/22 | Huddersfield  | £392 inc VAT | Available   |
+| 15/11/22, 16/11/22 | Huddersfield  | £392 inc VAT | Available   |
 
 ### e-learning courses available throughout the year
 
 Our elearning certificate course is delivered via our VLE and contains presentations with audio, interactive quizzes, videos,resources and useful links. 
 
-|Start date          |	Area          | Cost        | Availability|
-|--------------------|----------------|-------------|-------------
-| Open availability  | National       | £300        | Available   |
+|Start date          |	Area          | Cost         | Availability|
+|--------------------|----------------|--------------|-------------
+| Open availability  | National       | £336 inc VAT | Available   |
 
 
 Please contact us for further information and an application form at info@respiratorymatters.com
