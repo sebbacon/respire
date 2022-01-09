@@ -99,6 +99,13 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 | Interpretation module face to face    | £164.07 plus VAT|
 | Interpretation module online          | £140 plus VAT   |
 
+### spirometry update (performance and intepretation)
+
+This course is currently only available as an e-learning course
+
+| Course                                | Price           | 
+|---------------------------------------|-----------------|
+| Spirometry update.                    | £93.33  plus VAT|
 
 ## Paediatric spirometry
 
