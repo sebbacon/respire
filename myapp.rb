@@ -79,7 +79,7 @@ get %r{/spirometry/?([\w-]+)?} do
   page = params[:captures] && params[:captures].first
   if page.nil?
     page = "index"
-    @title = "ARTP Spirometry Courses"
+    @title = "Spirometry and preparation for entry onto the spirometry register (held by ARTP)"
   else
     @title = page
   end
