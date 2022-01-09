@@ -109,7 +109,7 @@ This course is currently only available as an e-learning course
 
 ## Paediatric spirometry
 
-These courses are currently only available as an e-learning course
+This course is currently only available as an e-learning course
 
 | Course                                | Price          | 
 |---------------------------------------|----------------|
