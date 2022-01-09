@@ -117,7 +117,7 @@ This course is currently only available as an e-learning course
 | Foundation module online.             | £140 plus VAT  |
 | Interpretation module online          | £140 plus VAT  |
 
-## Spirometry study day for occupational health professionals
+## Spirometry for occupational health professionals
 
 This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for our foundation course but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes.  
 
