@@ -14,6 +14,7 @@ We have been commissioned by CCG's to lead on the following respiratory projects
 
 •	2018-2019. Salford CCG/Clin-e-cal. Project lead. Digital health innovation
 
+•	2020-2022. Provision of spirometry, COPD and asthma education for several PCN's in the North of England
 
 
 ## Testimonials ##
