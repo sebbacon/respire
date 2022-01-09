@@ -144,7 +144,7 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 | Spirometry for occupational health face to face| £164.07 plus VAT|
 | Spirometry for occupational health elearning   | £140 plus VAT   |
 
-## Spirometry 1-2-1 day
+## Spirometry 1-2-1 study day
 
 This is suitable for anyone performing and interpreting spiromtry who is either entirely new to the process, or someone who hasn't had any formal training and would like the day as an update opportunity.
 
