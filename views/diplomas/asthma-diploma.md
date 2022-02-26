@@ -20,16 +20,16 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 |Study days            | Submission | Area           | Cost             |Availability |
 ---------------------- |------------|----------------|------------------|-------------
-|10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £625.53 plus VAT |Available    |
-|15/11/22, 16/11/22    | 15/05/23   | Huddersfield   | £625.53 plus VAT |Available    |
+|10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £750.40 inc VAT  |Available    |
+|15/11/22, 16/11/22    | 15/05/23   | Huddersfield   | £750.40 inc VAT  |Available    |
 
 ### e-learning courses available throughout the year
 
 Our elearning diploma is delivered via our VLE and contains presentations, interactive quizzes, videos,resources and useful links. 1-2-1 Tutorials are available every month througout the course via Zoom, or by telephone if you would prefer. 
 
-|Start date            | Submission | Area           | Cost          |Availability |
----------------------- |------------|----------------|---------------|-------------
-|Open availablility    | 6 months   | National       | £532 plus VAT |Available    |        
+|Start date            | Submission | Area           | Cost            |Availability |
+---------------------- |------------|----------------|-----------------|-------------
+|Open availablility    | 6 months   | National       | £638.40 inc VAT |Available    |        
 
 
 
