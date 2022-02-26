@@ -19,15 +19,15 @@ There is also the option of completing the Certificate in COPD, rather than the 
 
 | mandatory Study days  | Submission | Area           | Cost            |Availability|
 |-----------------------|------------|----------------|-----------------|------------ 
-|15/03/22, 16/03/22     |30/09/22    |Huddersfield    |£625.33 plus VAT |Available   |
-|27/09/22, 28/09/22     |30/02/23    |Huddersfield    |£625.33 plus VAT |Available   |
+|15/03/22, 16/03/22     |30/09/22    |Huddersfield    |£750.40 inc VAT  |Available   |
+|27/09/22, 28/09/22     |30/02/23    |Huddersfield    |£750.40 inc VAT  |Available   |
 
 ### e-learning courses available throughout the year
 
 Our elearning diploma is delivered via our VLE and contains presentations, interactive quizzes, videos,resources and useful links. 1-2-1 Tutorials are available every month througout the course via Zoom, or by telephone if you would prefer.
 
-| Start date            | Submission | Area           | Cost         |Availability|
-|-----------------------|------------|----------------|--------------|------------ 
-|open availability      |6 months    |National        |£532 Plus VAT |Available   |
+| Start date            | Submission | Area           | Cost          |Availability|
+|-----------------------|------------|----------------|---------------|------------ 
+|open availability      |6 months    |National        |£638.40 inc VAT|Available   |
 
 Please contact us for further information and an application form info@respiratorymatters.com
