@@ -105,7 +105,7 @@ This course is currently only available as an e-learning course
 
 | Course                                | Price           | 
 |---------------------------------------|-----------------|
-| Spirometry update.                    | £135 inc VAT.   |
+| Spirometry update.                    | £112 inc VAT.   |
 
 ## Paediatric spirometry
 
