@@ -16,8 +16,9 @@ If you are a CCG or private company and would like to commission our services, p
 
 | Study days          | Area          | Cost             | Availability|
 |---------------------|---------------|------------------|-------------  
-| 15/03/22, 16/03/22  | Huddersfield  | £392 inc VAT     | Available   |
 | 27/09/22, 28/09/22  | Huddersfield  | £392 inc VAT     | Available   |
+| 14/03/23, 15/03/23  | Huddersfield  | £392 inc VAT     | Available   |
+| 19/09/23, 20/09/23  | Huddersfield  | £392 inc VAT     | Available   |
 
 ### e-learning courses available throughout the year
 
