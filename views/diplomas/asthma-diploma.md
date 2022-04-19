@@ -20,8 +20,9 @@ There is also the option of completing a Certificate in Asthma, rather than the 
 
 |Study days            | Submission | Area           | Cost             |Availability |
 ---------------------- |------------|----------------|------------------|-------------
-|10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £750.40 inc VAT  |Available    |
-|15/11/22, 16/11/22    | 15/05/23   | Huddersfield   | £750.40 inc VAT  |Available    |
+|10/05/22, 11/05/22    | 10/11/22   | Huddersfield   | £750.40 inc VAT  | Available   |
+|15/11/22, 16/11/22    | 15/05/23   | Huddersfield   | £750.40 inc VAT  | Available   |
+|25/4/23, 26/04/23.    | 25/10/23.  | Huddersfield.  | £750.40 inc VAT  | Available.  |
 
 ### e-learning courses available throughout the year
 
