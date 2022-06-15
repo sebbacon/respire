@@ -16,7 +16,7 @@ Please contact us at info@respiratorymatters.com for further information and an 
 
 ## Spirometry for occupational health.
 
-We offer a one day course for those people working in an occupational health setting. The syllabus is similar to our foundation certificate course, but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. As well as the advertised dates, we are able to come and deliver this course in your workplace for which there would be a minimum fee payable.
+We offer a half day or full day course for those people working in an occupational health setting. The syllabus is similar to our foundation certificate course, but the full day course also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. The half day course just covers the performance of spirometry with no interpretation and therefore relevant for technicians. As well as the advertised dates, we are able to come and deliver this course in your workplace for which there would be a minimum fee payable. 
 
 ## Full Certificate in Spirometry
 
@@ -119,13 +119,12 @@ This course is currently only available as an e-learning course
 
 ## Spirometry for occupational health professionals
 
-This one day course is designed for people performing spirometry in an occupational health setting. This course includes the syllabus for our foundation course but also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes.  
+This half day (AM) or full day (AM & PM) course is designed for people performing spirometry in an occupational health setting. The half day course includes the syllabus for our foundation course, and the full day also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. The full day is usually taken by occupational health nurses. Technicians, who are not required to interpret the results can complete the half day course  
 
 ### Dates. 
 
 | Study day                | Area         | Availability |
 |--------------------------|--------------|--------------
-| 15 June 2022.            | Huddersfield | Available    |
 | 9 November 2022.         | Huddersfield | Available.   |
 | 9 May 2023               | Huddersfield | Available.   |
 
@@ -142,8 +141,10 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 | Course                                         | Price           |
 |------------------------------------------------|-----------------|
-| Spirometry for occupational health face to face| £392 inc VAT    |
+| Spirometry for occupational health face to face| £196.88 inc VAT |
 | Spirometry for occupational health elearning   | £168 inc VAT    |
+| Spirometry for technicians face to face.       | £150 inc VAT    |
+| Spirometry for technicians elearning.          | £120 inc VAT   |
 
 ## Spirometry 1-2-1 study day
 
