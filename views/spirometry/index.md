@@ -26,9 +26,9 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |Availability|
 |--------------------------------|--------------|------------
-|6/7 July 2022.                  | Huddersfield | Available  |
-|10/11 October 2022              | Huddersfield | Available  |
-|10/11 January 2023.             | Huddersfield | Available. |
+|10/11 October 2022              | Huddersfield | Full       |
+|10/11 January 2023              | Huddersfield | Available  |
+
 
 ### elearning courses
 
@@ -53,9 +53,9 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 
 | Study days (Foundation)  | Area         | Availability|
 |--------------------------|--------------|-------------
-|6 July 2022               | Huddersfield | Available  |
-|10 October 2022           | Huddersfield | Available  |
-|10th January 2023.        | Huddersfied. | Available. |
+|10 October 2022           | Huddersfield | Full       |
+|10 January 2023           | Huddersfield | Available  |
+
 
 ### e-learning courses 
 
@@ -80,9 +80,9 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         | Availability|
 |-----------------------------|--------------|-------------
-|7 July 2022.                 | Huddersfield | Available  |
-|11 October 2022              | Huddersfield | Available  |
-|11 January 2023              | Huddersfield | Available. |
+|11 October 2022              | Huddersfield | Full       |
+|11 January 2023              | Huddersfield | Available  |
+
 
 ### e-learning courses
 
