@@ -22,7 +22,7 @@ If you are a CCG or private company and would like to commission our services pl
 |--------------------|---------------|-----------------|-------------
 | 15/11/22, 16/11/22 | Huddersfield  | £392 inc VAT    | Available   |
 | 25/04/23, 26/04/23 | Huddersfield  | £392 inc VAT.   | Available   |
-
+| 14/11/23, 15/11/23 | Huddersfield  | £392 inc VAT.   | Available.  |
 
 ### e-learning courses available throughout the year
 
