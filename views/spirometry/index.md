@@ -5,7 +5,7 @@ Courses can be completed via distance learning with face to face study days or v
 
 Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
-If you are a CCG, or private company and would like to commission our services, please contact us on info@respiratorymatters.com to discuss your requirements. Discounts are available.
+If you are a CCG, ICB, PCN or private company and would like to commission our services, please contact us on info@respiratorymatters.com to discuss your requirements. Discounts are available.
 
 
 ## Spirometry courses
@@ -18,7 +18,7 @@ Please contact us at info@respiratorymatters.com for further information and an 
 
 We offer a half day or full day course for those people working in an occupational health setting. The syllabus is similar to our foundation certificate course, but the full day course also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. The half day course just covers the performance of spirometry with no interpretation and therefore relevant for technicians. As well as the advertised dates, we are able to come and deliver this course in your workplace for which there would be a minimum fee payable. 
 
-## Full Certificate in Spirometry
+## Full Certificate in Spirometry (adults)
 
 Any healthcare practitioner being asked to perform and interpret spirometry as part of their routine clinical practice should look to complete this certificate. This is a 2 day course.
 
@@ -26,7 +26,6 @@ Any healthcare practitioner being asked to perform and interpret spirometry as p
 
 | Study days (Full Certificate)  | Area         |Availability|
 |--------------------------------|--------------|------------
-|10/11 October 2022              | Huddersfield | Full       |
 |10/11 January 2023              | Huddersfield | Available  |
 |17/18 April 2023                | Huddersfield.| Available. |
 |5/6 July 2023                   | Huddersfield | Available  |
@@ -42,10 +41,12 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                          | Price          |    
-|---------------------------------|----------------|
-| Full Certificate face to face   |£392 inc VAT.   | 
-| Full Certificate online         |£336 inc VAT.   |
+| Course                           | Price          |    
+|----------------------------------|----------------|
+| Full Certificate face to face    |£392 inc VAT.   | 
+| Full Certificate online          |£336 inc VAT.   |
+| Adults and paediatrics online    |£392 inc VAT.   |
+| Adults F2F and paediatrics online|£475 inc VAT.   |
 
 ## Foundation Certificate in Spirometry (Performance)
 
@@ -54,12 +55,11 @@ This certificate is suitable for practitioners who regularly perfrom spirometry 
 ### Dates
 
 | Study days (Foundation)  | Area         | Availability|
-|--------------------------|--------------|-------------
-|10 October 2022           | Huddersfield | Full       |
-|10 January 2023           | Huddersfield | Available  |
-|17 April 2023.            | Huddersfield | Available  |
-|5 July 2023.              | Hudersfield. | Available. |
-|9 october 2023.           | Huddersfield | Available. |
+|--------------------------|--------------|-------------|
+|10 January 2023           | Huddersfield | Available   |
+|17 April 2023.            | Huddersfield | Available   |
+|5 July 2023.              | Hudersfield. | Available.  |
+|9 october 2023.           | Huddersfield | Available.  |
 
 ### e-learning courses 
 
@@ -84,7 +84,6 @@ This certificate is suitable for those people who are interpreting spirometry bu
 
 | Study days (Interpretation) | Area         | Availability|
 |-----------------------------|--------------|-------------
-|11 October 2022              | Huddersfield | Full       |
 |11 January 2023              | Huddersfield | Available  |
 |18 April 2023.               | Huddersfield | Available. |
 |6 July 2023                  | Huddersfield | Available  |
@@ -122,6 +121,9 @@ This course is currently only available as an e-learning course
 | Full certificate online.              | £336 inc VAT   |
 | Foundation module online.             | £168 inc VAT   |
 | Interpretation module online          | £168 inc VAT   |
+| Paediatrics and adults online         |£392 inc VAT.   |
+| Paediatrics online and adults F2F     |£475 inc VAT.   |
+
 
 ## Spirometry for occupational health professionals
 
