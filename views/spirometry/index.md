@@ -1,6 +1,6 @@
 ### ARTP competency assessment and entry onto the spirometry register
 
-Whilst it is not a mandatory requirement, if delegates wish to complete the ARTP competencies and be placed on the National Register, our course content will prepare you for this, and can be included as part of our training package. You can also complete the course first and then enrol yourself with ARTP at a later date. We would still support you through the process.
+Whilst it is NOT a mandatory requirement, if delegates wish to complete the ARTP competencies and be placed on the National Register, our course content will prepare you for this, and can be included as part of our training package. You can also complete the course first and then enrol yourself with ARTP at a later date. We would still support you through the process.
 
 Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure which are independant of those set by ARTP. The course content follows ARTP quality assurance standards. 
 
