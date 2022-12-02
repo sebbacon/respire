@@ -49,6 +49,7 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 | Adults and paediatrics online    |£392 inc VAT.                    | £632 inc VAT                  |
 | Adults F2F and paediatrics online|£475 inc VAT.                    | £715 inc VAT                  |
 
+
 ## Foundation Certificate in Spirometry (Performance)
 
 This certificate is suitable for practitioners who regularly perfrom spirometry WITHOUT interpreting the results. 
