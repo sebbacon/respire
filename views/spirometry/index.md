@@ -2,7 +2,7 @@
 
 Whilst it is not a mandatory requirement, if delegates wish to complete the ARTP competencies and be placed on the National Register, our course content will prepare you for this, and can be included as part of our training package. 
 
-Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. These competencies are independant of those set by ARTP. The course content follows ARTP quality assurance standards. 
+Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure which are independant of those set by ARTP. The course content follows ARTP quality assurance standards. 
 
 Courses can be completed via distance learning with face to face study days or via e-learning with optional ZOOM tutorials.
 
@@ -42,7 +42,7 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                           | Price without ARTP certification|  price with ARTP certification| 
+| Course                           | Price without ARTP certification|  Price with ARTP certification| 
 |----------------------------------|---------------------------------|--------------------------------
 | Full Certificate face to face    |£392 inc VAT                     | £617 inc VAT                  |
 | Full Certificate online          |£336 inc VAT                     | £561 inc VAT                  |
@@ -100,41 +100,40 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                                | Price           | 
-|---------------------------------------|-----------------|
-| Interpretation module face to face    | £196.88 inc VAT |
-| Interpretation module online          | £168 inc VAT    |
+| Course                                | Price without ARTP certification| Price with ARTP certification |         
+|---------------------------------------|----------------------------------|------------------------------|
+| Interpretation module face to face    | £196.88 inc VAT                  | £371.88 inc VAT              |
+| Interpretation module online          | £168 inc VAT                     | £343 inc VAT.                |
 
 ## Spirometry update (performance and intepretation.)
 
 This course is currently only available as an e-learning course
 
-| Course                                | Price           | 
-|---------------------------------------|-----------------|
-| Spirometry update.                    | £112 inc VAT.   |
+| Course                                | Price  without ARTP certification|  Price with ARTP certification (full) |
+|---------------------------------------|----------------------------------|---------------------------------------|
+| Spirometry update.                    | £112 inc VAT.                    | £352
 
 ## Paediatric spirometry
 
 This course is currently only available as an e-learning course
 
-| Course                                | Price          | 
-|---------------------------------------|----------------|
-| Full certificate online.              | £336 inc VAT   |
-| Foundation module online.             | £168 inc VAT   |
-| Interpretation module online          | £168 inc VAT   |
-| Paediatrics and adults online         |£392 inc VAT.   |
-| Paediatrics online and adults F2F     |£475 inc VAT.   |
+| Course                                | Price without ARTP certification| Price with ARTP certification |         
+|---------------------------------------|---------------------------------|-------------------------------|
+| Full certificate online.              | £336 inc VAT                    | £561 inc VAT                  |
+| Foundation module online.             | £168 inc VAT                    | £393 inc VAT                  |
+| Interpretation module online          | £168 inc VAT                    | £343 inc VAT                  |
+| Paediatrics and adults online         | £392 inc VAT.                   | £617 inc VAT                  |
+| Paediatrics online and adults F2F     | £475 inc VAT.                   | £715 inc VAT                  |
 
 
 ## Spirometry for occupational health professionals
 
-This half day (AM) or full day (AM & PM) course is designed for people performing spirometry in an occupational health setting. The half day course includes the syllabus for our foundation course, and the full day also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. The full day is usually taken by occupational health nurses. Technicians, who are not required to interpret the results can complete the half day course  
+This half day (AM) or full day (AM & PM) course is designed for people performing spirometry in an occupational health setting. The half day course includes the syllabus for our foundation course, and the full day also includes additional information, including interpretation of spirometry traces that have been performed for screening purposes. The full day is usually taken by occupational health nurses. Technicians, who are not required to interpret the results can complete the half day course. There is currently no ARTP specific occupational health competencies however, following this course, delegates would be able to complete the ARTP foundation (performing) competencies 
 
 ### Dates. 
 
 | Study day                | Area         | Availability |
 |--------------------------|--------------|--------------
-| 9 November 2022.         | Huddersfield | Available.   |
 | 9 May 2023               | Huddersfield | Available.   |
 | 4 October 2023.          | Huddersfield | Available.   |
 
@@ -150,12 +149,12 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                                         | Price           |
-|------------------------------------------------|-----------------|
-| Spirometry for occupational health face to face| £196.88 inc VAT |
-| Spirometry for occupational health elearning   | £168 inc VAT    |
-| Spirometry for technicians face to face.       | £150 inc VAT    |
-| Spirometry for technicians elearning.          | £120 inc VAT   |
+| Course                                         | Price without ARTP competencies | Price with ARTP competencies|
+|------------------------------------------------|---------------------------------|-----------------------------
+| Spirometry for occupational health face to face| £196.88 inc VAT                 | £421.88 inc VAT             |
+| Spirometry for occupational health elearning   | £168 inc VAT                    | £393 inc VAT                |
+| Spirometry for technicians face to face.       | £150 inc VAT                    | £375 inc VAT                |
+| Spirometry for technicians elearning.          | £120 inc VAT                    | £345 inc VAT                |
 
 ## Spirometry 1-2-1 study day
 
