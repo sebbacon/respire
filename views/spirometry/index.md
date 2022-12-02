@@ -9,7 +9,7 @@ Courses can be completed via distance learning with face to face study days or v
 If you are a CCG, ICB, PCN or private company and would like to commission our services, please contact us on info@respiratorymatters.com to discuss your requirements. Discounts are available.
 
 
-## Spirometry courses
+## Spirometry courses (Adults and paediatric courses available)
  
 Our spirometry courses are suitable for any health care professional involved in the performance and/or interpretation of spirometry. This includes those working in Primary Care, Secondary Care, Physiologists, technicians and those working in an occupational health setting.  
 
