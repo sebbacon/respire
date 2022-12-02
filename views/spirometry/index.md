@@ -1,9 +1,10 @@
-### Competency certification for diagnostic spirometry
+### ARTP competency assessment and entry onto the spirometry register
 
-Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. The course content follows ARTP quality assurance standards. 
+Whilst it is not a mandatory requirement, if delegates wish to complete the ARTP competencies and be placed on the National Register, our course content will prepare you for this, and can be included as part of our training package. 
+
+Our spirometry courses have all been accredited by the CPD certification service. Accredited CPD training means the learning activity has reached the required Continuing Professional Development standards and benchmarks. The learning value has been scrutinised to ensure integrity and quality. The CPD Certification Service provides recognised independent CPD accreditation compatible with global CPD requirements. Competency assessments are included within our course structure, and delegates will receive certification once the assessments are successfully completed. These competencies are independant of those set by ARTP. The course content follows ARTP quality assurance standards. 
+
 Courses can be completed via distance learning with face to face study days or via e-learning with optional ZOOM tutorials.
-
-Whilst it is not a requirement of the NMC, or MDU, if delegates wish to be placed on the National Register, which is held by ARTP, our course content will prepare you for this. Further details will be provided during the study day(s).
 
 If you are a CCG, ICB, PCN or private company and would like to commission our services, please contact us on info@respiratorymatters.com to discuss your requirements. Discounts are available.
 
@@ -41,12 +42,12 @@ Our elearning course contains presentations, interactive quizzes, videos,resourc
 
 ### Price
 
-| Course                           | Price          |    
-|----------------------------------|----------------|
-| Full Certificate face to face    |£392 inc VAT.   | 
-| Full Certificate online          |£336 inc VAT.   |
-| Adults and paediatrics online    |£392 inc VAT.   |
-| Adults F2F and paediatrics online|£475 inc VAT.   |
+| Course                           | Price without ARTP certification|  price with ARTP certification| 
+|----------------------------------|---------------------------------|--------------------------------
+| Full Certificate face to face    |£392 inc VAT                     | £617 inc VAT                  |
+| Full Certificate online          |£336 inc VAT                     | £561 inc VAT                  |
+| Adults and paediatrics online    |£392 inc VAT.                    | £632 inc VAT                  |
+| Adults F2F and paediatrics online|£475 inc VAT.                    | £715 inc VAT                  |
 
 ## Foundation Certificate in Spirometry (Performance)
 
